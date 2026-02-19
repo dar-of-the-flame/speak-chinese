@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "g1_1",
+    "pattern": "S + 是 + N",
+    "explanation": "Глагол-связка «быть». Соединяет подлежащее и именное сказуемое.",
+    "examples": [
+      {
+        "chinese": "我是学生。",
+        "pinyin": "Wǒ shì xuésheng.",
+        "translation": "Я студент."
+      },
+      {
+        "chinese": "他是老师。",
+        "pinyin": "Tā shì lǎoshī.",
+        "translation": "Он учитель."
+      },
+      {
+        "chinese": "这是书。",
+        "pinyin": "Zhè shì shū.",
+        "translation": "Это книга."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_2",
+    "pattern": "S + 很 + Adj",
+    "explanation": "Сказуемое, выраженное прилагательным. Прилагательное не требует глагола-связки.",
+    "examples": [
+      {
+        "chinese": "她很高兴。",
+        "pinyin": "Tā hěn gāoxìng.",
+        "translation": "Она очень рада."
+      },
+      {
+        "chinese": "这本书很好。",
+        "pinyin": "Zhè běn shū hěn hǎo.",
+        "translation": "Эта книга очень хорошая."
+      },
+      {
+        "chinese": "今天很热。",
+        "pinyin": "Jīntiān hěn rè.",
+        "translation": "Сегодня очень жарко."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_3",
+    "pattern": "S + 在 + Place",
+    "explanation": "Глагол «находиться в/на». Указывает на местоположение.",
+    "examples": [
+      {
+        "chinese": "我在家。",
+        "pinyin": "Wǒ zài jiā.",
+        "translation": "Я дома."
+      },
+      {
+        "chinese": "他在北京。",
+        "pinyin": "Tā zài Běijīng.",
+        "translation": "Он в Пекине."
+      },
+      {
+        "chinese": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "translation": "Книга на столе."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_4",
+    "pattern": "S + 有 + N",
+    "explanation": "Глагол «иметь, обладать», также используется для указания на наличие (есть).",
+    "examples": [
+      {
+        "chinese": "我有一个姐姐。",
+        "pinyin": "Wǒ yǒu yí gè jiějie.",
+        "translation": "У меня есть старшая сестра."
+      },
+      {
+        "chinese": "他没有钱。",
+        "pinyin": "Tā méiyǒu qián.",
+        "translation": "У него нет денег."
+      },
+      {
+        "chinese": "学校有很多学生。",
+        "pinyin": "Xuéxiào yǒu hěnduō xuésheng.",
+        "translation": "В школе много учеников."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_5",
+    "pattern": "S + 没有 + N",
+    "explanation": "Отрицательная форма наличия: «не иметь», «нет».",
+    "examples": [
+      {
+        "chinese": "我没有哥哥。",
+        "pinyin": "Wǒ méiyǒu gēge.",
+        "translation": "У меня нет старшего брата."
+      },
+      {
+        "chinese": "他没有时间。",
+        "pinyin": "Tā méiyǒu shíjiān.",
+        "translation": "У него нет времени."
+      },
+      {
+        "chinese": "这里没有水。",
+        "pinyin": "Zhèlǐ méiyǒu shuǐ.",
+        "translation": "Здесь нет воды."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_6",
+    "pattern": "S + 会 + V",
+    "explanation": "Модальный глагол «уметь, мочь (научиться)».",
+    "examples": [
+      {
+        "chinese": "我会说汉语。",
+        "pinyin": "Wǒ huì shuō Hànyǔ.",
+        "translation": "Я умею говорить по-китайски."
+      },
+      {
+        "chinese": "他不会开车。",
+        "pinyin": "Tā bú huì kāichē.",
+        "translation": "Он не умеет водить машину."
+      },
+      {
+        "chinese": "你会游泳吗？",
+        "pinyin": "Nǐ huì yóuyǒng ma?",
+        "translation": "Ты умеешь плавать?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_7",
+    "pattern": "S + 能 + V",
+    "explanation": "Модальный глагол «мочь (физическая возможность, разрешение)».",
+    "examples": [
+      {
+        "chinese": "我能帮你。",
+        "pinyin": "Wǒ néng bāng nǐ.",
+        "translation": "Я могу тебе помочь."
+      },
+      {
+        "chinese": "今天他能来吗？",
+        "pinyin": "Jīntiān tā néng lái ma?",
+        "translation": "Он может прийти сегодня?"
+      },
+      {
+        "chinese": "我能听懂一点儿。",
+        "pinyin": "Wǒ néng tīngdǒng yìdiǎnr.",
+        "translation": "Я могу немного понять на слух."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_8",
+    "pattern": "S + 想 + V",
+    "explanation": "Хотеть что-то сделать, желать.",
+    "examples": [
+      {
+        "chinese": "我想喝茶。",
+        "pinyin": "Wǒ xiǎng hē chá.",
+        "translation": "Я хочу выпить чаю."
+      },
+      {
+        "chinese": "他想去中国。",
+        "pinyin": "Tā xiǎng qù Zhōngguó.",
+        "translation": "Он хочет поехать в Китай."
+      },
+      {
+        "chinese": "你想吃什么？",
+        "pinyin": "Nǐ xiǎng chī shénme?",
+        "translation": "Что ты хочешь съесть?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_9",
+    "pattern": "S + 要 + V/N",
+    "explanation": "Намереваться, собираться; также «хотеть, нуждаться».",
+    "examples": [
+      {
+        "chinese": "我要买电脑。",
+        "pinyin": "Wǒ yào mǎi diànnǎo.",
+        "translation": "Я собираюсь купить компьютер."
+      },
+      {
+        "chinese": "你要吃什么？",
+        "pinyin": "Nǐ yào chī shénme?",
+        "translation": "Что ты будешь есть?"
+      },
+      {
+        "chinese": "他要回家。",
+        "pinyin": "Tā yào huíjiā.",
+        "translation": "Он собирается домой."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_10",
+    "pattern": "V + 不 + V ? (A-not-A вопрос)",
+    "explanation": "Общий вопрос с повтором глагола (утвердительно-отрицательная форма).",
+    "examples": [
+      {
+        "chinese": "你是不是老师？",
+        "pinyin": "Nǐ shì bú shì lǎoshī?",
+        "translation": "Ты учитель?"
+      },
+      {
+        "chinese": "他来不来？",
+        "pinyin": "Tā lái bù lái?",
+        "translation": "Он придёт?"
+      },
+      {
+        "chinese": "你吃不吃苹果？",
+        "pinyin": "Nǐ chī bù chī píngguǒ?",
+        "translation": "Ты будешь есть яблоко?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_11",
+    "pattern": "S + 在 + V",
+    "explanation": "Длительное действие (процесс) в настоящем моменте.",
+    "examples": [
+      {
+        "chinese": "我在看电视。",
+        "pinyin": "Wǒ zài kàn diànshì.",
+        "translation": "Я смотрю телевизор."
+      },
+      {
+        "chinese": "他在睡觉。",
+        "pinyin": "Tā zài shuìjiào.",
+        "translation": "Он спит."
+      },
+      {
+        "chinese": "妈妈在做饭。",
+        "pinyin": "Māma zài zuòfàn.",
+        "translation": "Мама готовит."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_12",
+    "pattern": "S + 正在 + V",
+    "explanation": "Более акцентированное указание на действие прямо сейчас.",
+    "examples": [
+      {
+        "chinese": "我正在吃饭。",
+        "pinyin": "Wǒ zhèngzài chīfàn.",
+        "translation": "Я сейчас ем."
+      },
+      {
+        "chinese": "他正在睡觉。",
+        "pinyin": "Tā zhèngzài shuìjiào.",
+        "translation": "Он сейчас спит."
+      },
+      {
+        "chinese": "孩子们正在玩。",
+        "pinyin": "Háizimen zhèngzài wán.",
+        "translation": "Дети сейчас играют."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_13",
+    "pattern": "S + V + 了",
+    "explanation": "Частица завершённости действия или нового состояния.",
+    "examples": [
+      {
+        "chinese": "我吃饭了。",
+        "pinyin": "Wǒ chīfàn le.",
+        "translation": "Я поел."
+      },
+      {
+        "chinese": "他走了。",
+        "pinyin": "Tā zǒu le.",
+        "translation": "Он ушёл."
+      },
+      {
+        "chinese": "天黑了。",
+        "pinyin": "Tiān hēi le.",
+        "translation": "Стемнело."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_14",
+    "pattern": "S + 没(有) + V",
+    "explanation": "Отрицание завершённого действия (прошедшее время).",
+    "examples": [
+      {
+        "chinese": "我没去。",
+        "pinyin": "Wǒ méi qù.",
+        "translation": "Я не ходил."
+      },
+      {
+        "chinese": "他没有吃饭。",
+        "pinyin": "Tā méiyǒu chīfàn.",
+        "translation": "Он не ел."
+      },
+      {
+        "chinese": "昨天没下雨。",
+        "pinyin": "Zuótiān méi xiàyǔ.",
+        "translation": "Вчера не было дождя."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_15",
+    "pattern": "S + 过 + V (опыт в прошлом)",
+    "explanation": "Частица опыта: указывает, что действие когда-либо происходило.",
+    "examples": [
+      {
+        "chinese": "我去过北京。",
+        "pinyin": "Wǒ qùguò Běijīng.",
+        "translation": "Я бывал в Пекине."
+      },
+      {
+        "chinese": "你看过这个电影吗？",
+        "pinyin": "Nǐ kànguò zhège diànyǐng ma?",
+        "translation": "Ты видел этот фильм?"
+      },
+      {
+        "chinese": "他没吃过羊肉。",
+        "pinyin": "Tā méi chīguò yángròu.",
+        "translation": "Он не пробовал баранину."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_16",
+    "pattern": "S + 是…的",
+    "explanation": "Выделительная конструкция: акцент на времени, месте, способе действия.",
+    "examples": [
+      {
+        "chinese": "我是昨天来的。",
+        "pinyin": "Wǒ shì zuótiān lái de.",
+        "translation": "Я приехал вчера."
+      },
+      {
+        "chinese": "他是坐飞机去的。",
+        "pinyin": "Tā shì zuò fēijī qù de.",
+        "translation": "Он полетел на самолёте."
+      },
+      {
+        "chinese": "这本书是在网上买的。",
+        "pinyin": "Zhè běn shū shì zài wǎngshàng mǎi de.",
+        "translation": "Эта книга куплена в интернете."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_17",
+    "pattern": "S + 可以 + V",
+    "explanation": "Можно, разрешено.",
+    "examples": [
+      {
+        "chinese": "我可以进来吗？",
+        "pinyin": "Wǒ kěyǐ jìnlái ma?",
+        "translation": "Можно мне войти?"
+      },
+      {
+        "chinese": "这里可以停车。",
+        "pinyin": "Zhèlǐ kěyǐ tíngchē.",
+        "translation": "Здесь можно парковаться."
+      },
+      {
+        "chinese": "你可以用我的笔。",
+        "pinyin": "Nǐ kěyǐ yòng wǒ de bǐ.",
+        "translation": "Можешь воспользоваться моей ручкой."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_18",
+    "pattern": "S + 觉得 + …",
+    "explanation": "Выражение мнения, ощущения.",
+    "examples": [
+      {
+        "chinese": "我觉得很好。",
+        "pinyin": "Wǒ juéde hěn hǎo.",
+        "translation": "Я считаю, что хорошо."
+      },
+      {
+        "chinese": "你觉得怎么样？",
+        "pinyin": "Nǐ juéde zěnmeyàng?",
+        "translation": "Как тебе кажется?"
+      },
+      {
+        "chinese": "她觉得有点儿累。",
+        "pinyin": "Tā juéde yǒudiǎnr lèi.",
+        "translation": "Она чувствует себя немного уставшей."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_19",
+    "pattern": "S + 有点儿 + Adj",
+    "explanation": "Немного (с отрицательным или нейтральным оттенком).",
+    "examples": [
+      {
+        "chinese": "我今天有点儿累。",
+        "pinyin": "Wǒ jīntiān yǒudiǎnr lèi.",
+        "translation": "Я сегодня немного устал."
+      },
+      {
+        "chinese": "这个东西有点儿贵。",
+        "pinyin": "Zhège dōngxi yǒudiǎnr guì.",
+        "translation": "Эта вещь дороговата."
+      },
+      {
+        "chinese": "他有点儿不高兴。",
+        "pinyin": "Tā yǒudiǎnr bù gāoxìng.",
+        "translation": "Он немного недоволен."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_20",
+    "pattern": "S + 太 + Adj + 了",
+    "explanation": "Слишком; также для выражения сильной степени (восхищение/недовольство).",
+    "examples": [
+      {
+        "chinese": "太好了！",
+        "pinyin": "Tài hǎo le!",
+        "translation": "Замечательно!"
+      },
+      {
+        "chinese": "太大了。",
+        "pinyin": "Tài dà le.",
+        "translation": "Слишком большой."
+      },
+      {
+        "chinese": "太贵了！",
+        "pinyin": "Tài guì le!",
+        "translation": "Слишком дорого!"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_21",
+    "pattern": "S + 怎么 + V ?",
+    "explanation": "Как? Каким образом?",
+    "examples": [
+      {
+        "chinese": "这个字怎么写？",
+        "pinyin": "Zhège zì zěnme xiě?",
+        "translation": "Как пишется этот иероглиф?"
+      },
+      {
+        "chinese": "你怎么去？",
+        "pinyin": "Nǐ zěnme qù?",
+        "translation": "Как ты поедешь?"
+      },
+      {
+        "chinese": "这个问题怎么解决？",
+        "pinyin": "Zhège wèntí zěnme jiějué?",
+        "translation": "Как решить эту проблему?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_22",
+    "pattern": "S + 为什么 + V ?",
+    "explanation": "Почему?",
+    "examples": [
+      {
+        "chinese": "你为什么不来？",
+        "pinyin": "Nǐ wèishénme bù lái?",
+        "translation": "Почему ты не пришёл?"
+      },
+      {
+        "chinese": "他为什么迟到？",
+        "pinyin": "Tā wèishénme chídào?",
+        "translation": "Почему он опоздал?"
+      },
+      {
+        "chinese": "为什么不试试？",
+        "pinyin": "Wèishénme bù shìshi?",
+        "translation": "Почему бы не попробовать?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_23",
+    "pattern": "S + 几 + M + N ?",
+    "explanation": "Сколько? (для чисел, обычно до 10).",
+    "examples": [
+      {
+        "chinese": "你几岁？",
+        "pinyin": "Nǐ jǐ suì?",
+        "translation": "Сколько тебе лет?"
+      },
+      {
+        "chinese": "你有几个哥哥？",
+        "pinyin": "Nǐ yǒu jǐ gè gēge?",
+        "translation": "Сколько у тебя старших братьев?"
+      },
+      {
+        "chinese": "现在几点？",
+        "pinyin": "Xiànzài jǐ diǎn?",
+        "translation": "Который сейчас час?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_24",
+    "pattern": "S + 多少 + N ?",
+    "explanation": "Сколько? (для больших чисел, цен).",
+    "examples": [
+      {
+        "chinese": "多少钱？",
+        "pinyin": "Duōshǎo qián?",
+        "translation": "Сколько стоит?"
+      },
+      {
+        "chinese": "你们班有多少学生？",
+        "pinyin": "Nǐmen bān yǒu duōshǎo xuésheng?",
+        "translation": "Сколько учеников в вашем классе?"
+      },
+      {
+        "chinese": "他有多少本书？",
+        "pinyin": "Tā yǒu duōshǎo běn shū?",
+        "translation": "Сколько у него книг?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_25",
+    "pattern": "S + 多 + Adj ?",
+    "explanation": "Насколько? Какой степени?",
+    "examples": [
+      {
+        "chinese": "你多大？",
+        "pinyin": "Nǐ duō dà?",
+        "translation": "Сколько тебе лет?"
+      },
+      {
+        "chinese": "这个房子多大？",
+        "pinyin": "Zhège fángzi duō dà?",
+        "translation": "Насколько большой этот дом?"
+      },
+      {
+        "chinese": "这条路多长？",
+        "pinyin": "Zhè tiáo lù duō cháng?",
+        "translation": "Какой длины эта дорога?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_26",
+    "pattern": "S + 哪 + N ?",
+    "explanation": "Который (из)?",
+    "examples": [
+      {
+        "chinese": "你是哪国人？",
+        "pinyin": "Nǐ shì nǎ guó rén?",
+        "translation": "Из какой ты страны?"
+      },
+      {
+        "chinese": "你喜欢哪本书？",
+        "pinyin": "Nǐ xǐhuān nǎ běn shū?",
+        "translation": "Какая книга тебе нравится?"
+      },
+      {
+        "chinese": "哪家餐厅好吃？",
+        "pinyin": "Nǎ jiā cāntīng hǎochī?",
+        "translation": "Какой ресторан вкусный?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_27",
+    "pattern": "S + 什么 + N ?",
+    "explanation": "Что за? Какой?",
+    "examples": [
+      {
+        "chinese": "这是什么？",
+        "pinyin": "Zhè shì shénme?",
+        "translation": "Что это?"
+      },
+      {
+        "chinese": "你叫什么名字？",
+        "pinyin": "Nǐ jiào shénme míngzi?",
+        "translation": "Как тебя зовут?"
+      },
+      {
+        "chinese": "他做什么工作？",
+        "pinyin": "Tā zuò shénme gōngzuò?",
+        "translation": "Кем он работает?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_28",
+    "pattern": "S + 谁 ?",
+    "explanation": "Кто?",
+    "examples": [
+      {
+        "chinese": "他是谁？",
+        "pinyin": "Tā shì shéi?",
+        "translation": "Кто он?"
+      },
+      {
+        "chinese": "谁来了？",
+        "pinyin": "Shéi lái le?",
+        "translation": "Кто пришёл?"
+      },
+      {
+        "chinese": "你找谁？",
+        "pinyin": "Nǐ zhǎo shéi?",
+        "translation": "Кого ты ищешь?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_29",
+    "pattern": "S + 好吗？ / 可以吗？",
+    "explanation": "Вопрос-предложение, просьба согласия.",
+    "examples": [
+      {
+        "chinese": "我们一起去，好吗？",
+        "pinyin": "Wǒmen yìqǐ qù, hǎo ma?",
+        "translation": "Пойдём вместе, хорошо?"
+      },
+      {
+        "chinese": "我坐这儿，可以吗？",
+        "pinyin": "Wǒ zuò zhèr, kěyǐ ma?",
+        "translation": "Я сяду здесь, можно?"
+      },
+      {
+        "chinese": "休息一下，好吗？",
+        "pinyin": "Xiūxí yíxià, hǎo ma?",
+        "translation": "Отдохни немного, ладно?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_30",
+    "pattern": "S + 是不是 + … ?",
+    "explanation": "Уточнительный вопрос: «ведь…?»",
+    "examples": [
+      {
+        "chinese": "你是不是中国人？",
+        "pinyin": "Nǐ shì bú shì Zhōngguó rén?",
+        "translation": "Ты ведь китаец?"
+      },
+      {
+        "chinese": "他是不是老师？",
+        "pinyin": "Tā shì bú shì lǎoshī?",
+        "translation": "Он ведь учитель?"
+      },
+      {
+        "chinese": "这本书是不是你的？",
+        "pinyin": "Zhè běn shū shì bú shì nǐ de?",
+        "translation": "Эта книга ведь твоя?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_31",
+    "pattern": "S + V + 了 + 吗 ?",
+    "explanation": "Вопрос о завершённости действия.",
+    "examples": [
+      {
+        "chinese": "你吃饭了吗？",
+        "pinyin": "Nǐ chīfàn le ma?",
+        "translation": "Ты поел?"
+      },
+      {
+        "chinese": "他来了吗？",
+        "pinyin": "Tā lái le ma?",
+        "translation": "Он пришёл?"
+      },
+      {
+        "chinese": "作业做完了吗？",
+        "pinyin": "Zuòyè zuò wán le ma?",
+        "translation": "Домашнее задание сделано?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_32",
+    "pattern": "S + 要…了",
+    "explanation": "Скоро произойдёт (неизбежность).",
+    "examples": [
+      {
+        "chinese": "要下雨了。",
+        "pinyin": "Yào xiàyǔ le.",
+        "translation": "Скоро пойдёт дождь."
+      },
+      {
+        "chinese": "火车要开了。",
+        "pinyin": "Huǒchē yào kāi le.",
+        "translation": "Поезд скоро отправится."
+      },
+      {
+        "chinese": "他要毕业了。",
+        "pinyin": "Tā yào bìyè le.",
+        "translation": "Он скоро закончит учёбу."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_33",
+    "pattern": "S + 呢 ?",
+    "explanation": "Где? А как насчёт? (короткий вопрос после упоминания).",
+    "examples": [
+      {
+        "chinese": "我的书呢？",
+        "pinyin": "Wǒ de shū ne?",
+        "translation": "А где моя книга?"
+      },
+      {
+        "chinese": "我是学生，你呢？",
+        "pinyin": "Wǒ shì xuésheng, nǐ ne?",
+        "translation": "Я студент, а ты?"
+      },
+      {
+        "chinese": "妈妈呢？",
+        "pinyin": "Māma ne?",
+        "translation": "А мама?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_34",
+    "pattern": "S + 从 + Place + V",
+    "explanation": "Откуда (исходная точка).",
+    "examples": [
+      {
+        "chinese": "我从英国来。",
+        "pinyin": "Wǒ cóng Yīngguó lái.",
+        "translation": "Я приехал из Англии."
+      },
+      {
+        "chinese": "他从家出发。",
+        "pinyin": "Tā cóng jiā chūfā.",
+        "translation": "Он отправился из дома."
+      },
+      {
+        "chinese": "你从哪儿来？",
+        "pinyin": "Nǐ cóng nǎr lái?",
+        "translation": "Откуда ты?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_35",
+    "pattern": "S + 在 + Place + V",
+    "explanation": "Где происходит действие.",
+    "examples": [
+      {
+        "chinese": "我在学校学习。",
+        "pinyin": "Wǒ zài xuéxiào xuéxí.",
+        "translation": "Я учусь в школе."
+      },
+      {
+        "chinese": "他在家吃饭。",
+        "pinyin": "Tā zài jiā chīfàn.",
+        "translation": "Он ест дома."
+      },
+      {
+        "chinese": "他们在公园散步。",
+        "pinyin": "Tāmen zài gōngyuán sànbù.",
+        "translation": "Они гуляют в парке."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_36",
+    "pattern": "S + 给 + Sb + V",
+    "explanation": "Для кого-то (делать что-то).",
+    "examples": [
+      {
+        "chinese": "我给你打电话。",
+        "pinyin": "Wǒ gěi nǐ dǎ diànhuà.",
+        "translation": "Я позвоню тебе."
+      },
+      {
+        "chinese": "妈妈给我做饭。",
+        "pinyin": "Māma gěi wǒ zuòfàn.",
+        "translation": "Мама готовит для меня."
+      },
+      {
+        "chinese": "请给他倒杯水。",
+        "pinyin": "Qǐng gěi tā dào bēi shuǐ.",
+        "translation": "Пожалуйста, налей ему стакан воды."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_37",
+    "pattern": "S + 跟 + Sb + V",
+    "explanation": "С кем-то (совместное действие).",
+    "examples": [
+      {
+        "chinese": "我跟你一起去。",
+        "pinyin": "Wǒ gēn nǐ yìqǐ qù.",
+        "translation": "Я пойду с тобой."
+      },
+      {
+        "chinese": "他跟朋友说话。",
+        "pinyin": "Tā gēn péngyou shuōhuà.",
+        "translation": "Он разговаривает с другом."
+      },
+      {
+        "chinese": "别跟陌生人走。",
+        "pinyin": "Bié gēn mòshēng rén zǒu.",
+        "translation": "Не ходи с незнакомцем."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_38",
+    "pattern": "S + 对 + Sb + V",
+    "explanation": "По отношению к кому-то, сказать кому-то.",
+    "examples": [
+      {
+        "chinese": "他对我说。",
+        "pinyin": "Tā duì wǒ shuō.",
+        "translation": "Он сказал мне."
+      },
+      {
+        "chinese": "妈妈对孩子很好。",
+        "pinyin": "Māma duì háizi hěn hǎo.",
+        "translation": "Мама очень добра к детям."
+      },
+      {
+        "chinese": "你对这件事怎么看？",
+        "pinyin": "Nǐ duì zhè jiàn shì zěnme kàn?",
+        "translation": "Как ты относишься к этому?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_39",
+    "pattern": "S + 和 + N + 一样",
+    "explanation": "Такой же, как и…",
+    "examples": [
+      {
+        "chinese": "我和你一样高。",
+        "pinyin": "Wǒ hé nǐ yíyàng gāo.",
+        "translation": "Я такого же роста, как и ты."
+      },
+      {
+        "chinese": "这个和那个一样。",
+        "pinyin": "Zhège hé nàge yíyàng.",
+        "translation": "Это и то одинаковые."
+      },
+      {
+        "chinese": "她的裙子和我的一样。",
+        "pinyin": "Tā de qúnzi hé wǒ de yíyàng.",
+        "translation": "Её юбка такая же, как моя."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_40",
+    "pattern": "S + 比 + N + Adj",
+    "explanation": "Сравнение: A более …, чем B.",
+    "examples": [
+      {
+        "chinese": "他比我高。",
+        "pinyin": "Tā bǐ wǒ gāo.",
+        "translation": "Он выше меня."
+      },
+      {
+        "chinese": "今天比昨天冷。",
+        "pinyin": "Jīntiān bǐ zuótiān lěng.",
+        "translation": "Сегодня холоднее, чем вчера."
+      },
+      {
+        "chinese": "这个比那个便宜。",
+        "pinyin": "Zhège bǐ nàge piányi.",
+        "translation": "Это дешевле, чем то."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_41",
+    "pattern": "S + 没有 + N + Adj",
+    "explanation": "Сравнение: A не такой …, как B.",
+    "examples": [
+      {
+        "chinese": "我没有他高。",
+        "pinyin": "Wǒ méiyǒu tā gāo.",
+        "translation": "Я не такой высокий, как он."
+      },
+      {
+        "chinese": "今天没有昨天冷。",
+        "pinyin": "Jīntiān méiyǒu zuótiān lěng.",
+        "translation": "Сегодня не так холодно, как вчера."
+      },
+      {
+        "chinese": "这个没有那个好吃。",
+        "pinyin": "Zhège méiyǒu nàge hǎochī.",
+        "translation": "Это не так вкусно, как то."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_42",
+    "pattern": "S + 一边 + V1 + 一边 + V2",
+    "explanation": "Одновременные действия.",
+    "examples": [
+      {
+        "chinese": "他一边吃饭一边看电视。",
+        "pinyin": "Tā yìbiān chīfàn yìbiān kàn diànshì.",
+        "translation": "Он одновременно ест и смотрит телевизор."
+      },
+      {
+        "chinese": "我们一边走一边说。",
+        "pinyin": "Wǒmen yìbiān zǒu yìbiān shuō.",
+        "translation": "Мы идём и разговариваем."
+      },
+      {
+        "chinese": "我喜欢一边听音乐一边工作。",
+        "pinyin": "Wǒ xǐhuān yìbiān tīng yīnyuè yìbiān gōngzuò.",
+        "translation": "Я люблю работать и слушать музыку одновременно."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_43",
+    "pattern": "S + 先 + V1 + 再 + V2",
+    "explanation": "Сначала …, потом …",
+    "examples": [
+      {
+        "chinese": "我先吃饭再工作。",
+        "pinyin": "Wǒ xiān chīfàn zài gōngzuò.",
+        "translation": "Я сначала поем, потом поработаю."
+      },
+      {
+        "chinese": "你先去我再打电话。",
+        "pinyin": "Nǐ xiān qù wǒ zài dǎ diànhuà.",
+        "translation": "Ты иди, а я потом позвоню."
+      },
+      {
+        "chinese": "请先洗手再吃饭。",
+        "pinyin": "Qǐng xiān xǐshǒu zài chīfàn.",
+        "translation": "Пожалуйста, сначала вымой руки, потом ешь."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_44",
+    "pattern": "S + 因为 + причина + 所以 + результат",
+    "explanation": "Потому что … поэтому …",
+    "examples": [
+      {
+        "chinese": "因为下雨，所以我不去。",
+        "pinyin": "Yīnwèi xiàyǔ, suǒyǐ wǒ bú qù.",
+        "translation": "Потому что идёт дождь, поэтому я не пойду."
+      },
+      {
+        "chinese": "因为他很忙，所以没来。",
+        "pinyin": "Yīnwèi tā hěn máng, suǒyǐ méi lái.",
+        "translation": "Он не пришёл, потому что был занят."
+      },
+      {
+        "chinese": "因为堵车，所以我迟到了。",
+        "pinyin": "Yīnwèi dǔchē, suǒyǐ wǒ chídào le.",
+        "translation": "Я опоздал из-за пробок."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_45",
+    "pattern": "S + 如果 + условие + 就 + результат",
+    "explanation": "Если …, то …",
+    "examples": [
+      {
+        "chinese": "如果明天下雨，我就不去。",
+        "pinyin": "Rúguǒ míngtiān xiàyǔ, wǒ jiù bú qù.",
+        "translation": "Если завтра будет дождь, я не пойду."
+      },
+      {
+        "chinese": "如果有时间，我就去看电影。",
+        "pinyin": "Rúguǒ yǒu shíjiān, wǒ jiù qù kàn diànyǐng.",
+        "translation": "Если будет время, схожу в кино."
+      },
+      {
+        "chinese": "如果便宜，我就买。",
+        "pinyin": "Rúguǒ piányi, wǒ jiù mǎi.",
+        "translation": "Если дёшево, куплю."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_46",
+    "pattern": "S + 虽然 + факт + 但是 + противопоставление",
+    "explanation": "Хотя …, но …",
+    "examples": [
+      {
+        "chinese": "虽然他很累，但是他不休息。",
+        "pinyin": "Suīrán tā hěn lèi, dànshì tā bù xiūxí.",
+        "translation": "Хотя он очень устал, но не отдыхает."
+      },
+      {
+        "chinese": "虽然贵，但是好吃。",
+        "pinyin": "Suīrán guì, dànshì hǎochī.",
+        "translation": "Хотя дорого, но вкусно."
+      },
+      {
+        "chinese": "虽然下雨，但是我们还是去了。",
+        "pinyin": "Suīrán xiàyǔ, dànshì wǒmen háishì qù le.",
+        "translation": "Хотя шёл дождь, мы всё равно пошли."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_47",
+    "pattern": "S + 不但 + A + 而且 + B",
+    "explanation": "Не только …, но и …",
+    "examples": [
+      {
+        "chinese": "他不但会说汉语，而且会写汉字。",
+        "pinyin": "Tā bùdàn huì shuō Hànyǔ, érqiě huì xiě Hànzì.",
+        "translation": "Он не только говорит по-китайски, но и пишет иероглифы."
+      },
+      {
+        "chinese": "这个苹果不但大，而且甜。",
+        "pinyin": "Zhège píngguǒ bùdàn dà, érqiě tián.",
+        "translation": "Это яблоко не только большое, но и сладкое."
+      },
+      {
+        "chinese": "她不但漂亮，而且聪明。",
+        "pinyin": "Tā bùdàn piàoliang, érqiě cōngming.",
+        "translation": "Она не только красива, но и умна."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_48",
+    "pattern": "S + 把 + O + V + 其他成分",
+    "explanation": "Конструкция 把 — акцент на объекте, который подвергается действию.",
+    "examples": [
+      {
+        "chinese": "我把门关了。",
+        "pinyin": "Wǒ bǎ mén guān le.",
+        "translation": "Я закрыл дверь."
+      },
+      {
+        "chinese": "他把书放在桌子上。",
+        "pinyin": "Tā bǎ shū fàng zài zhuōzi shàng.",
+        "translation": "Он положил книгу на стол."
+      },
+      {
+        "chinese": "请把窗户打开。",
+        "pinyin": "Qǐng bǎ chuānghu dǎkāi.",
+        "translation": "Пожалуйста, открой окно."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_49",
+    "pattern": "S + 被 + (кем) + V",
+    "explanation": "Пассивный залог (что-то сделано с объектом).",
+    "examples": [
+      {
+        "chinese": "杯子被他打破了。",
+        "pinyin": "Bēizi bèi tā dǎpò le.",
+        "translation": "Чашка разбита им."
+      },
+      {
+        "chinese": "我的书被借走了。",
+        "pinyin": "Wǒ de shū bèi jiè zǒu le.",
+        "translation": "Мою книгу взяли почитать."
+      },
+      {
+        "chinese": "他被老师批评了。",
+        "pinyin": "Tā bèi lǎoshī pīpíng le.",
+        "translation": "Его поругал учитель."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_50",
+    "pattern": "S + 让/叫 + O + V",
+    "explanation": "Каузативная конструкция: заставлять / позволять кому-то сделать что-то.",
+    "examples": [
+      {
+        "chinese": "妈妈让我学习。",
+        "pinyin": "Māma ràng wǒ xuéxí.",
+        "translation": "Мама заставляет меня учиться."
+      },
+      {
+        "chinese": "老师叫他回答问题。",
+        "pinyin": "Lǎoshī jiào tā huídá wèntí.",
+        "translation": "Учитель попросил его ответить на вопрос."
+      },
+      {
+        "chinese": "老板让我加班。",
+        "pinyin": "Lǎobǎn ràng wǒ jiābān.",
+        "translation": "Начальник заставляет меня работать сверхурочно."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_51",
+    "pattern": "S + 对 + N + 感兴趣",
+    "explanation": "Интересоваться чем-то.",
+    "examples": [
+      {
+        "chinese": "我对中国历史感兴趣。",
+        "pinyin": "Wǒ duì Zhōngguó lìshǐ gǎn xìngqù.",
+        "translation": "Я интересуюсь историей Китая."
+      },
+      {
+        "chinese": "他对音乐很感兴趣。",
+        "pinyin": "Tā duì yīnyuè hěn gǎn xìngqù.",
+        "translation": "Он очень интересуется музыкой."
+      },
+      {
+        "chinese": "你对什么感兴趣？",
+        "pinyin": "Nǐ duì shénme gǎn xìngqù?",
+        "translation": "Чем ты интересуешься?"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_52",
+    "pattern": "S + 最 + Adj",
+    "explanation": "Самый (превосходная степень).",
+    "examples": [
+      {
+        "chinese": "他是我最好的朋友。",
+        "pinyin": "Tā shì wǒ zuì hǎo de péngyou.",
+        "translation": "Он мой лучший друг."
+      },
+      {
+        "chinese": "这个最便宜。",
+        "pinyin": "Zhège zuì piányi.",
+        "translation": "Это самое дешёвое."
+      },
+      {
+        "chinese": "我最喜欢春天。",
+        "pinyin": "Wǒ zuì xǐhuān chūntiān.",
+        "translation": "Больше всего я люблю весну."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_53",
+    "pattern": "S + 更 + Adj",
+    "explanation": "Ещё более (сравнительная степень).",
+    "examples": [
+      {
+        "chinese": "今天比昨天更冷。",
+        "pinyin": "Jīntiān bǐ zuótiān gèng lěng.",
+        "translation": "Сегодня ещё холоднее, чем вчера."
+      },
+      {
+        "chinese": "这个更好。",
+        "pinyin": "Zhège gèng hǎo.",
+        "translation": "Это ещё лучше."
+      },
+      {
+        "chinese": "她更漂亮。",
+        "pinyin": "Tā gèng piàoliang.",
+        "translation": "Она ещё красивее."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_54",
+    "pattern": "S + 已经 + V + 了",
+    "explanation": "Уже сделано.",
+    "examples": [
+      {
+        "chinese": "我已经吃饭了。",
+        "pinyin": "Wǒ yǐjīng chīfàn le.",
+        "translation": "Я уже поел."
+      },
+      {
+        "chinese": "他已经来了。",
+        "pinyin": "Tā yǐjīng lái le.",
+        "translation": "Он уже пришёл."
+      },
+      {
+        "chinese": "电影已经开始了。",
+        "pinyin": "Diànyǐng yǐjīng kāishǐ le.",
+        "translation": "Фильм уже начался."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_55",
+    "pattern": "S + 还没(有) + V + 呢",
+    "explanation": "Ещё не сделано.",
+    "examples": [
+      {
+        "chinese": "我还没吃饭呢。",
+        "pinyin": "Wǒ hái méi chīfàn ne.",
+        "translation": "Я ещё не ел."
+      },
+      {
+        "chinese": "他还没有来呢。",
+        "pinyin": "Tā hái méiyǒu lái ne.",
+        "translation": "Он ещё не пришёл."
+      },
+      {
+        "chinese": "作业还没做完呢。",
+        "pinyin": "Zuòyè hái méi zuò wán ne.",
+        "translation": "Домашнее задание ещё не сделано."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_56",
+    "pattern": "S + 刚 + V",
+    "explanation": "Только что сделал.",
+    "examples": [
+      {
+        "chinese": "我刚到家。",
+        "pinyin": "Wǒ gāng dào jiā.",
+        "translation": "Я только что пришёл домой."
+      },
+      {
+        "chinese": "他刚走。",
+        "pinyin": "Tā gāng zǒu.",
+        "translation": "Он только что ушёл."
+      },
+      {
+        "chinese": "电影刚开始。",
+        "pinyin": "Diànyǐng gāng kāishǐ.",
+        "translation": "Фильм только начался."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_57",
+    "pattern": "S + 以前 + …",
+    "explanation": "Раньше, до того как.",
+    "examples": [
+      {
+        "chinese": "我以前不会说汉语。",
+        "pinyin": "Wǒ yǐqián bú huì shuō Hànyǔ.",
+        "translation": "Раньше я не умел говорить по-китайски."
+      },
+      {
+        "chinese": "吃饭以前要洗手。",
+        "pinyin": "Chīfàn yǐqián yào xǐshǒu.",
+        "translation": "Перед едой нужно мыть руки."
+      },
+      {
+        "chinese": "睡觉以前喝杯牛奶。",
+        "pinyin": "Shuìjiào yǐqián hē bēi niúnǎi.",
+        "translation": "Перед сном выпей стакан молока."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_58",
+    "pattern": "S + 以后 + …",
+    "explanation": "После того как, потом.",
+    "examples": [
+      {
+        "chinese": "下课以后我去图书馆。",
+        "pinyin": "Xiàkè yǐhòu wǒ qù túshūguǎn.",
+        "translation": "После уроков я пойду в библиотеку."
+      },
+      {
+        "chinese": "以后再见。",
+        "pinyin": "Yǐhòu zàijiàn.",
+        "translation": "До встречи."
+      },
+      {
+        "chinese": "毕业以后我想工作。",
+        "pinyin": "Bìyè yǐhòu wǒ xiǎng gōngzuò.",
+        "translation": "После окончания учёбы я хочу работать."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_59",
+    "pattern": "S + 的时候 + …",
+    "explanation": "Когда (в момент совершения действия).",
+    "examples": [
+      {
+        "chinese": "我吃饭的时候看电视。",
+        "pinyin": "Wǒ chīfàn de shíhou kàn diànshì.",
+        "translation": "Когда я ем, я смотрю телевизор."
+      },
+      {
+        "chinese": "他来的时候我不在家。",
+        "pinyin": "Tā lái de shíhou wǒ bú zài jiā.",
+        "translation": "Когда он пришёл, меня не было дома."
+      },
+      {
+        "chinese": "小时候我很胖。",
+        "pinyin": "Xiǎo shíhou wǒ hěn pàng.",
+        "translation": "В детстве я был толстым."
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "id": "g1_60",
+    "pattern": "V + 一下",
+    "explanation": "Сделать что-то недолго, немного, один раз.",
+    "examples": [
+      {
+        "chinese": "我看一下。",
+        "pinyin": "Wǒ kàn yíxià.",
+        "translation": "Я взгляну."
+      },
+      {
+        "chinese": "你等一下。",
+        "pinyin": "Nǐ děng yíxià.",
+        "translation": "Подожди немного."
+      },
+      {
+        "chinese": "休息一下。",
+        "pinyin": "Xiūxí yíxià.",
+        "translation": "Отдохни немного."
+      }
+    ],
+    "level": "1"
+  }
+]

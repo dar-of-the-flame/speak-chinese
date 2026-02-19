@@ -1,0 +1,7722 @@
+[
+  {
+  "id": 501,
+  "simplified": "啊",
+  "translations": {
+    "ru": "ФРАЗОВАЯ ЧАСТИЦА ВОСКЛИЦАТЕЛЬНЫХ, ВОПРОСИТЕЛЬНЫХ И ПОБУДИТЕЛЬНЫХ ПРЕДЛОЖЕНИЙ (НЕ ПЕРЕВОДИТСЯ); МЕЖДОМ. “О! ОГО!” ВЫРАЖАЕТ УДИВЛЕНИЕ"
+  },
+  "pinyin": "a",
+  "pos": [],
+  "level": 2
+},
+{
+  "id": 502,
+  "simplified": "爱",
+  "translations": {
+    "ru": "ЛЮБИТЬ; ЛЮБОВЬ; ЛЮБИМЫЙ"
+  },
+  "pinyin": "ài",
+  "pos": [],
+  "level": 2
+},
+{
+  "id": 503,
+  "simplified": "八",
+  "translations": {
+    "ru": "ВОСЕМЬ"
+  },
+  "pinyin": "bā",
+  "pos": [],
+  "level": 2
+},
+{
+  "id": 504,
+  "simplified": "爸爸",
+  "translations": {
+    "ru": "ПАПА"
+  },
+  "pinyin": "bàba",
+  "pos": [],
+  "level": 2
+},
+  {
+    "id": 505,
+    "simplified": "啊",
+    "translations": {
+      "ru": "ФРАЗОВАЯ ЧАСТИЦА ВОСКЛИЦАТЕЛЬНЫХ, ВОПРОСИТЕЛЬНЫХ И ПОБУДИТЕЛЬНЫХ ПРЕДЛОЖЕНИЙ (НЕ ПЕРЕВОДИТСЯ); МЕЖДОМ. “О! ОГО!” ВЫРАЖАЕТ УДИВЛЕНИЕ"
+    },
+    "pinyin": "a",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 506,
+    "simplified": "爱情",
+    "translations": {
+      "ru": "ЛЮБОВЬ, ЧУВСТВО ЛЮБВИ"
+    },
+    "pinyin": "àiqíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 507,
+    "simplified": "爱人",
+    "translations": {
+      "ru": "ЖЕНА ИЛИ МУЖ; ЛЮБИМЫЙ ЧЕЛОВЕК"
+    },
+    "pinyin": "àiren",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 508,
+    "simplified": "安静",
+    "translations": {
+      "ru": "ТИХИЙ, СПОКОЙНЫЙ, МИРНЫЙ; ТИШИНА, ПОКОЙ, СПОКОЙСТВИЕ"
+    },
+    "pinyin": "ānjìng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 509,
+    "simplified": "安全",
+    "translations": {
+      "ru": "БЕЗОПАСНОСТЬ, БЕЗОПАСНЫЙ"
+    },
+    "pinyin": "ānquán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 510,
+    "simplified": "白色",
+    "translations": {
+      "ru": "БЕЛЫЙ, БЕЛЫЙ ЦВЕТ"
+    },
+    "pinyin": "báisè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 511,
+    "simplified": "班长",
+    "translations": {
+      "ru": "СТАРОСТА, НАЧАЛЬНИК БРИГАДЫ, КОМАНДИР ОТРЯДА"
+    },
+    "pinyin": "bānzhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 512,
+    "simplified": "办",
+    "translations": {
+      "ru": "ДЕЛАТЬ, УПРАВЛЯТЬ; ЗАКУПАТЬ, ЗАГОТАВЛИВАТЬ; НАКАЗЫВАТЬ; УЧРЕЖДАТЬ, УПРАВЛЯТЬ"
+    },
+    "pinyin": "bàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 513,
+    "simplified": "办法",
+    "translations": {
+      "ru": "СПОСОБ, МЕТОД, РЕШЕНИЕ"
+    },
+    "pinyin": "bànfǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 514,
+    "simplified": "办公室",
+    "translations": {
+      "ru": "ОФИС, БЮРО"
+    },
+    "pinyin": "bàngōngshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 515,
+    "simplified": "半夜",
+    "translations": {
+      "ru": "ПОЛНОЧЬ, СЕРЕДИНА НОЧИ, ПОСРЕДИ НОЧИ"
+    },
+    "pinyin": "bànyè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 516,
+    "simplified": "帮助",
+    "translations": {
+      "ru": "ПОМОГАТЬ, ПОМОЩЬ"
+    },
+    "pinyin": "bāngzhù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 517,
+    "simplified": "饱",
+    "translations": {
+      "ru": "СЫТЫЙ, ПОЛНЫЙ"
+    },
+    "pinyin": "bǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 518,
+    "simplified": "报名",
+    "translations": {
+      "ru": "ЗАРЕГИСТРИРОВАТЬСЯ; ЗАПИСАТЬСЯ (БУКВ. ДОКЛАДЫВАТЬ + ИМЯ)"
+    },
+    "pinyin": "bàomíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 519,
+    "simplified": "报纸",
+    "translations": {
+      "ru": "ГАЗЕТА (БУКВ. ДОКЛАДЫВАТЬ + БУМАГА)"
+    },
+    "pinyin": "bàozhǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 520,
+    "simplified": "北方",
+    "translations": {
+      "ru": "СЕВЕР, НА СЕВЕРЕ, СЕВЕРНАЯ СТОРОНА"
+    },
+    "pinyin": "běifāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 521,
+    "simplified": "背",
+    "translations": {
+      "ru": "НЕСТИ НА СПИНЕ; ВЗВАЛИВАТЬ НА ПЛЕЧИ, БРАТЬ НА СЕБЯ"
+    },
+    "pinyin": "bēi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 522,
+    "simplified": "比如",
+    "translations": {
+      "ru": "НАПРИМЕР"
+    },
+    "pinyin": "bǐrú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 523,
+    "simplified": "比如说",
+    "translations": {
+      "ru": "НАПРИМЕР, К ПРИМЕРУ"
+    },
+    "pinyin": "bǐrúshuō",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 524,
+    "simplified": "笔",
+    "translations": {
+      "ru": "РУЧКА, КАРАНДАШ"
+    },
+    "pinyin": "bǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 525,
+    "simplified": "笔记",
+    "translations": {
+      "ru": "ЗАПИСЬ; ДЕЛАТЬ ЗАПИСЬ"
+    },
+    "pinyin": "bǐjì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 526,
+    "simplified": "笔记本",
+    "translations": {
+      "ru": "БЛОКНОТ; НОУТБУК"
+    },
+    "pinyin": "bǐjìběn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 527,
+    "simplified": "必须",
+    "translations": {
+      "ru": "ДОЛЖЕН, НЕОБХОДИМО, ОБЯЗАТЕЛЬНО ДОЛЖНО"
+    },
+    "pinyin": "bìxū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 528,
+    "simplified": "边",
+    "translations": {
+      "ru": "СТОРОНА, КРАЙ, ПРЕДЕЛ, КРОМКА"
+    },
+    "pinyin": "biān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 529,
+    "simplified": "变",
+    "translations": {
+      "ru": "СТАНОВИТЬСЯ; ИЗМЕНЯТЬСЯ; ИЗМЕНЯТЬ"
+    },
+    "pinyin": "biàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 530,
+    "simplified": "变成",
+    "translations": {
+      "ru": "ПРЕВРАЩАТЬСЯ В, СТАНОВИТЬСЯ (КЕМ-ТО/ЧЕМ-ТО)"
+    },
+    "pinyin": "biànchéng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 531,
+    "simplified": "遍",
+    "translations": {
+      "ru": "ПОВСЮДУ, ВЕЗДЕ; РАЗ, РАЗОК (СЧЁТНОЕ СЛОВО ДЛЯ ГЛАГОЛОВ)"
+    },
+    "pinyin": "biàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 532,
+    "simplified": "表",
+    "translations": {
+      "ru": "ЧАСЫ, СЧЁТЧИК"
+    },
+    "pinyin": "biǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 533,
+    "simplified": "表示",
+    "translations": {
+      "ru": "ВЫРАЖАТЬ, ПОКАЗЫВАТЬ, ВЫСКАЗЫВАТЬ"
+    },
+    "pinyin": "biǎoshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 534,
+    "simplified": "不错",
+    "translations": {
+      "ru": "ХОРОШИЙ, НЕПЛОХОЙ"
+    },
+    "pinyin": "búcuò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 535,
+    "simplified": "不但",
+    "translations": {
+      "ru": "НЕ ТОЛЬКО"
+    },
+    "pinyin": "búdàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 536,
+    "simplified": "不够",
+    "translations": {
+      "ru": "НЕ ХВАТАТЬ; НЕДОСТАТОЧНО"
+    },
+    "pinyin": "búgòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 537,
+    "simplified": "不过",
+    "translations": {
+      "ru": "НО; ОДНАКО; ВПРОЧЕМ"
+    },
+    "pinyin": "bùguò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 538,
+    "simplified": "不太",
+    "translations": {
+      "ru": "НЕ ОЧЕНЬ, НЕ СЛИШКОМ"
+    },
+    "pinyin": "bútài",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 539,
+    "simplified": "不要",
+    "translations": {
+      "ru": "(ГОВОРЯЩИЙ ЗАПРЕЩАЕТ ЧТО-ТО ИЛИ ОТГОВАРИВАЕТ ОТ ЧЕГО-ТО) НЕ НУЖНО, НЕЛЬЗЯ"
+    },
+    "pinyin": "búyào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 540,
+    "simplified": "不好意思",
+    "translations": {
+      "ru": "ЧУВСТВОВАТЬ СЕБЯ НЕЛОВКО, ИЗВИНЯТЬСЯ ЗА НЕУДОБСТВА"
+    },
+    "pinyin": "bùhǎoyìsi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 541,
+    "simplified": "不久",
+    "translations": {
+      "ru": "СКОРО, НЕДОЛГО"
+    },
+    "pinyin": "bùjiǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 542,
+    "simplified": "不满",
+    "translations": {
+      "ru": "НЕДОВОЛЬНЫЙ; БЫТЬ НЕДОВОЛЬНЫМ; БЫТЬ МЕНЬШЕ, ЧЕМ"
+    },
+    "pinyin": "bùmǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 543,
+    "simplified": "不如",
+    "translations": {
+      "ru": "УСТУПАТЬ КОМУ-ЛИБО/ЧЕМУ-ЛИБО; БЫТЬ ХУЖЕ; ЛУЧШЕ УЖ"
+    },
+    "pinyin": "bùrú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 544,
+    "simplified": "不少",
+    "translations": {
+      "ru": "ЗНАЧИТЕЛЬНОЕ КОЛИЧЕСТВО, МНОГО"
+    },
+    "pinyin": "bù shǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 545,
+    "simplified": "不同",
+    "translations": {
+      "ru": "РАЗНЫЙ, РАЗЛИЧНЫЙ"
+    },
+    "pinyin": "bù tóng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 546,
+    "simplified": "不行",
+    "translations": {
+      "ru": "НЕ ГОДИТСЯ, НЕЛЬЗЯ, НЕ ПОЙДЁТ; УЖАСНО, ЧРЕЗВЫЧАЙНО"
+    },
+    "pinyin": "bùxíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 547,
+    "simplified": "不一定",
+    "translations": {
+      "ru": "НЕ ВСЕГДА, НЕОБЯЗАТЕЛЬНО"
+    },
+    "pinyin": "bùyídìng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 548,
+    "simplified": "不一会儿",
+    "translations": {
+      "ru": "В ОДИН МОМЕНТ (МИГ)"
+    },
+    "pinyin": "bù yīhuìér",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 549,
+    "simplified": "部分",
+    "translations": {
+      "ru": "ЧАСТЬ, ДОЛЯ"
+    },
+    "pinyin": "bùfen",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 550,
+    "simplified": "才",
+    "translations": {
+      "ru": "ТОЛЬКО ЧТО, ТОЛЬКО-ТОЛЬКО, ТОЛЬКО СЕЙЧАС; СПОСОБНОСТЬ, УМЕНИЕ, ТАЛАНТ"
+    },
+    "pinyin": "cái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 551,
+    "simplified": "菜单",
+    "translations": {
+      "ru": "МЕНЮ (БУКВ. БЛЮДО + СПИСОК)"
+    },
+    "pinyin": "càidān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 552,
+    "simplified": "参观",
+    "translations": {
+      "ru": "ПОСЕЩАТЬ, ОСМАТРИВАТЬ, СОВЕРШАТЬ ЭКСКУРСИЮ"
+    },
+    "pinyin": "cānguān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 553,
+    "simplified": "参加",
+    "translations": {
+      "ru": "ПРИНИМАТЬ УЧАСТИЕ"
+    },
+    "pinyin": "cānjiā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 554,
+    "simplified": "草",
+    "translations": {
+      "ru": "ТРАВА"
+    },
+    "pinyin": "cǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 555,
+    "simplified": "草地",
+    "translations": {
+      "ru": "ГАЗОН; ПАСТБИЩЕ, ЛУГ; ПОКРЫТАЯ ТРАВОЙ БОЛОТИСТАЯ МЕСТНОСТЬ"
+    },
+    "pinyin": "cǎodì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 556,
+    "simplified": "层",
+    "translations": {
+      "ru": "ЭТАЖ, СЛОЙ (ТАКЖЕ СЧЁТНОЕ СЛОВО С ТАКИМ ЗНАЧЕНИЕ)"
+    },
+    "pinyin": "céng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 557,
+    "simplified": "查",
+    "translations": {
+      "ru": "ПРОВЕРЯТЬ, ИССЛЕДОВАТЬ, ОБРАЩАТЬСЯ ЗА СПРАВКОЙ"
+    },
+    "pinyin": "chá",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 558,
+    "simplified": "差不多",
+    "translations": {
+      "ru": "ПОЧТИ"
+    },
+    "pinyin": "chàbuduō",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 559,
+    "simplified": "长",
+    "translations": {
+      "ru": "ДЛИННЫЙ, ПРОДОЛГОВАТЫЙ; ЛИНЕЙНЫЙ; ДОЛГИЙ, ПРОТЯЖЁННЫЙ"
+    },
+    "pinyin": "cháng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 560,
+    "simplified": "常见",
+    "translations": {
+      "ru": "ОБЫЧНЫЙ, ЧАСТО ВСТРЕЧАЮЩИЙСЯ"
+    },
+    "pinyin": "cháng jiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 561,
+    "simplified": "常用",
+    "translations": {
+      "ru": "ОБЩЕУПОТРЕБИТЕЛЬНЫЙ"
+    },
+    "pinyin": "cháng yòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 562,
+    "simplified": "场",
+    "translations": {
+      "ru": "ПЛОЩАДЬ; ПЛОЩАДКА; ПОЛЕ; СЦЕНА, АРЕНА; СЧЁТНОЕ СЛОВО ДЛЯ СПОРТИВНЫЙ ИГР И ЗРЕЛИЩ"
+    },
+    "pinyin": "chǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 563,
+    "simplified": "超过",
+    "translations": {
+      "ru": "ОБОГНАТЬ; ОПЕРЕДИТЬ; ПРЕВЫСИТЬ; ПРЕВЗОЙТИ"
+    },
+    "pinyin": "chāoguò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 564,
+    "simplified": "超市",
+    "translations": {
+      "ru": "СУПЕРМАРКЕТ (БУКВ. СВЕРХ+ГОРОД/РЫНОК)"
+    },
+    "pinyin": "chāoshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 565,
+    "simplified": "车辆",
+    "translations": {
+      "ru": "АВТОМОБИЛЬ, ТРАНСПОРТНОЕ СРЕДСТВО; ВАГОНЫ, ВАГОННЫЙ ПАРК"
+    },
+    "pinyin": "chēliàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 566,
+    "simplified": "称",
+    "translations": {
+      "ru": "ВЗВЕШИВАТЬ (НА ВЕСАХ), ИЗМЕРЯТЬ ВЕС; ОТВЕШИВАТЬ"
+    },
+    "pinyin": "chēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 567,
+    "simplified": "成",
+    "translations": {
+      "ru": "СТАНОВИТЬСЯ, ПРЕВРАЩАТЬСЯ В"
+    },
+    "pinyin": "chéng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 568,
+    "simplified": "成绩",
+    "translations": {
+      "ru": "ОЦЕНКИ/УСПЕВАЕМОСТЬ (В ШКОЛЕ), ДОСТИЖЕНИЯ, УСПЕХ"
+    },
+    "pinyin": "chéngjì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 569,
+    "simplified": "成为",
+    "translations": {
+      "ru": "СТАНОВИТЬСЯ"
+    },
+    "pinyin": "chéngwéi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 570,
+    "simplified": "重复",
+    "translations": {
+      "ru": "ПОВТОРЯТЬ; УДВОЕНИЕ; ДУПЛИКАЦИЯ; ПОВТОРНЫЙ"
+    },
+    "pinyin": "chóngfù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 571,
+    "simplified": "重新",
+    "translations": {
+      "ru": "СНОВА, ЗАНОВО"
+    },
+    "pinyin": "chóngxīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 572,
+    "simplified": "出发",
+    "translations": {
+      "ru": "ОТПРАВЛЯТЬСЯ (В ПУТЬ), ИСХОДИТЬ ИЗ"
+    },
+    "pinyin": "chūfā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 573,
+    "simplified": "出国",
+    "translations": {
+      "ru": "ЕХАТЬ ЗА ГРАНИЦУ"
+    },
+    "pinyin": "chūguó",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 574,
+    "simplified": "出口",
+    "translations": {
+      "ru": "ВЫХОД"
+    },
+    "pinyin": "chūkǒu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 575,
+    "simplified": "出门",
+    "translations": {
+      "ru": "ВЫХОДИТЬ (ИЗ ДОМА)"
+    },
+    "pinyin": "chūmén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 576,
+    "simplified": "出生",
+    "translations": {
+      "ru": "РОЖДАТЬСЯ"
+    },
+    "pinyin": "chūshēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 577,
+    "simplified": "出现",
+    "translations": {
+      "ru": "ПОЯВЛЯТЬСЯ"
+    },
+    "pinyin": "chūxiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 578,
+    "simplified": "出院",
+    "translations": {
+      "ru": "ВЫПИСЫВАТЬСЯ ИЗ БОЛЬНИЦЫ"
+    },
+    "pinyin": "chūyuàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 579,
+    "simplified": "出租",
+    "translations": {
+      "ru": "СДАВАТЬ В АРЕНДУ, ВЫДАВАТЬ НАПРОКАТ"
+    },
+    "pinyin": "chūzū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 580,
+    "simplified": "出租车",
+    "translations": {
+      "ru": "ТАКСИ (БУК. СДАВАТЬ В АРЕНДУ + МАШИНА)"
+    },
+    "pinyin": "chūzūchē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 581,
+    "simplified": "船",
+    "translations": {
+      "ru": "КОРАБЛЬ, ЛОДКА"
+    },
+    "pinyin": "chuán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 582,
+    "simplified": "吹",
+    "translations": {
+      "ru": "ДУТЬ; НАДУВАТЬ; ИГРАТЬ (НА ДУХОВЫХ ИНСТРУМЕНТАХ); ХВАСТАТЬ(СЯ); БАХВАЛИТЬСЯ"
+    },
+    "pinyin": "chuī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 583,
+    "simplified": "春节",
+    "translations": {
+      "ru": "КИТАЙСКИЙ НОВЫЙ ГОД, ПРАЗДНИК ВЕСНЫ (ПЕРВОЕ ЧИСЛО ПЕРВОГО МЕСЯЦА ПО ЛУННОМУ КАЛЕНДАРЮ)"
+    },
+    "pinyin": "Chūnjié",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 584,
+    "simplified": "春天",
+    "translations": {
+      "ru": "ВЕСНА; ВЕСЕННИЙ; ВЕСНОЙ"
+    },
+    "pinyin": "chūntiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 585,
+    "simplified": "词",
+    "translations": {
+      "ru": "СЛОВО"
+    },
+    "pinyin": "cí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 586,
+    "simplified": "词典",
+    "translations": {
+      "ru": "СЛОВАРЬ (БУКВ.СЛОВО + ТАЛМУД)"
+    },
+    "pinyin": "cídiǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 587,
+    "simplified": "词语",
+    "translations": {
+      "ru": "СЛОВО, ВЫРАЖЕНИЕ, ТЕРМИН"
+    },
+    "pinyin": "cíyǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 588,
+    "simplified": "从小",
+    "translations": {
+      "ru": "С ДЕТСТВА, С МАЛОЛЕТСТВА, С МАЛЫХ ЛЕТ, СЫЗМАЛЬСТВА"
+    },
+    "pinyin": "cóngxiǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 589,
+    "simplified": "答应",
+    "translations": {
+      "ru": "ОТКЛИКАТЬСЯ; СОГЛАСИТЬСЯ; ДАТЬ СОГЛАСИЕ НА ЧТО-ЛИБО; ОБЕЩАТЬ"
+    },
+    "pinyin": "dāying",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 590,
+    "simplified": "打工",
+    "translations": {
+      "ru": "ПОДРАБАТЫВАТЬ; УСТРАИВАТЬСЯ НА РАБОТУ"
+    },
+    "pinyin": "dǎgōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 591,
+    "simplified": "打算",
+    "translations": {
+      "ru": "ПЛАНИРОВАТЬ, ПЛАН"
+    },
+    "pinyin": "dǎsuàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 592,
+    "simplified": "打印",
+    "translations": {
+      "ru": "РАСПЕЧАТАТЬ, ПЕЧАТЬ, ПЕЧАТАНИЕ"
+    },
+    "pinyin": "dǎyìn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 593,
+    "simplified": "大部分",
+    "translations": {
+      "ru": "ПО БОЛЬШЕЙ ЧАСТИ, БОЛЬШАЯ ЧАСТЬ, БОЛЬШИНСТВО"
+    },
+    "pinyin": "dàbùfen",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 594,
+    "simplified": "大大",
+    "translations": {
+      "ru": "СИЛЬНО, ЗНАЧИТЕЛЬНО"
+    },
+    "pinyin": "dàdà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 595,
+    "simplified": "大多数",
+    "translations": {
+      "ru": "БОЛЬШИНСТВО"
+    },
+    "pinyin": "dàduōshù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 596,
+    "simplified": "大海",
+    "translations": {
+      "ru": "МОРЕ, ОКЕАН"
+    },
+    "pinyin": "dàhǎi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 597,
+    "simplified": "大家",
+    "translations": {
+      "ru": "ВСЕ"
+    },
+    "pinyin": "dàjiā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 598,
+    "simplified": "大量",
+    "translations": {
+      "ru": "МНОГОЧИСЛЕННЫЙ, БОЛЬШОЕ КОЛИЧЕСТВО"
+    },
+    "pinyin": "dàliàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 599,
+    "simplified": "大门",
+    "translations": {
+      "ru": "ГЛАВНЫЙ ВХОД, ВОРОТА"
+    },
+    "pinyin": "dàmén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 600,
+    "simplified": "大人",
+    "translations": {
+      "ru": "ВЗРОСЛЫЙ, СТАРШИЙ (В ПРОТИВОПОЛОЖНОСТЬ РЕБЁНКУ)"
+    },
+    "pinyin": "dàren",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 601,
+    "simplified": "大声",
+    "translations": {
+      "ru": "ГРОМКО, ШУМНО"
+    },
+    "pinyin": "dàshēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 602,
+    "simplified": "大小",
+    "translations": {
+      "ru": "РАЗМЕР; БОЛЬШОЙ ИЛИ МАЛЕНЬКИЙ"
+    },
+    "pinyin": "dàxiǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 603,
+    "simplified": "大衣",
+    "translations": {
+      "ru": "ПАЛЬТО, КУРТКА"
+    },
+    "pinyin": "dàyī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 604,
+    "simplified": "大自然",
+    "translations": {
+      "ru": "ПРИРОДА"
+    },
+    "pinyin": "dàzìrán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 605,
+    "simplified": "带",
+    "translations": {
+      "ru": "НОСИТЬ; ИМЕТЬ ПРИ СЕБЕ; ВЕСТИ (ЗА СОБОЙ); ПОЯС"
+    },
+    "pinyin": "dài",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 606,
+    "simplified": "带来",
+    "translations": {
+      "ru": "ПРИНОСИТЬ, ВЫЗЫВАТЬ, СОЗДАВАТЬ (НАПРИМЕР: ПРОБЛЕМЫ)"
+    },
+    "pinyin": "dàilái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 607,
+    "simplified": "单位",
+    "translations": {
+      "ru": "ЕДИНИЦА (ИЗМЕРЕНИЯ); УЧРЕЖДЕНИЕ; ОРГАНИЗАЦИЯ"
+    },
+    "pinyin": "dānwèi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 608,
+    "simplified": "但",
+    "translations": {
+      "ru": "НО, ОДНАКО; ТОЛЬКО, ТОЛЬКО БЫ"
+    },
+    "pinyin": "dàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 609,
+    "simplified": "倒",
+    "translations": {
+      "ru": "УПАСТЬ; ПОВАЛИТЬСЯ; ОПРОКИНУТЬ(СЯ)"
+    },
+    "pinyin": "dǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 610,
+    "simplified": "到处",
+    "translations": {
+      "ru": "ПОВСЮДУ, ВЕЗДЕ"
+    },
+    "pinyin": "dàochù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 611,
+    "simplified": "倒",
+    "translations": {
+      "ru": "ПЕРЕВЕРНУТЬ; ПОВЕРНУТЬ ВВЕРХ НОГАМИ; ВВЕРХ НОГАМИ; ВВЕРХ ДНОМ; ЗАДОМ НАПЕРЁД; НАПРОТИВ, НАОБОРОТ"
+    },
+    "pinyin": "dào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 612,
+    "simplified": "道",
+    "translations": {
+      "ru": "СЧЁТНОЕ СЛОВО ДЛЯ РЕК, ДЛИННЫХ ПРЕДМЕТОВ, СТЕН, ДВЕРЕЙ, ПРИКАЗОВ, ТЕМ, БЛЮД, ВОПРОСОВ И Т.Д."
+    },
+    "pinyin": "dào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 613,
+    "simplified": "道理",
+    "translations": {
+      "ru": "ЗДРАВЫЙ СМЫСЛ; РЕЗОН; СУТЬ; ОСНОВАНИЕ, ПРИЧИНА"
+    },
+    "pinyin": "dàolǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 614,
+    "simplified": "道路",
+    "translations": {
+      "ru": "ДОРОГА, ПУТЬ"
+    },
+    "pinyin": "dàolù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 615,
+    "simplified": "得",
+    "translations": {
+      "ru": "ПОЛУЧАТЬ, ПРИОБРЕТАТЬ, ДОБЫВАТЬ; ЗАВОЁВЫВАТЬ; РАВНЯТЬСЯ; (ИСПОЛЬЗУЕТСЯ, ЧТОБЫ ЗАВЕРШИТЬ РАЗГОВОР, И УКАЗЫВАЕТ НА СОГЛАСИЕ ИЛИ НЕСОГЛАСИЕ) ЛАДНО!, ХВАТИТ!; (ВЫРАЖАЕТ ДОСАДУ) ЧЁРТ!, НУ ВОТ!"
+    },
+    "pinyin": "dé",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 616,
+    "simplified": "得出",
+    "translations": {
+      "ru": "ПОЛУЧАТЬ (РЕЗУЛЬТАТ), ПРИХОДИТЬ К (ЗАКЛЮЧЕНИЮ)"
+    },
+    "pinyin": "déchū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 617,
+    "simplified": "的话",
+    "translations": {
+      "ru": "ЕСЛИ, ЕСЛИ СКАЖЕМ; В СЛУЧАЕ, ЕСЛИ"
+    },
+    "pinyin": "dehuà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 618,
+    "simplified": "得",
+    "translations": {
+      "ru": "СЛУЖЕБНОЕ СЛОВО, ПОКАЗАТЕЛЬ ОБСТОЯТЕЛЬСТВА, СЛЕДУЮЩЕГО ЗА СКАЗУЕМЫМ; ГЛАГОЛЬНЫЙ ИНФИКС, ВЫРАЖАЮЩИЙ ВОЗМОЖНОСТЬ СОВЕРШЕНИЯ ДЕЙСТВИЯ"
+    },
+    "pinyin": "de",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 619,
+    "simplified": "灯",
+    "translations": {
+      "ru": "ЛАМПА, ЛЮСТРА; СВЕТ"
+    },
+    "pinyin": "dēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 620,
+    "simplified": "等",
+    "translations": {
+      "ru": "ОЖИДАТЬ, ЖДАТЬ; К ТОМУ ВРЕМЕНИ КАК"
+    },
+    "pinyin": "děng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 621,
+    "simplified": "等到",
+    "translations": {
+      "ru": "КО ВРЕМЕНИ, КОГДА, К"
+    },
+    "pinyin": "děngdào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 622,
+    "simplified": "等于",
+    "translations": {
+      "ru": "БЫТЬ РАВНЫМ, РАВНЯТЬСЯ (ЧЕМУ-ЛИБО); РАВНО, РАВНОСИЛЬНО"
+    },
+    "pinyin": "děngyú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 623,
+    "simplified": "低",
+    "translations": {
+      "ru": "НИЗКИЙ; НИЗКО; НИЗШИЙ"
+    },
+    "pinyin": "dī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 624,
+    "simplified": "地球",
+    "translations": {
+      "ru": "ЗЕМЛЯ, ЗЕМНОЙ ШАР; ЗЕМНОЙ"
+    },
+    "pinyin": "dìqiú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 625,
+    "simplified": "地铁",
+    "translations": {
+      "ru": "МЕТРО"
+    },
+    "pinyin": "dìtiě",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 626,
+    "simplified": "地铁站",
+    "translations": {
+      "ru": "СТАНЦИЯ МЕТРО"
+    },
+    "pinyin": "dìtiězhàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 627,
+    "simplified": "点头",
+    "translations": {
+      "ru": "КИВАТЬ"
+    },
+    "pinyin": "diǎntóu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 628,
+    "simplified": "店",
+    "translations": {
+      "ru": "МАГАЗИН, ЛАВКА; ГОСТИНИЦА"
+    },
+    "pinyin": "diàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 629,
+    "simplified": "掉",
+    "translations": {
+      "ru": "ПАДАТЬ; ВЫПАДАТЬ; РОНЯТЬ; ТЕРЯТЬ"
+    },
+    "pinyin": "diào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 630,
+    "simplified": "东北",
+    "translations": {
+      "ru": "СЕВЕРО-ВОСТОК"
+    },
+    "pinyin": "dōngběi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 631,
+    "simplified": "东方",
+    "translations": {
+      "ru": "ВОСТОК"
+    },
+    "pinyin": "dōngfāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 632,
+    "simplified": "东南",
+    "translations": {
+      "ru": "ЮГО-ВОСТОК"
+    },
+    "pinyin": "dōngnán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 633,
+    "simplified": "冬天",
+    "translations": {
+      "ru": "ЗИМА; ЗИМНЕЕ НЕБО"
+    },
+    "pinyin": "dōngtiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 634,
+    "simplified": "懂",
+    "translations": {
+      "ru": "ПОНИМАТЬ"
+    },
+    "pinyin": "dǒng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 635,
+    "simplified": "懂得",
+    "translations": {
+      "ru": "ПОНИМАТЬ, ЗНАТЬ, РАЗБИРАТЬСЯ В"
+    },
+    "pinyin": "dǒngde",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 636,
+    "simplified": "动物",
+    "translations": {
+      "ru": "ЖИВОТНОЕ"
+    },
+    "pinyin": "dòngwù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 637,
+    "simplified": "动物园",
+    "translations": {
+      "ru": "ЗООПАРК"
+    },
+    "pinyin": "dòngwùyuán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 638,
+    "simplified": "读音",
+    "translations": {
+      "ru": "ПРОИЗНОШЕНИЕ, ЧТЕНИЕ СЛОВ"
+    },
+    "pinyin": "dúyīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 639,
+    "simplified": "度",
+    "translations": {
+      "ru": "ПРЕДЕЛ, СТЕПЕНЬ; ПРАВИЛО, НОРМА ПОВЕДЕНИЯ; МАНЕРА; ВРЕМЯ; ГРАДУС (ОБ УГЛАХ, ТЕМПЕРАТУРЕ, АЛКОГОЛЬ)"
+    },
+    "pinyin": "dù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 640,
+    "simplified": "短",
+    "translations": {
+      "ru": "КОРОТКИЙ"
+    },
+    "pinyin": "duǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 641,
+    "simplified": "短信",
+    "translations": {
+      "ru": "СМС, СООБЩЕНИЕ"
+    },
+    "pinyin": "duǎnxìn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 642,
+    "simplified": "段",
+    "translations": {
+      "ru": "ПАРАГРАФ, ОТРЕЗОК, ПЕРИОД ВРЕМЕНИ, СТАДИЯ; ВИД, СОРТ (ТАКЖЕ СЧЁТНОЕ СЛОВО)"
+    },
+    "pinyin": "duàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 643,
+    "simplified": "队",
+    "translations": {
+      "ru": "КОМАНДА"
+    },
+    "pinyin": "duì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 644,
+    "simplified": "队长",
+    "translations": {
+      "ru": "КАПИТАН, ЛИДЕР"
+    },
+    "pinyin": "duìzhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 645,
+    "simplified": "对",
+    "translations": {
+      "ru": "СТОЯТЬ ЛИЦОМ К; СОЧЕТАТЬСЯ ДРУГ С ДРУГОМ; ПОДХОДИТЬ; СРАВНИВАТЬ, СВЕРЯТЬ; НАСТРАИВАТЬ; СМЕШИВАТЬ С, ДОБАВЛЯТЬ; ПРОТИВОСТОЯТЬ"
+    },
+    "pinyin": "duì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 646,
+    "simplified": "对话",
+    "translations": {
+      "ru": "ДИАЛОГ"
+    },
+    "pinyin": "duìhuà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 647,
+    "simplified": "对面",
+    "translations": {
+      "ru": "НАПРОТИВ; ПРОТИВОПОЛОЖНАЯ СТОРОНА; ЛИЦОМ К ЛИЦУ"
+    },
+    "pinyin": "duìmiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 648,
+    "simplified": "多",
+    "translations": {
+      "ru": "МНОГО"
+    },
+    "pinyin": "duō",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 649,
+    "simplified": "多久",
+    "translations": {
+      "ru": "КАК ДОЛГО; КАК ЧАСТО"
+    },
+    "pinyin": "duōjiǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 650,
+    "simplified": "多么",
+    "translations": {
+      "ru": "НАСКОЛЬКО…; НАСКОЛЬКО БЫ…"
+    },
+    "pinyin": "duōme",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 651,
+    "simplified": "多数",
+    "translations": {
+      "ru": "БОЛЬШИНСТВО, БОЛЬШАЯ ЧАСТЬ"
+    },
+    "pinyin": "duōshù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 652,
+    "simplified": "多云",
+    "translations": {
+      "ru": "ОБЛАЧНЫЙ"
+    },
+    "pinyin": "duōyún",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 653,
+    "simplified": "而且",
+    "translations": {
+      "ru": "НО И; К ТОМУ ЖЕ, ЕЩЁ И"
+    },
+    "pinyin": "érqiě",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 654,
+    "simplified": "发",
+    "translations": {
+      "ru": "ПОСЫЛАТЬ, ИСПУСКАТЬ, РАЗВИВАТЬ"
+    },
+    "pinyin": "fā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 655,
+    "simplified": "发现",
+    "translations": {
+      "ru": "ОБНАРУЖИВАТЬ"
+    },
+    "pinyin": "fāxiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 656,
+    "simplified": "饭馆",
+    "translations": {
+      "ru": "РЕСТОРАН, ЗАКУСОЧНАЯ"
+    },
+    "pinyin": "fànguǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 657,
+    "simplified": "方便",
+    "translations": {
+      "ru": "УДОБНЫЙ"
+    },
+    "pinyin": "fāngbiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 658,
+    "simplified": "方便面",
+    "translations": {
+      "ru": "ЛАПША БЫСТРОГО ПРИГОТОВЛЕНИЯ"
+    },
+    "pinyin": "fāngbiànmiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 659,
+    "simplified": "方法",
+    "translations": {
+      "ru": "СПОСОБ, МЕТОД; СРЕДСТВО; ПУТЬ, ПРИЁМ"
+    },
+    "pinyin": "fāngfǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 660,
+    "simplified": "方面",
+    "translations": {
+      "ru": "СТОРОНА; СО СТОРОНЫ; В НАПРАВЛЕНИИ; АСПЕКТ, ОТНОШЕНИЕ"
+    },
+    "pinyin": "fāngmiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 661,
+    "simplified": "方向",
+    "translations": {
+      "ru": "НАПРАВЛЕНИЕ; СТОРОНА; ОРИЕНТАЦИЯ"
+    },
+    "pinyin": "fāngxiàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 662,
+    "simplified": "放下",
+    "translations": {
+      "ru": "ОТПУСКАТЬ; ВЫПУСКАТЬ ИЗ РУК; ОТКЛАДЫВАТЬ, ОТВЛЕКАТЬСЯ; СКЛАДЫВАТЬ (ОРУЖИЕ)"
+    },
+    "pinyin": "fàngxià",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 663,
+    "simplified": "放心",
+    "translations": {
+      "ru": "КЛАСТЬ, СКЛАДЫВАТЬ"
+    },
+    "pinyin": "fàngxīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 664,
+    "simplified": "分",
+    "translations": {
+      "ru": "ДЕЛИТЬ, ОТДЕЛЯТЬ; РАСПРЕДЕЛЯТЬ, ВЫДАВАТЬ; ДЕЛАТЬ РАЗЛИЧИЕ"
+    },
+    "pinyin": "fēn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 665,
+    "simplified": "分开",
+    "translations": {
+      "ru": "ДЕЛИТЬ, ОТДЕЛЯТЬ, РАЗДЕЛЯТЬСЯ"
+    },
+    "pinyin": "fēnkāi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 666,
+    "simplified": "分数",
+    "translations": {
+      "ru": "ЗАЧЁТНЫЙ БАЛЛ, ОЦЕНКА; (МАТЕМ.) ДРОБЬ"
+    },
+    "pinyin": "fēnshù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 667,
+    "simplified": "分钟",
+    "translations": {
+      "ru": "МИНУТА"
+    },
+    "pinyin": "fēnzhōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 668,
+    "simplified": "份",
+    "translations": {
+      "ru": "ЧАСТЬ, ДОЛЯ; ПАЙ, ДОЗА, ПОРЦИЯ; ЭКЗЕМПЛЯР; ШТУКА (СЧЁТНОЕ СЛОВО)"
+    },
+    "pinyin": "fèn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 669,
+    "simplified": "封",
+    "translations": {
+      "ru": "СЧЁТНОЕ СЛОВО ДЛЯ ПИСЕМ И ДР. ПРЕДМЕТОВ В КОНВЕРТЕ"
+    },
+    "pinyin": "fēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 670,
+    "simplified": "服务",
+    "translations": {
+      "ru": "СЛУЖИТЬ, ПРИСЛУЖИВАТЬ; УСЛУГА"
+    },
+    "pinyin": "fúwù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 671,
+    "simplified": "复习",
+    "translations": {
+      "ru": "ПОВТОРЯТЬ (ИЗУЧЕННОЕ; БУКВ. ПОВТОРЯТЬ+ИЗУЧАТЬ)"
+    },
+    "pinyin": "fùxí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 672,
+    "simplified": "该",
+    "translations": {
+      "ru": "ДОЛЖЕН, СЛЕДУЕТ; ЧЬЯ-ТО ОЧЕРЕДЬ ДЕЛАТЬ ЧТО-ТО"
+    },
+    "pinyin": "gāi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 673,
+    "simplified": "改",
+    "translations": {
+      "ru": "ИЗМЕНЯТЬСЯ, ПЕРЕМЕНЯТЬСЯ (ОСОБЕННО: К ЛУЧШЕМУ); ИСПРАВЛЯТЬСЯ"
+    },
+    "pinyin": "gǎi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 674,
+    "simplified": "改变",
+    "translations": {
+      "ru": "ИЗМЕНЯТЬ, ПЕРЕМЕНЯТЬ; ПРЕОБРАЗОВЫВАТЬ; ИЗМЕНЕНИЕ, ПЕРЕМЕНА"
+    },
+    "pinyin": "gǎibiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 675,
+    "simplified": "干杯",
+    "translations": {
+      "ru": "ВЫПИТЬ ДО ДНА, ОСУШИТЬ БОКАЛ; ПЕЙ ДО ДНА!"
+    },
+    "pinyin": "gānbēi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 676,
+    "simplified": "感到",
+    "translations": {
+      "ru": "ЧУВСТВОВАТЬ, ОЩУЩАТЬ, ОТДАВАТЬ СЕБЕ ОТЧЁТ В, ВОСПРИНИМАТЬ"
+    },
+    "pinyin": "gǎndào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 677,
+    "simplified": "感动",
+    "translations": {
+      "ru": "РАСТРОГАТЬСЯ, РАСЧУВСТВОВАТЬСЯ; РАСТРОГАТЬ"
+    },
+    "pinyin": "gǎndòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 678,
+    "simplified": "感觉",
+    "translations": {
+      "ru": "ЧУВСТВО; ОЩУЩЕНИЕ; РЕАКЦИЯ; ЧУВСТВОВАТЬ, ОЩУЩАТЬ; ЧУВСТВИТЕЛЬНЫЙ; ВОСПРИЯТИЕ"
+    },
+    "pinyin": "gǎnjué",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 679,
+    "simplified": "感谢",
+    "translations": {
+      "ru": "БЫТЬ БЛАГОДАРНЫМ; ЧУВСТВИТЕЛЬНО БЛАГОДАРИТЬ"
+    },
+    "pinyin": "gǎnxiè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 680,
+    "simplified": "干活儿",
+    "translations": {
+      "ru": "РАБОТАТЬ, ТРУДИТЬСЯ; РАБОТА"
+    },
+    "pinyin": "gànhuór",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 681,
+    "simplified": "刚",
+    "translations": {
+      "ru": "ТОЛЬКО ЧТО; КАК РАЗ; ТВЁРДЫЙ, СТОЙКИЙ"
+    },
+    "pinyin": "gāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 682,
+    "simplified": "刚才",
+    "translations": {
+      "ru": "ТОЛЬКО ЧТО"
+    },
+    "pinyin": "gāngcái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 683,
+    "simplified": "刚刚",
+    "translations": {
+      "ru": "ТОЛЬКО ЧТО, ТОЛЬКО СЕЙЧАС"
+    },
+    "pinyin": "gānggāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 684,
+    "simplified": "高级",
+    "translations": {
+      "ru": "ВЫСШАЯ СТУПЕНЬ; ВЫСОКОГО РАЗРЯДА; ПЕРВОКЛАССНЫЙ; ВЫСОКОСОРТНЫЙ"
+    },
+    "pinyin": "gāojí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 685,
+    "simplified": "高中",
+    "translations": {
+      "ru": "ВЫСШАЯ СТУПЕНЬ СРЕДНЕЙ ШКОЛЫ"
+    },
+    "pinyin": "gāozhōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 686,
+    "simplified": "个子",
+    "translations": {
+      "ru": "РОСТ, КОМПЛЕКЦИЯ, ТЕЛОСЛОЖЕНИЕ, ФИГУРА"
+    },
+    "pinyin": "gèzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 687,
+    "simplified": "更",
+    "translations": {
+      "ru": "БОЛЕЕ"
+    },
+    "pinyin": "gèng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 688,
+    "simplified": "公共汽车",
+    "translations": {
+      "ru": "ОБЩЕСТВЕННЫЙ АВТОБУС"
+    },
+    "pinyin": "gōnggòngqìchē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 689,
+    "simplified": "公交车",
+    "translations": {
+      "ru": "ОБЩЕСТВЕННЫЙ ТРАНСПОРТ, АВТОБУС"
+    },
+    "pinyin": "gōngjiāochē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 690,
+    "simplified": "公斤",
+    "translations": {
+      "ru": "КИЛОГРАММ"
+    },
+    "pinyin": "gōngjīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 691,
+    "simplified": "公里",
+    "translations": {
+      "ru": "КИЛОМЕТР"
+    },
+    "pinyin": "gōnglǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 692,
+    "simplified": "公路",
+    "translations": {
+      "ru": "АВТОТРАССА, ШОССЕ"
+    },
+    "pinyin": "gōnglù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 693,
+    "simplified": "公平",
+    "translations": {
+      "ru": "ЧЕСТНЫЙ, СПРАВЕДЛИВЫЙ, БЕСПРИСТРАСТНЫЙ"
+    },
+    "pinyin": "gōngpíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 694,
+    "simplified": "公司",
+    "translations": {
+      "ru": "ФИРМА, КОМПАНИЯ"
+    },
+    "pinyin": "gōngsī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 695,
+    "simplified": "公园",
+    "translations": {
+      "ru": "ПАРК"
+    },
+    "pinyin": "gōngyuán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 696,
+    "simplified": "狗",
+    "translations": {
+      "ru": "СОБАКА"
+    },
+    "pinyin": "gǒu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 697,
+    "simplified": "够",
+    "translations": {
+      "ru": "ДОСТАТОЧНО, ДОВОЛЬНО; ХВАТАЕТ"
+    },
+    "pinyin": "gòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 698,
+    "simplified": "故事",
+    "translations": {
+      "ru": "ИСТОРИЯ, РАССКАЗ"
+    },
+    "pinyin": "gùshi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 699,
+    "simplified": "故意",
+    "translations": {
+      "ru": "ПРЕДНАМЕРЕННО, НАМЕРЕННО, УМЫШЛЕННО"
+    },
+    "pinyin": "gùyì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 700,
+    "simplified": "顾客",
+    "translations": {
+      "ru": "КЛИЕНТ, ПОКУПАТЕЛЬ, ПОТРЕБИТЕЛЬ, ЗАКАЗЧИК"
+    },
+    "pinyin": "gùkè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 701,
+    "simplified": "关机",
+    "translations": {
+      "ru": "ОТКЛЮЧАТЬ, ОБЕСТОЧИВАТЬ, ВЫКЛЮЧАТЬ (КОМПЬЮТЕР)"
+    },
+    "pinyin": "guānjī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 702,
+    "simplified": "关心",
+    "translations": {
+      "ru": "ЗАБОТИТЬСЯ, ВНИМАНИЕ, ЗАБОТА"
+    },
+    "pinyin": "guānxīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 703,
+    "simplified": "观点",
+    "translations": {
+      "ru": "ТОЧКА ЗРЕНИЯ, ВЗГЛЯД, ПОДХОД; ПОЗИЦИЯ"
+    },
+    "pinyin": "guāndiǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 704,
+    "simplified": "广场",
+    "translations": {
+      "ru": "ПЛОЩАДЬ (ГОРОДСКАЯ); ШИРОКОЕ (ОТКРЫТОЕ) ПРОСТРАНСТВО"
+    },
+    "pinyin": "guǎngchǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 705,
+    "simplified": "广告",
+    "translations": {
+      "ru": "ОБЪЯВЛЕНИЕ; РЕКЛАМА; АФИША"
+    },
+    "pinyin": "guǎnggào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 706,
+    "simplified": "国际",
+    "translations": {
+      "ru": "МЕЖДУНАРОДНЫЙ; ИНТЕРНАЦИОНАЛЬНЫЙ"
+    },
+    "pinyin": "guójì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 707,
+    "simplified": "过来",
+    "translations": {
+      "ru": "ПОДХОДИТЬ, ПРИХОДИТЬ"
+    },
+    "pinyin": "guòlái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 708,
+    "simplified": "过年",
+    "translations": {
+      "ru": "ПРАЗДНОВАТЬ КИТАЙСКИЙ НОВЫЙ ГОД"
+    },
+    "pinyin": "guònián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 709,
+    "simplified": "过去",
+    "translations": {
+      "ru": "ПРОЙТИ, СХОДИТЬ"
+    },
+    "pinyin": "guòqù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 710,
+    "simplified": "过",
+    "translations": {
+      "ru": "ГЛАГОЛЬНЫЙ СУФФИКС НЕОПРЕДЕЛЁННОГО ПРОШЕДШЕГО ВРЕМЕНИ, УКАЗЫВАЕТ, ЧТО ДЕЙСТВИЕ ПРОИЗОШЛО В ПРОШЛОМ ОДНАЖДЫ ИЛИ НЕОДНОКРАТНО, НО СЕЙЧАС БОЛЕЕ НЕ ПРОИСХОДИТ, ЧТО, ОДНАКО, НЕ ИСКЛЮЧАЕТ ЕГО ПОВТОРЕНИЯ В НАСТОЯЩЕМ ИЛИ БУДУЩЕМ ВРЕМЕНИ"
+    },
+    "pinyin": "guo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 711,
+    "simplified": "海",
+    "translations": {
+      "ru": "МОРЕ; КРУПНОЕ ОЗЕРО; (ОБР.) МНОЖЕСТВО, МОРЕ"
+    },
+    "pinyin": "hǎi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 712,
+    "simplified": "海边",
+    "translations": {
+      "ru": "БЕРЕГ МОРЯ, МОРСКОЕ ПОБЕРЕЖЬЕ"
+    },
+    "pinyin": "hǎibiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 713,
+    "simplified": "喊",
+    "translations": {
+      "ru": "КРИЧАТЬ; ВЫКРИКИВАТЬ; ОКЛИКАТЬ, ЗВАТЬ"
+    },
+    "pinyin": "hǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 714,
+    "simplified": "好",
+    "translations": {
+      "ru": "ХОРОШО, ХОРОШЕНЬКО"
+    },
+    "pinyin": "hǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 715,
+    "simplified": "好处",
+    "translations": {
+      "ru": "ПРЕИМУЩЕСТВО; ДОСТОИНСТВО; ПОЛЬЗА; ВЫГОДА"
+    },
+    "pinyin": "hǎochù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 716,
+    "simplified": "好多",
+    "translations": {
+      "ru": "ОЧЕНЬ МНОГО, МНОГОЧИСЛЕННЫЙ"
+    },
+    "pinyin": "hǎoduō",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 717,
+    "simplified": "好久",
+    "translations": {
+      "ru": "ДОЛГОЕ ВРЕМЯ, В ТЕЧЕНИЕ ДОЛГОГО ВРЕМЕНИ"
+    },
+    "pinyin": "hǎojiǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 718,
+    "simplified": "好人",
+    "translations": {
+      "ru": "ХОРОШИЙ ЧЕЛОВЕК, ДОБРЫЙ ЧЕЛОВЕК"
+    },
+    "pinyin": "hǎorén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 719,
+    "simplified": "好事",
+    "translations": {
+      "ru": "ДОБРОЕ ДЕЛО, РАДОСТНОЕ СОБЫТИЕ"
+    },
+    "pinyin": "hǎoshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 720,
+    "simplified": "好像",
+    "translations": {
+      "ru": "ПОХОЖЕ, ЧТО…; БЫТЬ ПОХОЖИМ НА…; КАЖЕТСЯ"
+    },
+    "pinyin": "hǎoxiàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 721,
+    "simplified": "合适",
+    "translations": {
+      "ru": "УДОБНЫЙ, ПОДХОДЯЩИЙ, СООТВЕТСТВУЮЩИЙ; ПОДХОДИТЬ, ГОДИТЬСЯ"
+    },
+    "pinyin": "héshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 722,
+    "simplified": "河",
+    "translations": {
+      "ru": "РЕКА; ЖЁЛТАЯ РЕКА, ХУАНХЭ; МЛЕЧНЫЙ ПУТЬ, ГАЛАКТИКА"
+    },
+    "pinyin": "hé",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 723,
+    "simplified": "黑",
+    "translations": {
+      "ru": "ЧЁРНЫЙ, ТЁМНЫЙ"
+    },
+    "pinyin": "hēi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 724,
+    "simplified": "黑板",
+    "translations": {
+      "ru": "ДОСКА (В КЛАССЕ; БУКВ. ЧЁРНЫЙ + ДОСКА)"
+    },
+    "pinyin": "hēibǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 725,
+    "simplified": "黑色",
+    "translations": {
+      "ru": "ЧЁРНЫЙ ЦВЕТ, ЧЁРНЫЙ"
+    },
+    "pinyin": "hēisè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 726,
+    "simplified": "红",
+    "translations": {
+      "ru": "КРАСНЫЙ; ПОПУЛЯРНЫЙ"
+    },
+    "pinyin": "hóng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 727,
+    "simplified": "红色",
+    "translations": {
+      "ru": "КРАСНЫЙ ЦВЕТ"
+    },
+    "pinyin": "hóngsè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 728,
+    "simplified": "后来",
+    "translations": {
+      "ru": "ВПОСЛЕДСТВИИ, В ДАЛЬНЕЙШЕМ, ПОТОМ, ПОСЛЕ, ЗАЧЕМ"
+    },
+    "pinyin": "hòulái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 729,
+    "simplified": "忽然",
+    "translations": {
+      "ru": "ВДРУГ, ВНЕЗАПНО, НЕОЖИДАННО"
+    },
+    "pinyin": "hūrán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 730,
+    "simplified": "湖",
+    "translations": {
+      "ru": "ОЗЕРО"
+    },
+    "pinyin": "hú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 731,
+    "simplified": "护照",
+    "translations": {
+      "ru": "ПАСПОРТ"
+    },
+    "pinyin": "hùzhào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 732,
+    "simplified": "花",
+    "translations": {
+      "ru": "ТРАТИТЬ, РАСХОДОВАТЬ"
+    },
+    "pinyin": "huā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 733,
+    "simplified": "花园",
+    "translations": {
+      "ru": "САД"
+    },
+    "pinyin": "huāyuán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 734,
+    "simplified": "画",
+    "translations": {
+      "ru": "РИСОВАТЬ, КАРТИНА"
+    },
+    "pinyin": "huà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 735,
+    "simplified": "画家",
+    "translations": {
+      "ru": "ХУДОЖНИК, ЖИВОПИСЕЦ"
+    },
+    "pinyin": "huàjiā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 736,
+    "simplified": "画儿",
+    "translations": {
+      "ru": "КАРТИНА, КАРТИНКА, РИСУНОК"
+    },
+    "pinyin": "huàr",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 737,
+    "simplified": "坏处",
+    "translations": {
+      "ru": "НЕДОСТАТОК, ВРЕД"
+    },
+    "pinyin": "huàichù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 738,
+    "simplified": "坏人",
+    "translations": {
+      "ru": "ПЛОХОЙ ЧЕЛОВЕК, ЗЛОДЕЙ, НЕГОДЯЙ"
+    },
+    "pinyin": "huàirén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 739,
+    "simplified": "欢迎",
+    "translations": {
+      "ru": "ДОБРО ПОЖАЛОВАТЬ"
+    },
+    "pinyin": "huānyíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 740,
+    "simplified": "换",
+    "translations": {
+      "ru": "ОБМЕНЯТЬ, МЕНЯТЬ"
+    },
+    "pinyin": "huàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 741,
+    "simplified": "黄",
+    "translations": {
+      "ru": "ЖЁЛТЫЙ"
+    },
+    "pinyin": "huáng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 742,
+    "simplified": "黄色",
+    "translations": {
+      "ru": "ЖЁЛТЫЙ ЦВЕТ"
+    },
+    "pinyin": "huángsè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 743,
+    "simplified": "回",
+    "translations": {
+      "ru": "ВОЗВРАЩАТЬСЯ, ПРИХОДИТЬ НАЗАД, (СЧЁТНОЕ СЛОВО ДЛЯ КОЛИЧЕСТВА ПОВТОРЕНИЙ) РАЗ; (СЧЁТНОЕ СЛОВО ДЛЯ СОБЫТИЙ)"
+    },
+    "pinyin": "huí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 744,
+    "simplified": "回国",
+    "translations": {
+      "ru": "ВОЗВРАЩАТЬСЯ НА РОДИНУ"
+    },
+    "pinyin": "huíguó",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 745,
+    "simplified": "会",
+    "translations": {
+      "ru": "ВСТРЕЧА, КОНФЕРЕНЦИЯ"
+    },
+    "pinyin": "huì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 746,
+    "simplified": "活动",
+    "translations": {
+      "ru": "ДЕЙСТВОВАТЬ; ДЕЙСТВИЕ; ДЕЯТЕЛЬНОСТЬ; МЕРОПРИЯТИЕ; ДВИГАТЬСЯ; ПОДВИЖНЫЙ"
+    },
+    "pinyin": "huódòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 747,
+    "simplified": "或",
+    "translations": {
+      "ru": "ИЛИ, ЛИБО; ВОЗМОЖНО, МОЖЕТ БЫТЬ; (КНИЖН.) НЕМНОГО, СЛЕГКА"
+    },
+    "pinyin": "huò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 748,
+    "simplified": "或者",
+    "translations": {
+      "ru": "ИЛИ"
+    },
+    "pinyin": "huòzhě",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 749,
+    "simplified": "机会",
+    "translations": {
+      "ru": "ВОЗМОЖНОСТЬ, ШАНС"
+    },
+    "pinyin": "jīhuì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 750,
+    "simplified": "鸡",
+    "translations": {
+      "ru": "ПЕТУХ, КУРИЦА"
+    },
+    "pinyin": "jī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 751,
+    "simplified": "级",
+    "translations": {
+      "ru": "РАНГ, РАЗРЯД, УРОВЕНЬ; СТУПЕНЬ; КЛАСС, ГОД ОБУЧЕНИЯ (В ШКОЛЕ)"
+    },
+    "pinyin": "jí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 752,
+    "simplified": "急",
+    "translations": {
+      "ru": "ИСПЫТЫВАТЬ НЕТЕРПЕНИЕ, БЕСПОКОИТЬСЯ"
+    },
+    "pinyin": "jí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 753,
+    "simplified": "计划",
+    "translations": {
+      "ru": "ПЛАН; ПЛАНИРОВАТЬ; ПЛАНОВЫЙ"
+    },
+    "pinyin": "jìhuà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 754,
+    "simplified": "计算机",
+    "translations": {
+      "ru": "КОМПЬЮТЕР"
+    },
+    "pinyin": "jìsuànjī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 755,
+    "simplified": "加",
+    "translations": {
+      "ru": "ДОБАВЛЯТЬ, УВЕЛИЧИВАТЬ"
+    },
+    "pinyin": "jiā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 756,
+    "simplified": "加油",
+    "translations": {
+      "ru": "ЗАПРАВЛЯТЬ (ГОРЮЧИМ); ПРИЛОЖИТЬ ДОПОЛНИТЕЛЬНЫЕ УСИЛИЯ, ПОДНАЖАТЬ"
+    },
+    "pinyin": "jiāyóu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 757,
+    "simplified": "家（科学家）",
+    "translations": {
+      "ru": "СУФФИКС СУЩЕСТВИТЕЛЬНЫХ, ОБОЗНАЧАЮЩИХ ПРЕДСТАВИТЕЛЕЙ СПЕЦИАЛЬНОСТИ, ПРОФЕССИИ"
+    },
+    "pinyin": "jiā  (kēxué jiā)",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 758,
+    "simplified": "家庭",
+    "translations": {
+      "ru": "СЕМЬЯ; ДОМ; ДОМАШНИЙ; СЕМЕЙНЫЙ"
+    },
+    "pinyin": "jiātíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 759,
+    "simplified": "家长",
+    "translations": {
+      "ru": "РОДИТЕЛЬ"
+    },
+    "pinyin": "jiāzhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 760,
+    "simplified": "假",
+    "translations": {
+      "ru": "ЛОЖНЫЙ; ФАЛЬШИВЫЙ; ПОДДЕЛЬНЫЙ; ФИКТИВНЫЙ"
+    },
+    "pinyin": "jiǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 761,
+    "simplified": "假期",
+    "translations": {
+      "ru": "КАНИКУЛЫ, ОТПУСК"
+    },
+    "pinyin": "jiàqī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 762,
+    "simplified": "检查",
+    "translations": {
+      "ru": "ПРОВЕРЯТЬ, ПРОВЕРКА"
+    },
+    "pinyin": "jiǎnchá",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 763,
+    "simplified": "见到",
+    "translations": {
+      "ru": "УДИВЛЯТЬ, ВСТРЕТИТЬСЯ"
+    },
+    "pinyin": "jiàndào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 764,
+    "simplified": "见过",
+    "translations": {
+      "ru": "ВИДАЛ, ВСТРЕЧАЛ"
+    },
+    "pinyin": "jiànguo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 765,
+    "simplified": "件",
+    "translations": {
+      "ru": "СЧЁТНОЕ СЛОВО ДЛЯ ВЕЩЕЙ, ОДЕЖДЫ, СОБЫТИЙ"
+    },
+    "pinyin": "jiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 766,
+    "simplified": "健康",
+    "translations": {
+      "ru": "ЗДОРОВЫЙ, ЗДОРОВЬЕ"
+    },
+    "pinyin": "jiànkāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 767,
+    "simplified": "讲",
+    "translations": {
+      "ru": "ГОВОРИТЬ, РАССКАЗЫВАТЬ, ОБЪЯСНЯТЬ"
+    },
+    "pinyin": "jiǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 768,
+    "simplified": "讲话",
+    "translations": {
+      "ru": "ГОВОРИТЬ, РАЗГОВАРИВАТЬ"
+    },
+    "pinyin": "jiǎnghuà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 769,
+    "simplified": "交",
+    "translations": {
+      "ru": "СДАВАТЬ; ОТДАВАТЬ; ВРУЧАТЬ; ИМЕТЬ СВЯЗЬ; ВОДИТЬ ЗНАКОМСТВО; ПЕРЕСЕКАТЬСЯ; ПЕРЕПЛЕТАТЬСЯ; ДРУЖБА; ОБМЕНИВАТЬСЯ; ВЗАИМНО"
+    },
+    "pinyin": "jiāo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 770,
+    "simplified": "交给",
+    "translations": {
+      "ru": "ДАВАТЬ; ДОСТАВЛЯТЬ; ПЕРЕДАВАТЬ, ВРУЧАТЬ"
+    },
+    "pinyin": "jiāogěi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 771,
+    "simplified": "交朋友",
+    "translations": {
+      "ru": "ДРУЖИТЬ, ЗАВОДИТЬ ДРУЗЕЙ"
+    },
+    "pinyin": "jiāopéngyou",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 772,
+    "simplified": "交通",
+    "translations": {
+      "ru": "СВЯЗЬ; СООБЩЕНИЕ; КОММУНИКАЦИИ; ПУТИ СООБЩЕНИЯ; ДВИЖЕНИЕ"
+    },
+    "pinyin": "jiāotōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 773,
+    "simplified": "角",
+    "translations": {
+      "ru": "УГОЛ, РОГ"
+    },
+    "pinyin": "jiǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 774,
+    "simplified": "角度",
+    "translations": {
+      "ru": "УГОЛ; ТОЧКА ЗРЕНИЯ, СТОРОНА"
+    },
+    "pinyin": "jiǎodù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 775,
+    "simplified": "饺子",
+    "translations": {
+      "ru": "ЦЗЯОЦЗЫ, ПЕЛЬМЕНИ"
+    },
+    "pinyin": "jiǎozi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 776,
+    "simplified": "脚",
+    "translations": {
+      "ru": "НОГА; СТУПНЯ, СТОПА; НОЖКА (ПРЕДМЕТА)"
+    },
+    "pinyin": "jiǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 777,
+    "simplified": "叫作",
+    "translations": {
+      "ru": "НАЗЫВАТЬ; НАЗЫВАТЬСЯ"
+    },
+    "pinyin": "jiàozuò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 778,
+    "simplified": "教师",
+    "translations": {
+      "ru": "УЧИТЕЛЬ, ПРЕПОДАВАТЕЛЬ"
+    },
+    "pinyin": "jiàoshī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 779,
+    "simplified": "教室",
+    "translations": {
+      "ru": "АУДИТОРИЯ, КЛАСС (БУКВ. ОБУЧАТЬ + КОМНАТА)"
+    },
+    "pinyin": "jiàoshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 780,
+    "simplified": "教学",
+    "translations": {
+      "ru": "ПРЕПОДАВАНИЕ (ОБУЧЕНИЕ) И УЧЁБА (ВОСПРИЯТИЕ); ОБУЧЕНИЕ, УЧЕБНОЕ ДЕЛО; УЧЕБНЫЙ ПРОЦЕСС"
+    },
+    "pinyin": "jiàoxué",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 781,
+    "simplified": "教育",
+    "translations": {
+      "ru": "ПРОСВЕЩЕНИЕ, ОБРАЗОВАНИЕ; ВОСПИТЫВАТЬ; ВОСПИТАНИЕ"
+    },
+    "pinyin": "jiàoyù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 782,
+    "simplified": "接",
+    "translations": {
+      "ru": "ВСТРЕЧАТЬ, ПРИНИМАТЬ, ПОЛУЧАТЬ, БРАТЬ, СОЕДИНЯТЬ, ПЕРЕНИМАТЬ"
+    },
+    "pinyin": "jiē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 783,
+    "simplified": "接到",
+    "translations": {
+      "ru": "ПОЛУЧИТ, ПРИНЯТЬ; ПОДКЛЮЧИТЬ, ПРИСОЕДИНИТЬ"
+    },
+    "pinyin": "jiēdào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 784,
+    "simplified": "接受",
+    "translations": {
+      "ru": "ПРИНИМАТЬ (НАПР., ПРИГЛАШЕНИЕ, ПОДАРОК); ВОСПРИНЯТЬ (НАПР., КРИТИКУ)"
+    },
+    "pinyin": "jiēshòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 785,
+    "simplified": "接下来",
+    "translations": {
+      "ru": "СЛЕДУЮЩИЙ; ДАЛЕЕ"
+    },
+    "pinyin": "jiēxiàlái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 786,
+    "simplified": "接着",
+    "translations": {
+      "ru": "ЗАТЕМ, ВСЛЕД ЗАТЕМ; СЛЕДОМ; СРАЗУ ЗА (ЧЕМ-ЛИБО); ПРИНИМАТЬ; ПРОДОЛЖАТЬ"
+    },
+    "pinyin": "jiēzhe",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 787,
+    "simplified": "街",
+    "translations": {
+      "ru": "УЛИЦА"
+    },
+    "pinyin": "jiē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 788,
+    "simplified": "节",
+    "translations": {
+      "ru": "СУСТАВ, УЗЕЛ, СОЧЛЕНЕНИЕ"
+    },
+    "pinyin": "jié",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 789,
+    "simplified": "节目",
+    "translations": {
+      "ru": "ПРОГРАММА (НАПР. ПО ТВ)"
+    },
+    "pinyin": "jiémù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 790,
+    "simplified": "节日",
+    "translations": {
+      "ru": "ПРАЗДНИК"
+    },
+    "pinyin": "jiérì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 791,
+    "simplified": "结果",
+    "translations": {
+      "ru": "РЕЗУЛЬТАТ, ИТОГ; В РЕЗУЛЬТАТЕ"
+    },
+    "pinyin": "jiéguǒ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 792,
+    "simplified": "借",
+    "translations": {
+      "ru": "ОДАЛЖИВАТЬ, ЗАНИМАТЬ; ПОСРЕДСТВОМ, ПОД ПРЕДЛОГОМ"
+    },
+    "pinyin": "jiè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 793,
+    "simplified": "斤",
+    "translations": {
+      "ru": "ЦЗИНЬ, СЧЁТНОЕ СЛОВО ДЛЯ ВЕСА, СООТВЕТСТВУЕТ 500 ГРАММАМ, ПОЛКИЛОГРАММА"
+    },
+    "pinyin": "jīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 794,
+    "simplified": "今后",
+    "translations": {
+      "ru": "ОТНЫНЕ, В ДАЛЬНЕЙШЕМ, В БУДУЩЕМ"
+    },
+    "pinyin": "jīnhòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 795,
+    "simplified": "进入",
+    "translations": {
+      "ru": "ВОЙТИ, ВСТУПИТЬ"
+    },
+    "pinyin": "jìnrù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 796,
+    "simplified": "进行",
+    "translations": {
+      "ru": "ПРОВОДИТЬ (ЧТО-ЛИБО), ПРОВЕДЕНИЕ; ОСУЩЕСТВЛЯТЬ; ИДТИ"
+    },
+    "pinyin": "jìnxíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 797,
+    "simplified": "近",
+    "translations": {
+      "ru": "БЛИЖНИЙ"
+    },
+    "pinyin": "jìn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 798,
+    "simplified": "经常",
+    "translations": {
+      "ru": "ЧАСТО, РЕГУЛЯРНО"
+    },
+    "pinyin": "jīngcháng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 799,
+    "simplified": "经过",
+    "translations": {
+      "ru": "ПРОХОДИТЬ (ЧЕРЕЗ…, ПО…); ЧЕРЕЗ; ИСПЫТЫВАТЬ"
+    },
+    "pinyin": "jīngguò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 800,
+    "simplified": "经理",
+    "translations": {
+      "ru": "МЕНЕДЖЕР, ДИРЕКТОР"
+    },
+    "pinyin": "jīnglǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 801,
+    "simplified": "酒",
+    "translations": {
+      "ru": "ВИНО, АЛКОГОЛЬ"
+    },
+    "pinyin": "jiǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 802,
+    "simplified": "酒店",
+    "translations": {
+      "ru": "ГОСТИНИЦА, ОТЕЛЬ; ВИННЫЙ МАГАЗИН, БАР"
+    },
+    "pinyin": "jiǔdiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 803,
+    "simplified": "就要",
+    "translations": {
+      "ru": "ПОКАЗАТЕЛЬ БУДУЩЕГО ВРЕМЕНИ, (ЧТО-ТО) ВОТ-ВОТ СЛУЧИТСЯ; СЛЕДУЕТ"
+    },
+    "pinyin": "jiùyào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 804,
+    "simplified": "举",
+    "translations": {
+      "ru": "ПОДНИМАТЬ; ПРИВОДИТЬ (ПРИМЕР И Т.П); ВЫДВИГАТЬ; ИЗБИРАТЬ"
+    },
+    "pinyin": "jǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 805,
+    "simplified": "举手",
+    "translations": {
+      "ru": "ПОДНИМАТЬ РУКУ"
+    },
+    "pinyin": "jǔshǒu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 806,
+    "simplified": "举行",
+    "translations": {
+      "ru": "ПРОВОДИТЬ, ПРЕДПРИНИМАТЬ; ОСУЩЕСТВЛЯТЬ, УСТРАИВАТЬ"
+    },
+    "pinyin": "jǔxíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 807,
+    "simplified": "句",
+    "translations": {
+      "ru": "ФРАЗА, ПРЕДЛОЖЕНИЕ"
+    },
+    "pinyin": "jù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 808,
+    "simplified": "句子",
+    "translations": {
+      "ru": "ПРЕДЛОЖЕНИЕ"
+    },
+    "pinyin": "jùzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 809,
+    "simplified": "卡",
+    "translations": {
+      "ru": "КАРТА, КАРТОЧКА; МАГНИТНАЯ КАРТА"
+    },
+    "pinyin": "kǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 810,
+    "simplified": "开机",
+    "translations": {
+      "ru": "ВКЛЮЧАТЬ (КОМПЬЮТЕР, МОБИЛЬНЫЙ ТЕЛЕФОН И Т.Д.)"
+    },
+    "pinyin": "kāijī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 811,
+    "simplified": "开心",
+    "translations": {
+      "ru": "ВЕСЕЛО; РАДОСТНО; РАДОВАТЬСЯ; РАЗЫГРЫВАТЬ"
+    },
+    "pinyin": "kāixīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 812,
+    "simplified": "开学",
+    "translations": {
+      "ru": "(ОБ УЧЁБЕ) НАЧИНАТЬСЯ"
+    },
+    "pinyin": "kāixué",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 813,
+    "simplified": "看法",
+    "translations": {
+      "ru": "ПОДХОД, ТОЧКА ЗРЕНИЯ, МНЕНИЕ; ВЗГЛЯДЫ, ВОЗЗРЕНИЕ"
+    },
+    "pinyin": "kànfǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 814,
+    "simplified": "考生",
+    "translations": {
+      "ru": "ЭКЗАМЕНУЮЩИЙСЯ"
+    },
+    "pinyin": "kǎoshēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 815,
+    "simplified": "靠",
+    "translations": {
+      "ru": "НАХОДИТЬСЯ В НЕПОСРЕДСТВЕННОЙ БЛИЗОСТИ ОТ…, ПРИЛЕГАТЬ ВПЛОТНУЮ К…, ПЛОТНО ПРИМЫКАТЬ К…; БЛИЗ, ВОЗЛЕ, ОКОЛО (ЧЕГО-ЛИБО)"
+    },
+    "pinyin": "kào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 816,
+    "simplified": "科",
+    "translations": {
+      "ru": "УЧЕБНЫЙ ПРЕДМЕТ, ОБЛАСТЬ ИЗУЧЕНИЯ, ДИСЦИПЛИНА, КАФЕДРА; (БИОЛ.) СЕМЕЙСТВО"
+    },
+    "pinyin": "kē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 817,
+    "simplified": "科学",
+    "translations": {
+      "ru": "НАУКА; ОТРАСЛЬ НАУКИ; НАУЧНЫЙ"
+    },
+    "pinyin": "kēxué",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 818,
+    "simplified": "可爱",
+    "translations": {
+      "ru": "МИЛЫЙ"
+    },
+    "pinyin": "kě’ài",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 819,
+    "simplified": "可能",
+    "translations": {
+      "ru": "ВОЗМОЖНО, МОЧЬ, ИМЕТЬ ВОЗМОЖНОСТЬ, ВОЗМОЖНОСТЬ"
+    },
+    "pinyin": "kěnéng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 820,
+    "simplified": "可怕",
+    "translations": {
+      "ru": "СТРАШНЫЙ; УЖАСНЫЙ; ВНУШАЮЩИЙ СТРАХ; СТРАШНО, УЖАСНО"
+    },
+    "pinyin": "kěpà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 821,
+    "simplified": "可是",
+    "translations": {
+      "ru": "НО, ОДНАКО, А"
+    },
+    "pinyin": "kěshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 822,
+    "simplified": "可以",
+    "translations": {
+      "ru": "МОЧЬ, ИМЕТЬ ВОЗМОЖНОСТЬ (РАЗРЕШЕНО)"
+    },
+    "pinyin": "kěyǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 823,
+    "simplified": "克",
+    "translations": {
+      "ru": "СПРАВИТЬСЯ; СУМЕТЬ; ВЫДЕРЖИВАТЬ"
+    },
+    "pinyin": "kè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 824,
+    "simplified": "刻",
+    "translations": {
+      "ru": "СЧЁТНОЕ СЛОВО МГНОВЕНИЕ, ЧЕТВЕРТЬ (ЧАСА); ЗЛОЙ, ЖЕСТОКИЙ; ГЛУБОКИЙ"
+    },
+    "pinyin": "kè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 825,
+    "simplified": "客人",
+    "translations": {
+      "ru": "ГОСТЬ"
+    },
+    "pinyin": "kèrén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 826,
+    "simplified": "课堂",
+    "translations": {
+      "ru": "КЛАССНАЯ КОМНАТА"
+    },
+    "pinyin": "kètáng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 827,
+    "simplified": "空气",
+    "translations": {
+      "ru": "ВОЗДУХ, АТМОСФЕРА; ВОЗДУШНЫЙ, АТМОСФЕРНЫЙ"
+    },
+    "pinyin": "kōngqì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 828,
+    "simplified": "哭",
+    "translations": {
+      "ru": "ПЛАКАТЬ"
+    },
+    "pinyin": "kū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 829,
+    "simplified": "快餐",
+    "translations": {
+      "ru": "БЫСТРАЯ ЕДА, ФАСТ-ФУД"
+    },
+    "pinyin": "kuàicān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 830,
+    "simplified": "快点儿",
+    "translations": {
+      "ru": "ПОТОРОПИСЬ, ПОБЫСТРЕЕ"
+    },
+    "pinyin": "kuài diǎnr",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 831,
+    "simplified": "快乐",
+    "translations": {
+      "ru": "ВЕСЁЛЫЙ"
+    },
+    "pinyin": "kuàilè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 832,
+    "simplified": "快要",
+    "translations": {
+      "ru": "ВОТ-ВОТ, СКОРО, В БЛИЖАЙШЕМ ВРЕМЕНИ"
+    },
+    "pinyin": "kuàiyào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 833,
+    "simplified": "筷子",
+    "translations": {
+      "ru": "ПАЛОЧКИ"
+    },
+    "pinyin": "kuàizi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 834,
+    "simplified": "拉",
+    "translations": {
+      "ru": "ТЯНУТЬ, ТАЩИТЬ; РАСТЯГИВАТЬ; ВЕСТИ ЗА СОБОЙ; ВТЯГИВАТЬ; ВПУТЫВАТЬ; ИГРАТЬ (НА СМЫЧКОВЫХ ИНСТРУМЕНТАХ)"
+    },
+    "pinyin": "lā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 835,
+    "simplified": "来自",
+    "translations": {
+      "ru": "ПРОИСХОДИТЬ ИЗ, ИСХОДИТЬ ИЗ, ПРОИСТЕКАТЬ ИЗ; ОТ, ИЗ (ЧЕГО-ЛИБО)"
+    },
+    "pinyin": "láizì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 836,
+    "simplified": "蓝",
+    "translations": {
+      "ru": "ГОЛУБОЙ; СИНИЙ"
+    },
+    "pinyin": "lán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 837,
+    "simplified": "蓝色",
+    "translations": {
+      "ru": "СИНИЙ ЦВЕТ"
+    },
+    "pinyin": "lánsè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 838,
+    "simplified": "篮球",
+    "translations": {
+      "ru": "БАСКЕТБОЛ"
+    },
+    "pinyin": "lánqiú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 839,
+    "simplified": "老",
+    "translations": {
+      "ru": "ДАВНО, УЖЕ ДАВНО; ИЗДАВНА; ОБЫЧНО, ВСЕГДА; ВСЁ ВРЕМЯ, ПОСТОЯННО; КАК ПРАВИЛО"
+    },
+    "pinyin": "lǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 840,
+    "simplified": "老（老王）",
+    "translations": {
+      "ru": "ВЕЖЛИВЫЙ ПРЕФИКС ПЕРЕД НАЗВАНИЯМИ УВАЖАЕМЫХ ЛИЦ"
+    },
+    "pinyin": "lǎo (Lǎo Wáng)",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 841,
+    "simplified": "老年",
+    "translations": {
+      "ru": "СТАРОСТЬ, ПРЕКЛОННЫЙ ВОЗРАСТ"
+    },
+    "pinyin": "lǎonián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 842,
+    "simplified": "老朋友",
+    "translations": {
+      "ru": "СТАРЫЙ ДРУГ"
+    },
+    "pinyin": "lǎo péngyou",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 843,
+    "simplified": "老是",
+    "translations": {
+      "ru": "ВСЕГДА"
+    },
+    "pinyin": "lǎoshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 844,
+    "simplified": "离",
+    "translations": {
+      "ru": "РАЗЛУЧАТЬСЯ, ПОКИДАТЬ, ОТСТОЯТЬ НА КАКОМ-ЛИБО РАССТОЯНИИ ОТ…"
+    },
+    "pinyin": "lí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 845,
+    "simplified": "离开",
+    "translations": {
+      "ru": "ПОКИДАТЬ, УХОДИТЬ"
+    },
+    "pinyin": "líkāi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 846,
+    "simplified": "礼物",
+    "translations": {
+      "ru": "ПОДАРОК"
+    },
+    "pinyin": "lǐwù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 847,
+    "simplified": "里头",
+    "translations": {
+      "ru": "ВНУТРИ"
+    },
+    "pinyin": "lǐtou",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 848,
+    "simplified": "理想",
+    "translations": {
+      "ru": "ИДЕАЛ, ИДЕАЛЬНОЕ; МЕЧТА"
+    },
+    "pinyin": "lǐxiǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 849,
+    "simplified": "例如",
+    "translations": {
+      "ru": "НАПРИМЕР, КАК НАПРИМЕР"
+    },
+    "pinyin": "lìrú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 850,
+    "simplified": "例子",
+    "translations": {
+      "ru": "ПРИМЕР"
+    },
+    "pinyin": "lìzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 851,
+    "simplified": "脸",
+    "translations": {
+      "ru": "ЛИЦО"
+    },
+    "pinyin": "liǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 852,
+    "simplified": "练",
+    "translations": {
+      "ru": "ПРАКТИКОВАТЬ"
+    },
+    "pinyin": "liàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 853,
+    "simplified": "练习",
+    "translations": {
+      "ru": "УПРАЖНЯТЬСЯ, УПРАЖНЕНИЕ"
+    },
+    "pinyin": "liànxí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 854,
+    "simplified": "凉",
+    "translations": {
+      "ru": "ПРОХЛАДНЫЙ, ХОЛОДНО; СТУДЁНЫЙ, ОСТУЖЕННЫЙ; СВЕЖИЙ (ВЕТЕР), ЧИСТЫЙ (ВОЗДУХ); СЛАБЫЙ, НИЗКИЙ"
+    },
+    "pinyin": "liáng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 855,
+    "simplified": "凉快",
+    "translations": {
+      "ru": "ПРОХЛАДНЫЙ; ПРОХЛАДА, СВЕЖЕСТЬ; НАСЛАЖДАТЬСЯ ПРОХЛАДОЙ"
+    },
+    "pinyin": "liángkuai",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 856,
+    "simplified": "两",
+    "translations": {
+      "ru": "ДВА, ПАРА, ОБА; И ТОТ И ДРУГОЙ"
+    },
+    "pinyin": "liǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 857,
+    "simplified": "亮",
+    "translations": {
+      "ru": "СВЕТЛЫЙ, ЯСНЫЙ, ЯРКИЙ: БЛЕСТЕТЬ, СВЕРКАТЬ"
+    },
+    "pinyin": "liàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 858,
+    "simplified": "辆",
+    "translations": {
+      "ru": "СЧЁТНОЕ СЛОВО ДЛЯ НАЗЕМНОГО ТРАНСПОРТА"
+    },
+    "pinyin": "liàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 859,
+    "simplified": "零下",
+    "translations": {
+      "ru": "(О ТЕМПЕРАТУРЕ) НИЖЕ НУЛЯ"
+    },
+    "pinyin": "língxià",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 860,
+    "simplified": "留",
+    "translations": {
+      "ru": "ОСТАТЬСЯ; ЗАДЕРЖАТЬ (-СЯ); СОХРАНИТЬ, ОСТАВИТЬ"
+    },
+    "pinyin": "liú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 861,
+    "simplified": "留下",
+    "translations": {
+      "ru": "ОСТАВЛЯТЬ; ОСТАВАТЬСЯ; ДЕРЖАТЬ, НЕ ОТПУСКАТЬ (КОГО-ТО)"
+    },
+    "pinyin": "liúxià",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 862,
+    "simplified": "留学生",
+    "translations": {
+      "ru": "СТУДЕНТ, УЧАЩИЙСЯ ЗА РУБЕЖОМ; ИНОСТРАННЫЙ СТУДЕНТ"
+    },
+    "pinyin": "liúxuéshēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 863,
+    "simplified": "流",
+    "translations": {
+      "ru": "(О ЖИДКОСТИ) ЛИТЬСЯ"
+    },
+    "pinyin": "liú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 864,
+    "simplified": "流利",
+    "translations": {
+      "ru": "СВОБОДНЫЙ, БЕГЛЫЙ; СКЛАДНЫЙ (О РЕЧИ)"
+    },
+    "pinyin": "liúlì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 865,
+    "simplified": "流行",
+    "translations": {
+      "ru": "МОДНЫЙ; ПОПУЛЯРНЫЙ; ИМЕТЬ ХОЖДЕНИЕ"
+    },
+    "pinyin": "liúxíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 866,
+    "simplified": "路边",
+    "translations": {
+      "ru": "ОБОЧИНА, КРАЙ ДОРОГИ, У ДОРОГИ"
+    },
+    "pinyin": "lùbiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 867,
+    "simplified": "旅客",
+    "translations": {
+      "ru": "ПАССАЖИР; ПУТЕШЕСТВЕННИК; ПАССАЖИРСКИЙ; ЖИЛЕЦ, ПОСТОЯЛЕЦ"
+    },
+    "pinyin": "lǚkè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 868,
+    "simplified": "旅行",
+    "translations": {
+      "ru": "ПУТЕШЕСТВОВАТЬ; ПУТЕШЕСТВИЕ, ПОЕЗДКА; ТУРИСТИЧЕСКИЙ, ПОХОДНЫЙ"
+    },
+    "pinyin": "lǚxíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 869,
+    "simplified": "旅游",
+    "translations": {
+      "ru": "ПУТЕШЕСТВОВАТЬ, ПУТЕШЕСТВИЕ"
+    },
+    "pinyin": "lǚyóu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 870,
+    "simplified": "绿",
+    "translations": {
+      "ru": "ЗЕЛЁНЫЙ"
+    },
+    "pinyin": "lǜ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 871,
+    "simplified": "绿色",
+    "translations": {
+      "ru": "ЗЕЛЁНЫЙ ЦВЕТ"
+    },
+    "pinyin": "lǜsè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 872,
+    "simplified": "卖",
+    "translations": {
+      "ru": "ПРОДАВАТЬ"
+    },
+    "pinyin": "mài",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 873,
+    "simplified": "满",
+    "translations": {
+      "ru": "ПОЛНЫЙ; ЦЕЛИКОМ; ПОЛНОСТЬЮ; НАПОЛНЯТЬ; БЫТЬ ДОВОЛЬНЫМ; ДОВОЛЬНЫЙ"
+    },
+    "pinyin": "mǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 874,
+    "simplified": "满意",
+    "translations": {
+      "ru": "БЫТЬ УДОВЛЕТВОРЁННЫМ, УДОВЛЕТВОРЁННЫЙ"
+    },
+    "pinyin": "mǎnyì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 875,
+    "simplified": "猫",
+    "translations": {
+      "ru": "КОШКА"
+    },
+    "pinyin": "māo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 876,
+    "simplified": "米",
+    "translations": {
+      "ru": "РИС, КРУПА; МЕТР"
+    },
+    "pinyin": "mǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 877,
+    "simplified": "面",
+    "translations": {
+      "ru": "СЧЁТНОЕ СЛОВО ДЛЯ ПЛОСКИХ ПРЕДМЕТОВ (НАПРИМЕР: ФЛАГ, ЗЕРКАЛО И Т.Д.); ИСПОЛЬЗУЕТСЯ ДЛЯ УКАЗАНИЯ КОЛИЧЕСТВА ВСТРЕЧ"
+    },
+    "pinyin": "miàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 878,
+    "simplified": "面",
+    "translations": {
+      "ru": "ЛАПША, МУКА; ЛИЦО; ФАСАД; СТОРОНА; АСПЕКТ; ПОВЕРХНОСТЬ"
+    },
+    "pinyin": "miàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 879,
+    "simplified": "面前",
+    "translations": {
+      "ru": "ПЕРЕД (ЛИЦОМ), В ПРИСУТСТВИИ"
+    },
+    "pinyin": "miànqián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 880,
+    "simplified": "名",
+    "translations": {
+      "ru": "ИМЯ; НАЗЫВАТЬСЯ, НОСИТЬ ИМЯ"
+    },
+    "pinyin": "míng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 881,
+    "simplified": "名称",
+    "translations": {
+      "ru": "ИМЯ, НАЗВАНИЕ"
+    },
+    "pinyin": "míngchēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 882,
+    "simplified": "名单",
+    "translations": {
+      "ru": "СПИСОК С ИМЕНАМИ, ПОИМЁННЫЙ ПЕРЕЧЕНЬ"
+    },
+    "pinyin": "míngdān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 883,
+    "simplified": "明星",
+    "translations": {
+      "ru": "ЗВЁЗДНЫЙ, ЗВЕЗДА; ЗНАМЕНИТОСТЬ"
+    },
+    "pinyin": "míngxīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 884,
+    "simplified": "目的",
+    "translations": {
+      "ru": "ЦЕЛЬ; ЗАДАЧА; НАМЕРЕНИЕ; ЗАМЫСЕЛ"
+    },
+    "pinyin": "mùdì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 885,
+    "simplified": "拿出",
+    "translations": {
+      "ru": "ВЫНИМАТЬ, ДОСТАВАТЬ; ВЫДЕЛЯТЬ (СРЕДСТВА); ПРОЯВЛЯТЬ (НАПР., МУЖЕСТВО); ПОЗВОЛЯТЬ СЕБЕ"
+    },
+    "pinyin": "náchū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 886,
+    "simplified": "拿到",
+    "translations": {
+      "ru": "ПРИНОСИТЬ; ПОЛУЧАТЬ"
+    },
+    "pinyin": "nádào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 887,
+    "simplified": "那",
+    "translations": {
+      "ru": "ТОТ, ТО; СОЮЗ В ТАКОМ СЛУЧАЕ; СЛЕДОВАТЕЛЬНО, ЗНАЧИТ"
+    },
+    "pinyin": "nà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 888,
+    "simplified": "那会儿",
+    "translations": {
+      "ru": "В ТОТ МОМЕНТ, В ТО ВРЕМЯ, ТОГДА"
+    },
+    "pinyin": "nàhuìr",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 889,
+    "simplified": "那么",
+    "translations": {
+      "ru": "ТАК, ТАКИМ ОБРАЗОМ; ТОГДА"
+    },
+    "pinyin": "nàme",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 890,
+    "simplified": "ТОГДА, В ТО ВРЕМЯ",
+    "translations": {
+      "ru": "390."
+    },
+    "pinyin": "那时候｜那时",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 891,
+    "simplified": "那样",
+    "translations": {
+      "ru": "ТАКОЙ, В ТАКОЙ СТЕПЕНИ; ТАК; ТАКИМ ОБРАЗОМ"
+    },
+    "pinyin": "nàyàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 892,
+    "simplified": "南方",
+    "translations": {
+      "ru": "ЮЖНАЯ ЧАСТЬ СТРАНЫ, ОСОБЕННО РАЙОН К ЮГУ ОТ РЕКИ ХУАНХЭ"
+    },
+    "pinyin": "nánfāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 893,
+    "simplified": "难过",
+    "translations": {
+      "ru": "ТРУДНО ПЕРЕЖИТЬ (ТЯЖЁЛОЕ ВРЕМЯ); ГРУСТИТЬ"
+    },
+    "pinyin": "nánguò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 894,
+    "simplified": "难看",
+    "translations": {
+      "ru": "НЕКРАСИВЫЙ, УРОДЛИВЫЙ"
+    },
+    "pinyin": "nánkàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 895,
+    "simplified": "难受",
+    "translations": {
+      "ru": "ТЯЖЕЛО ПЕРЕЖИВАТЬ; СТРАДАТЬ; ЧУВСТВОВАТЬ СЕБЯ ПЛОХО"
+    },
+    "pinyin": "nánshòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 896,
+    "simplified": "难题",
+    "translations": {
+      "ru": "СЛОЖНАЯ ПРОБЛЕМА"
+    },
+    "pinyin": "nántí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 897,
+    "simplified": "难听",
+    "translations": {
+      "ru": "НЕПРИЯТНЫЙ ДЛЯ УХА"
+    },
+    "pinyin": "nántīng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 898,
+    "simplified": "能够",
+    "translations": {
+      "ru": "БЫТЬ В СОСТОЯНИИ, МОЧЬ"
+    },
+    "pinyin": "nénggòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 899,
+    "simplified": "年级",
+    "translations": {
+      "ru": "КЛАСС, КУРС"
+    },
+    "pinyin": "niánjí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 900,
+    "simplified": "年轻",
+    "translations": {
+      "ru": "МОЛОДОЙ"
+    },
+    "pinyin": "niánqīng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 901,
+    "simplified": "鸟",
+    "translations": {
+      "ru": "ПТИЦА"
+    },
+    "pinyin": "niǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 902,
+    "simplified": "弄",
+    "translations": {
+      "ru": "ИГРАТЬ; ЗАБАВЛЯТЬСЯ; ДЕЛАТЬ; ДОСТАТЬ; ДОБЫТЬ"
+    },
+    "pinyin": "nòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 903,
+    "simplified": "努力",
+    "translations": {
+      "ru": "СТАРАТЬСЯ, СТАРАНИЯ; УСЕРДИЕ"
+    },
+    "pinyin": "nǔlì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 904,
+    "simplified": "爬",
+    "translations": {
+      "ru": "ПОЛЗАТЬ; КАРАБКАТЬСЯ, ВЗБИРАТЬСЯ; ВСТАВАТЬ С ПОСТЕЛИ"
+    },
+    "pinyin": "pá",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 905,
+    "simplified": "爬山",
+    "translations": {
+      "ru": "ХОДИТЬ В ГОРЫ, КАРАБКАТЬСЯ/ЛАЗИТЬ ПО ГОРАМ"
+    },
+    "pinyin": "páshān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 906,
+    "simplified": "怕",
+    "translations": {
+      "ru": "БОЯТЬСЯ, ОПАСАТЬСЯ; НЕ ВЫДЕРЖИВАТЬ, НЕ ПЕРЕНОСИТЬ"
+    },
+    "pinyin": "pà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 907,
+    "simplified": "排",
+    "translations": {
+      "ru": "ЛИНИЯ; ПЛОТ; ВЗВОД; РЯД, ЛИНИЯ"
+    },
+    "pinyin": "pái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 908,
+    "simplified": "排队",
+    "translations": {
+      "ru": "СТОЯТЬ В ОЧЕРЕДИ, СТАНОВИТЬСЯ В ОЧЕРЕДЬ; СТРОИТЬСЯ, СТАНОВИТЬСЯ СТРОЕМ"
+    },
+    "pinyin": "páiduì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 909,
+    "simplified": "排球",
+    "translations": {
+      "ru": "ВОЛЕЙБОЛ"
+    },
+    "pinyin": "páiqiú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 910,
+    "simplified": "碰",
+    "translations": {
+      "ru": "ВСТРЕЧАТЬСЯ С…; СЛУЧАЙНО НАТАЛКИВАТЬСЯ НА…; СОВПАДАТЬ С…"
+    },
+    "pinyin": "pèng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 911,
+    "simplified": "碰到",
+    "translations": {
+      "ru": "ВСТРЕЧАТЬСЯ С, НАТЫКАТЬСЯ НА; ДОТРАГИВАТЬСЯ ДО"
+    },
+    "pinyin": "pèngdào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 912,
+    "simplified": "碰见",
+    "translations": {
+      "ru": "ВСТРЕЧАТЬСЯ С, СТАЛКИВАТЬСЯ С, СТАЛКИВАТЬСЯ С (ЧЕЛОВЕКОМ)"
+    },
+    "pinyin": "pèngjiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 913,
+    "simplified": "篇",
+    "translations": {
+      "ru": "ГЛАВА; РАЗДЕЛ; ЧАСТЬ; СЧЁТНОЕ СЛОВО ДЛЯ СТАТЕЙ И Т.П."
+    },
+    "pinyin": "piān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 914,
+    "simplified": "便宜",
+    "translations": {
+      "ru": "ДЕШЁВЫЙ"
+    },
+    "pinyin": "piányi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 915,
+    "simplified": "片",
+    "translations": {
+      "ru": "КАРТОЧКА, ОТКРЫТКА; ВИЗИТНАЯ КАРТОЧКА; ПЛАСТИНКА; (КИНО) ПЛЁНКА; ТАБЛЕТКА; ПОЛОСКА, ЛОМТИК; КЛОЧОК (ТАКЖЕ СЧЁТНОЕ СЛОВО)"
+    },
+    "pinyin": "piàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 916,
+    "simplified": "漂亮",
+    "translations": {
+      "ru": "КРАСИВЫЙ, ПРЕКРАСНЫЙ"
+    },
+    "pinyin": "piàoliang",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 917,
+    "simplified": "平",
+    "translations": {
+      "ru": "РОВНЫЙ, ГЛАДКИЙ; ГОРИЗОНТАЛЬНЫЙ, ПЛОСКИЙ"
+    },
+    "pinyin": "píng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 918,
+    "simplified": "平安",
+    "translations": {
+      "ru": "БЛАГОПОЛУЧНЫЙ; БЛАГОПОЛУЧИЕ; СПОКОЙСТВИЕ"
+    },
+    "pinyin": "píng’ān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 919,
+    "simplified": "平常",
+    "translations": {
+      "ru": "ОБЫЧНЫЙ, ЗАУРЯДНЫЙ; НОРМАЛЬНЫЙ; СРЕДНИЙ"
+    },
+    "pinyin": "píngcháng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 920,
+    "simplified": "平等",
+    "translations": {
+      "ru": "РАВЕНСТВО, ПАРИТЕТ, РАВНОПРАВИЕ; РАВНОПРАВНЫЙ"
+    },
+    "pinyin": "píngděng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 921,
+    "simplified": "平时",
+    "translations": {
+      "ru": "ОБЫЧНО; В ОБЫЧНОЕ ВРЕМЯ; ОБЫЧНЫЙ; БУДНИЧНЫЙ"
+    },
+    "pinyin": "píngshí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 922,
+    "simplified": "瓶",
+    "translations": {
+      "ru": "БУТЫЛКА; ВАЗА"
+    },
+    "pinyin": "píng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 923,
+    "simplified": "瓶子",
+    "translations": {
+      "ru": "БУТЫЛКА"
+    },
+    "pinyin": "píngzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 924,
+    "simplified": "普通",
+    "translations": {
+      "ru": "ОБЫЧНЫЙ, ПРОСТОЙ"
+    },
+    "pinyin": "pǔtōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 925,
+    "simplified": "普通话",
+    "translations": {
+      "ru": "ПУТУНХУА (ОФИЦИАЛЬНАЯ НОРМА КИТАЙСКОГО ЯЗЫКА В КНР)"
+    },
+    "pinyin": "pǔtōnghuà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 926,
+    "simplified": "其他",
+    "translations": {
+      "ru": "ПРОЧИЙ, ОСТАЛЬНОЙ; ДРУГОЙ; ПРОЧЕЕ; ОСТАЛЬНОЕ"
+    },
+    "pinyin": "qítā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 927,
+    "simplified": "其中",
+    "translations": {
+      "ru": "СРЕДИ НИХ; В ТОМ ЧИСЛЕ"
+    },
+    "pinyin": "qízhōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 928,
+    "simplified": "骑",
+    "translations": {
+      "ru": "ЕЗДИТЬ ВЕРХОМ (НА КОНЕ, ВЕЛОСИПЕДЕ)"
+    },
+    "pinyin": "qí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 929,
+    "simplified": "骑车",
+    "translations": {
+      "ru": "ЕЗДИТЬ НА ВЕЛОСИПЕДЕ"
+    },
+    "pinyin": "qíchē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 930,
+    "simplified": "起飞",
+    "translations": {
+      "ru": "ВЗЛЕТАТЬ"
+    },
+    "pinyin": "qǐfēi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 931,
+    "simplified": "气",
+    "translations": {
+      "ru": "ГАЗ; ВОЗДУХ; ДЫХАНИЕ; ЗЛИТЬСЯ, СЕРДИТЬСЯ; ЗЛИТЬ, ВЫВОДИТЬ ИЗ СЕБЯ"
+    },
+    "pinyin": "qì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 932,
+    "simplified": "气温",
+    "translations": {
+      "ru": "ТЕМПЕРАТУРА"
+    },
+    "pinyin": "qìwēn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 933,
+    "simplified": "千",
+    "translations": {
+      "ru": "ТЫСЯЧА, 1000"
+    },
+    "pinyin": "qiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 934,
+    "simplified": "千克",
+    "translations": {
+      "ru": "КИЛОГРАММ (КГ)"
+    },
+    "pinyin": "qiānkè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 935,
+    "simplified": "前年",
+    "translations": {
+      "ru": "ПОЗАПРОШЛЫЙ ГОД"
+    },
+    "pinyin": "qiánnián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 936,
+    "simplified": "墙",
+    "translations": {
+      "ru": "СТЕНА; ОГРАДА; ЗАБОР (КАМЕННЫЙ)"
+    },
+    "pinyin": "qiáng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 937,
+    "simplified": "青年",
+    "translations": {
+      "ru": "МОЛОДЁЖЬ"
+    },
+    "pinyin": "qīngnián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 938,
+    "simplified": "青少年",
+    "translations": {
+      "ru": "ПОДРОСТКИ; ПОДРАСТАЮЩЕЕ ПОКОЛЕНИЕ"
+    },
+    "pinyin": "qīngshàonián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 939,
+    "simplified": "轻",
+    "translations": {
+      "ru": "ЛЁГКИЙ; ЛЕГКО; ТРЕНИРОВАТЬ; НЕДООЦЕНИВАТЬ"
+    },
+    "pinyin": "qīng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 940,
+    "simplified": "清楚",
+    "translations": {
+      "ru": "ЯСНЫЙ, ПОНЯТНЫЙ, ОТЧЁТЛИВЫЙ"
+    },
+    "pinyin": "qīngchu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 941,
+    "simplified": "晴",
+    "translations": {
+      "ru": "ЯСНЫЙ, ХОРОШАЯ (ПОГОДА)"
+    },
+    "pinyin": "qíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 942,
+    "simplified": "晴天",
+    "translations": {
+      "ru": "СОЛНЕЧНЫЙ ДЕНЬ"
+    },
+    "pinyin": "qíngtiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 943,
+    "simplified": "请客",
+    "translations": {
+      "ru": "ПРИГЛАШАТЬ В ГОСТИ, УГОЩАТЬ (НАПР., ОБЕДОМ)"
+    },
+    "pinyin": "qǐngkè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 944,
+    "simplified": "请求",
+    "translations": {
+      "ru": "ПРОСИТЬ, УПРАШИВАТЬ; ПРОСЬБА, ПОЖЕЛАНИЕ"
+    },
+    "pinyin": "qǐngqiú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 945,
+    "simplified": "秋天",
+    "translations": {
+      "ru": "ОСЕНЬ, ОСЕННИЙ СЕЗОН"
+    },
+    "pinyin": "qiūtiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 946,
+    "simplified": "求",
+    "translations": {
+      "ru": "ПРОСИТЬ, УМОЛЯТЬ; ИСКАТЬ, СТРЕМИТЬСЯ К; ТРЕБОВАТЬ; ПРЕДЪЯВЛЯТЬ СПРОС; (МАТЕМ.) ВЫЧИСЛЯТЬ"
+    },
+    "pinyin": "qiú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 947,
+    "simplified": "球场",
+    "translations": {
+      "ru": "СПОРТИВНАЯ ПЛОЩАДКА, ИГРОВОЕ ПОЛЕ, СТАДИОН, КОРТ"
+    },
+    "pinyin": "qiúchǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 948,
+    "simplified": "球队",
+    "translations": {
+      "ru": "КОМАНДА (В ИГРАХ С МЯЧОМ)"
+    },
+    "pinyin": "qiúduì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 949,
+    "simplified": "球鞋",
+    "translations": {
+      "ru": "СПОРТИВНАЯ ОБУВЬ, КРОССОВКИ, КЕДЫ"
+    },
+    "pinyin": "qiúxié",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 950,
+    "simplified": "取",
+    "translations": {
+      "ru": "БРАТЬ; ВЗЯТЬ; ПОЛУЧИТЬ; ВОСПРИНИМАТЬ; ПОЛУЧАТЬ"
+    },
+    "pinyin": "qǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 951,
+    "simplified": "取得",
+    "translations": {
+      "ru": "ДОСТИГАТЬ, ПОЛУЧАТЬ, ДОБИВАТЬСЯ"
+    },
+    "pinyin": "qǔdé",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 952,
+    "simplified": "全",
+    "translations": {
+      "ru": "СОХРАНЯТЬ В ЦЕЛОСТИ; ПОЛНЫЙ; ЦЕЛЫЙ, ВЕСЬ; БЕЗ ИСКЛЮЧЕНИЯ; ПОЛНОСТЬЮ"
+    },
+    "pinyin": "quán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 953,
+    "simplified": "全部",
+    "translations": {
+      "ru": "ЦЕЛИКОМ; ПОЛНОСТЬЮ; СПОЛНА; ВЕСЬ; ПОЛНЫЙ, ЦЕЛЫЙ"
+    },
+    "pinyin": "quánbù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 954,
+    "simplified": "全国",
+    "translations": {
+      "ru": "ВСЯ СТРАНА, ВСЯ НАЦИЯ"
+    },
+    "pinyin": "quánguó",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 955,
+    "simplified": "全家",
+    "translations": {
+      "ru": "ВСЯ СЕМЬЯ; (ОБЩЕ)СЕМЕЙНЫЙ"
+    },
+    "pinyin": "quánjiā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 956,
+    "simplified": "全年",
+    "translations": {
+      "ru": "ЦЕЛЫЙ ГОД, В ТЕЧЕНИЕ ВСЕГО ГОДА"
+    },
+    "pinyin": "quánnián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 957,
+    "simplified": "全身",
+    "translations": {
+      "ru": "ВЕСЬ, ВСЕМ ТЕЛОМ, С ГОЛОВЫ ДО НОГ"
+    },
+    "pinyin": "quánshēn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 958,
+    "simplified": "全体",
+    "translations": {
+      "ru": "ВСЕ СОТРУДНИКИ, ПОЛНЫЙ СОСТАВ"
+    },
+    "pinyin": "quántǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 959,
+    "simplified": "然后",
+    "translations": {
+      "ru": "А ПОТОМ, А ПОСЛЕ, А ЗАТЕМ; ТОЛЬКО ПОСЛЕ ЧЕГО (ЭТОГО)"
+    },
+    "pinyin": "ránhòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 960,
+    "simplified": "让",
+    "translations": {
+      "ru": "ПОЗВОЛЯТЬ, ПРОСИТЬ, ЗАСТАВИТЬ СДЕЛАТЬ ЧТО-ЛИБО"
+    },
+    "pinyin": "ràng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 961,
+    "simplified": "热情",
+    "translations": {
+      "ru": "СЕРДЕЧНОСТЬ; СЕРДЕЧНЫЙ; ПЫЛКОСТЬ, ЭНТУЗИАЗМ"
+    },
+    "pinyin": "rèqíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 962,
+    "simplified": "人口",
+    "translations": {
+      "ru": "НАСЕЛЕНИЕ, ДЕМОГРАФИЧЕСКИЙ"
+    },
+    "pinyin": "rénkǒu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 963,
+    "simplified": "人们",
+    "translations": {
+      "ru": "ЛЮДИ"
+    },
+    "pinyin": "rénmen",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 964,
+    "simplified": "人数",
+    "translations": {
+      "ru": "КОЛИЧЕСТВО ЛЮДЕЙ"
+    },
+    "pinyin": "rénshù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 965,
+    "simplified": "认为",
+    "translations": {
+      "ru": "СЧИТАТЬ, ПОЛАГАТЬ"
+    },
+    "pinyin": "rènwéi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 966,
+    "simplified": "日报",
+    "translations": {
+      "ru": "ЕЖЕДНЕВНАЯ ГАЗЕТА"
+    },
+    "pinyin": "rìbào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 967,
+    "simplified": "日子",
+    "translations": {
+      "ru": "ДЕНЬ; СРОК, ВРЕМЯ; ДАТА"
+    },
+    "pinyin": "rìzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 968,
+    "simplified": "如果",
+    "translations": {
+      "ru": "ЕСЛИ (БЫ); ЕСЛИ В САМОМ ДЕЛЕ; ЕСЛИ БЫ ДЕЙСТВИТЕЛЬНО"
+    },
+    "pinyin": "rúguǒ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 969,
+    "simplified": "入口",
+    "translations": {
+      "ru": "ВХОД"
+    },
+    "pinyin": "rùkǒu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 970,
+    "simplified": "商量",
+    "translations": {
+      "ru": "КОНСУЛЬТИРОВАТЬСЯ, СОВЕТОВАТЬСЯ, СОВЕЩАТЬСЯ"
+    },
+    "pinyin": "shāngliang",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 971,
+    "simplified": "商人",
+    "translations": {
+      "ru": "КОММЕРСАНТ, БИЗНЕСМЕН"
+    },
+    "pinyin": "shāngrén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 972,
+    "simplified": "上周",
+    "translations": {
+      "ru": "ПРОШЛАЯ НЕДЕЛЯ"
+    },
+    "pinyin": "shàngzhōu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 973,
+    "simplified": "少数",
+    "translations": {
+      "ru": "НЕБОЛЬШОЕ КОЛИЧЕСТВО, НЕМНОГИЕ, МЕНЬШИНСТВО"
+    },
+    "pinyin": "shǎoshù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 974,
+    "simplified": "少年",
+    "translations": {
+      "ru": "ПОДРОСТОК, МОЛОДОЙ ЧЕЛОВЕК"
+    },
+    "pinyin": "shàonián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 975,
+    "simplified": "身边",
+    "translations": {
+      "ru": "ОКОЛО СЕБЯ, РЯДОМ; ПРИ СЕБЕ"
+    },
+    "pinyin": "shēnbiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 976,
+    "simplified": "什么样",
+    "translations": {
+      "ru": "КАКОЙ, КАКОГО РОДА"
+    },
+    "pinyin": "shénmeyàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 977,
+    "simplified": "生",
+    "translations": {
+      "ru": "РОЖДАТЬ, ПРОИЗВОДИТЬ НА СВЕТ; РАСТИ; ВОЗНИКАТЬ; СОЗДАВАТЬ; РАЗЖИГАТЬ (ОГОНЬ)"
+    },
+    "pinyin": "shēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 978,
+    "simplified": "生词",
+    "translations": {
+      "ru": "НОВОЕ СЛОВО"
+    },
+    "pinyin": "shēngcí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 979,
+    "simplified": "生活",
+    "translations": {
+      "ru": "ЖИЗНЬ; БЫТИЕ; ЖИТЬ; СУЩЕСТВОВАТЬ; БЫТ; ЖИЗНЕННЫЙ; БЫТОВОЙ"
+    },
+    "pinyin": "shēnghuó",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 980,
+    "simplified": "声音",
+    "translations": {
+      "ru": "ГОЛОС, ЗВУК"
+    },
+    "pinyin": "shēngyīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 981,
+    "simplified": "省",
+    "translations": {
+      "ru": "ПРОВИНЦИЯ; СТОЛИЦА ПРОВИНЦИИ"
+    },
+    "pinyin": "shěng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 982,
+    "simplified": "省",
+    "translations": {
+      "ru": "СОХРАНЯТЬ, ЭКОНОМИТЬ; ОТПУСКАТЬ; СОКРАЩАТЬ"
+    },
+    "pinyin": "shěng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 983,
+    "simplified": "十分",
+    "translations": {
+      "ru": "В ПОЛНОЙ МЕРЕ; ВЕСЬМА, ОЧЕНЬ"
+    },
+    "pinyin": "shífēn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 984,
+    "simplified": "实际",
+    "translations": {
+      "ru": "РЕАЛЬНЫЙ; ФАКТИЧЕСКИЙ; РЕАЛЬНОСТЬ; ДЕЙСТВИТЕЛЬНОСТЬ"
+    },
+    "pinyin": "shíjì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 985,
+    "simplified": "实习",
+    "translations": {
+      "ru": "СТАЖИРОВАТЬСЯ, ПРОХОДИТЬ ПРАКТИКУ; ПРАКТИКА"
+    },
+    "pinyin": "shíxí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 986,
+    "simplified": "实现",
+    "translations": {
+      "ru": "РЕАЛИЗОВАТЬ; ПРЕТВОРИТЬ В ЖИЗНЬ; ОСУЩЕСТВИТЬ"
+    },
+    "pinyin": "shíxiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 987,
+    "simplified": "实在",
+    "translations": {
+      "ru": "ПРАВДИВЫЙ; НАСТОЯЩИЙ; ДЕЙСТВИТЕЛЬНЫЙ"
+    },
+    "pinyin": "shízài",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 988,
+    "simplified": "实在",
+    "translations": {
+      "ru": "КРЕПКИЙ; ПРОЧИЙ; ОСНОВАТЕЛЬНЫЙ"
+    },
+    "pinyin": "shízai",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 989,
+    "simplified": "食物",
+    "translations": {
+      "ru": "ПИЩА; ЕДА"
+    },
+    "pinyin": "shíwù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 990,
+    "simplified": "使用",
+    "translations": {
+      "ru": "ИСПОЛЬЗОВАТЬ(СЯ); ПРИМЕНЯТЬ; УПОТРЕБЛЯТЬ; ПРИМЕНЕНИЕ"
+    },
+    "pinyin": "shǐyòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 991,
+    "simplified": "市",
+    "translations": {
+      "ru": "ГОРОД; МУНИЦИПАЛИТЕТ; РЫНОК"
+    },
+    "pinyin": "shì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 992,
+    "simplified": "市长",
+    "translations": {
+      "ru": "МЭР"
+    },
+    "pinyin": "shìzhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 993,
+    "simplified": "事情",
+    "translations": {
+      "ru": "ДЕЛО, СОБЫТИЕ; СЛУЧАЙ"
+    },
+    "pinyin": "shìqing",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 994,
+    "simplified": "收",
+    "translations": {
+      "ru": "ПОЛУЧАТЬ; ВЗИМАТЬ; СОБИРАТЬ; ПРИНИМАТЬ; БРАТЬ"
+    },
+    "pinyin": "shōu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 995,
+    "simplified": "收到",
+    "translations": {
+      "ru": "ПОЛУЧАТЬ"
+    },
+    "pinyin": "shōudào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 996,
+    "simplified": "收入",
+    "translations": {
+      "ru": "ДОХОД; ПОСТУПЛЕНИЯ (ДЕНЕЖНЫЕ)"
+    },
+    "pinyin": "shōurù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 997,
+    "simplified": "手表",
+    "translations": {
+      "ru": "НАРУЧНЫЕ ЧАСЫ (БУКВ. РУКА + ЧАСЫ)"
+    },
+    "pinyin": "shǒubiǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 998,
+    "simplified": "受到",
+    "translations": {
+      "ru": "ПОЛУЧИТЬ; ПОЛЬЗОВАТЬСЯ; ПОДВЕРГНУТЬСЯ; ПОТЕРПЕТЬ"
+    },
+    "pinyin": "shòudào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 999,
+    "simplified": "舒服",
+    "translations": {
+      "ru": "УДОБНЫЙ, УЮТНЫЙ, ХОРОШО СЕБЯ ЧУВСТВОВАТЬ"
+    },
+    "pinyin": "shūfu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1000,
+    "simplified": "熟",
+    "translations": {
+      "ru": "ОБРАБОТАННЫЙ НА ОГНЕ; СОСТРЯПАННЫЙ, ГОТОВЫЙ; ДОВАРЕННЫЙ, ДОШЕДШИЙ НА (ОГНЕ); ДО ГОТОВНОСТИ; (ТАКЖЕ МОДИФИКАТОР РЕЗУЛЬТАТИВНЫХ ГЛАГОЛОВ, УКАЗЫВАЮЩИХ НА ГОТОВНОСТЬ КУШАНЬЯ); СПЕЛЫЙ, ЗРЕЛЫЙ; ОБРАБОТАННЫЙ, ГОТОВЫЙ (О МАТЕРИАЛАХ, ТОВАРАХ)"
+    },
+    "pinyin": "shú/shóu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1001,
+    "simplified": "数",
+    "translations": {
+      "ru": "ЧИСЛО, КОЛИЧЕСТВО; ЦИФРА; НЕСКОЛЬКО, СКОЛЬКО-ТО"
+    },
+    "pinyin": "shǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1002,
+    "simplified": "数字",
+    "translations": {
+      "ru": "ЦИФРА; ЦИФРЫ; ЦИФРОВОЙ"
+    },
+    "pinyin": "shùzì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1003,
+    "simplified": "水平",
+    "translations": {
+      "ru": "УРОВЕНЬ, СТАНДАРТ"
+    },
+    "pinyin": "shuǐpíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1004,
+    "simplified": "顺利",
+    "translations": {
+      "ru": "ГЛАДКО; УСПЕШНО; БЛАГОПРИЯТНО"
+    },
+    "pinyin": "shùnlì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1005,
+    "simplified": "说明",
+    "translations": {
+      "ru": "ОБЪЯСНИТЬ, РАЗЪЯСНИТЬ; СВИДЕТЕЛЬСТВОВАТЬ; ПОЯСНЕНИЕ"
+    },
+    "pinyin": "shuōmíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1006,
+    "simplified": "司机",
+    "translations": {
+      "ru": "ШОФЕР, ВОДИТЕЛЬ"
+    },
+    "pinyin": "sījī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1007,
+    "simplified": "送到",
+    "translations": {
+      "ru": "ОТПРАВЛЯТЬ, ОТНОСИТЬ"
+    },
+    "pinyin": "sòngdào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1008,
+    "simplified": "送给",
+    "translations": {
+      "ru": "ОТПРАВЛЯТЬ; ДАРИТЬ"
+    },
+    "pinyin": "sònggěi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1009,
+    "simplified": "算",
+    "translations": {
+      "ru": "СЧИТАТЬ, ВЫЧИСЛЯТЬ"
+    },
+    "pinyin": "suàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1010,
+    "simplified": "虽然",
+    "translations": {
+      "ru": "ХОТЯ, НЕСМОТРЯ НА"
+    },
+    "pinyin": "suīrán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1011,
+    "simplified": "随便",
+    "translations": {
+      "ru": "КАК УГОДНО, КАК ЗАХОЧЕТСЯ; КАК ПОПАЛО; НЕОБДУМАННО"
+    },
+    "pinyin": "suíbiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1012,
+    "simplified": "随时",
+    "translations": {
+      "ru": "В ЛЮБОЕ ВРЕМЯ, ВСЕГДА, ВО ВСЕХ СЛУЧАЯХ, КОГДА УГОДНО"
+    },
+    "pinyin": "suíshí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1013,
+    "simplified": "所以",
+    "translations": {
+      "ru": "ПОЭТОМУ, ТАКИМ ОБРАЗОМ"
+    },
+    "pinyin": "suǒyǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1014,
+    "simplified": "所有",
+    "translations": {
+      "ru": "ВСЁ, ВСЕ, ВСЕ ИМЕЮЩЕЕСЯ; ИМУЩЕСТВО, СОБСТВЕННОСТЬ"
+    },
+    "pinyin": "suǒyǒu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1015,
+    "simplified": "它",
+    "translations": {
+      "ru": "ОНО (ПРО НЕОДУШЕВЛЁННЫЕ ОБЪЕКТЫ И ЖИВОТНЫХ)"
+    },
+    "pinyin": "tā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1016,
+    "simplified": "它们",
+    "translations": {
+      "ru": "ОНИ (В ТРАДИЦИОННОМ КИТАЙСКОМ ТОЛЬКО ПРО ЖИВОТНЫХ)"
+    },
+    "pinyin": "tāmen",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1017,
+    "simplified": "太太",
+    "translations": {
+      "ru": "ГОСПОЖА; МАДАМ; СУПРУГА, ЖЕНА"
+    },
+    "pinyin": "tàitai",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1018,
+    "simplified": "太阳",
+    "translations": {
+      "ru": "СОЛНЦЕ"
+    },
+    "pinyin": "tàiyáng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1019,
+    "simplified": "态度",
+    "translations": {
+      "ru": "ОТНОШЕНИЕ; ПОВЕДЕНИЕ; ОБРАЗ ДЕЙСТВИЙ"
+    },
+    "pinyin": "tàidu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1020,
+    "simplified": "讨论",
+    "translations": {
+      "ru": "ОБСУЖДАТЬ, ДИСКУТИРОВАТЬ; ПРЕНИЯ, ОБСУЖДЕНИЕ; ФОРУМ"
+    },
+    "pinyin": "tǎolùn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1021,
+    "simplified": "套",
+    "translations": {
+      "ru": "ФУТЛЯР, ЧЕХОЛ; ОБЁРТКА; КОЛПАЧОК"
+    },
+    "pinyin": "tào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1022,
+    "simplified": "特别",
+    "translations": {
+      "ru": "ОСОБЕННО, ОСОБЕННЫЙ"
+    },
+    "pinyin": "tèbié",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1023,
+    "simplified": "特点",
+    "translations": {
+      "ru": "ОСОБЕННОСТЬ; СВОЕОБРАЗИЕ; СПЕЦИФИКА"
+    },
+    "pinyin": "tèdiǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1024,
+    "simplified": "疼",
+    "translations": {
+      "ru": "БОЛЬНОЙ, БОЛЕЗНЕННЫЙ"
+    },
+    "pinyin": "téng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1025,
+    "simplified": "提",
+    "translations": {
+      "ru": "ДЕРЖАТЬ В РУКЕ; ПОДНИМАТЬ; НЕСТИ (ЗА РУЧКУ); ВЫДВИГАТЬ, СТАВИТЬ (НАПР., ВОПРОС), ВНОСИТЬ (НАПР., ПРЕДЛОЖЕНИЕ)"
+    },
+    "pinyin": "tí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1026,
+    "simplified": "提出",
+    "translations": {
+      "ru": "ВЫДВИГАТЬ, ПРЕДЛАГАТЬ (ДЛЯ ОБСУЖДЕНИЯ), ПРЕДЪЯВЛЯТЬ (НАПР., ТРЕБОВАНИЕ)"
+    },
+    "pinyin": "tíchū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1027,
+    "simplified": "提到",
+    "translations": {
+      "ru": "УПОМИНАТЬ, ПОДНИМАТЬ (НАПР., ВОПРОС), КАСАТЬСЯ"
+    },
+    "pinyin": "tídào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1028,
+    "simplified": "提高",
+    "translations": {
+      "ru": "ПОВЫШАТЬ"
+    },
+    "pinyin": "tígāo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1029,
+    "simplified": "题",
+    "translations": {
+      "ru": "ТЕМА, ВОПРОС, УПОМИНАТЬ"
+    },
+    "pinyin": "tí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1030,
+    "simplified": "体育",
+    "translations": {
+      "ru": "ФИЗКУЛЬТУРА, СПОРТ"
+    },
+    "pinyin": "tǐyù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1031,
+    "simplified": "体育场",
+    "translations": {
+      "ru": "СТАДИОН, СПОРТИВНЫЙ ЗАЛ"
+    },
+    "pinyin": "tǐyùchǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1032,
+    "simplified": "体育馆",
+    "translations": {
+      "ru": "СПОРТИВНЫЙ ЗАЛ"
+    },
+    "pinyin": "tǐyùguǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1033,
+    "simplified": "天上",
+    "translations": {
+      "ru": "НЕБО, НЕБЕСА"
+    },
+    "pinyin": "tiānshàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1034,
+    "simplified": "条",
+    "translations": {
+      "ru": "ЛИНИЯ, ЛОСКУТ; (СЧЁТНОЕ СЛОВО ДЛЯ ПРОДОЛГОВАТЫХ ОБЪЕКТОВ: РЫБА, РЕКА, ДОРОГА И ПР.)"
+    },
+    "pinyin": "tiáo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1035,
+    "simplified": "条件",
+    "translations": {
+      "ru": "УСЛОВИЕ; УСЛОВНЫЙ; ОБСТОЯТЕЛЬСТВА"
+    },
+    "pinyin": "tiáojiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1036,
+    "simplified": "听讲",
+    "translations": {
+      "ru": "СЛУШАТЬ ОБЪЯВЛЕНИЕ, ПОСЕЩАТЬ ЛЕКЦИИ"
+    },
+    "pinyin": "tīngjiǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1037,
+    "simplified": "听说",
+    "translations": {
+      "ru": "СЛЫШНО, ЧТО; КАК ГОВОРЯТ; СЛУШАТЬ И ГОВОРИТЬ (ЯЗЫКОВЫЕ НАВЫКИ)"
+    },
+    "pinyin": "tīngshuō",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1038,
+    "simplified": "停",
+    "translations": {
+      "ru": "ОСТАНАВЛИВАТЬ (СЯ); ПРЕКРАЩАТЬ(СЯ); СТОЯТЬ (О ПОЕЗДЕ И Т.П.)"
+    },
+    "pinyin": "tíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1039,
+    "simplified": "停车",
+    "translations": {
+      "ru": "ОСТАНАВЛИВАТЬ АВТОМОБИЛЬ, ПАРКОВАТЬСЯ"
+    },
+    "pinyin": "tíngchē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1040,
+    "simplified": "停车场",
+    "translations": {
+      "ru": "ПАРКОВКА, СТОЯНКА ДЛЯ МАШИН"
+    },
+    "pinyin": "tíngchēchǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1041,
+    "simplified": "挺",
+    "translations": {
+      "ru": "ОЧЕНЬ, КРАЙНЕ, В ВЫСШЕЙ СТЕПЕНИ"
+    },
+    "pinyin": "tǐng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1042,
+    "simplified": "挺好",
+    "translations": {
+      "ru": "ОЧЕНЬ ХОРОШИЙ, ОТЛИЧНЫЙ"
+    },
+    "pinyin": "tǐnghǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1043,
+    "simplified": "通",
+    "translations": {
+      "ru": "ВЕСТИ К; ПРОБИВАТЬ; СОЕДИНЯТЬСЯ; СООБЩАТЬ; ЗНАТЬ; ОТКРЫТЫЙ, СКВОЗНОЙ; (О СТИЛЕ ПИСЬМА) ЛОГИЧНЫЙ, СВЯЗНЫЙ; ЗНАТОК, ЭКСПЕРТ; ОБЩИЙ, ОБЫЧНЫЙ; ВЕСЬ, ЦЕЛЫЙ; ИСПОЛЬЗУЕТСЯ ДЛЯ ДОКУМЕНТОВ, ПИСЕМ, ТЕЛЕГРАММ ИЛИ ТЕЛЕФОННЫХ ЗВОНКОВ"
+    },
+    "pinyin": "tōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1044,
+    "simplified": "通过",
+    "translations": {
+      "ru": "ПРОХОДИТЬ ЧЕРЕЗ; ПРИНЯТЬ (НАПР., РЕЗОЛЮЦИЮ); ПОСРЕДСТВОМ; С ПОМОЩЬЮ; ПУТЁМ; ЧЕРЕЗ"
+    },
+    "pinyin": "tōngguò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1045,
+    "simplified": "通知",
+    "translations": {
+      "ru": "СООБЩАТЬ; УВЕДОМЛЯТЬ; ИЗВЕЩЕНИЕ, УВЕДОМЛЕНИЕ"
+    },
+    "pinyin": "tōngzhī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1046,
+    "simplified": "同时",
+    "translations": {
+      "ru": "ОДНОВРЕМЕННО, В ТО ЖЕ ВРЕМЯ"
+    },
+    "pinyin": "tóngshí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1047,
+    "simplified": "同事",
+    "translations": {
+      "ru": "КОЛЛЕГА, ТОВАРИЩ ПО РАБОТЕ"
+    },
+    "pinyin": "tóngshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1048,
+    "simplified": "同样",
+    "translations": {
+      "ru": "ОДИНАКОВЫЙ, РАВНЫЙ"
+    },
+    "pinyin": "tóngyàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1049,
+    "simplified": "头",
+    "translations": {
+      "ru": "ГОЛОВА; ВОЛОСЫ, ПРИЧЁСКА; ШЕФ, ЛИДЕР; СЧЁТНОЕ СЛОВО ДЛЯ КРУПНЫХ ЖИВОТНЫХ (НАПР., СВИНЕЙ, КОРОВ, ОВЕЦ, СЛОНОВ И Т.Д.); СЧЁТНОЕ СЛОВО ДЛЯ ГОЛОВКИ ЧЕСНОКА ИЛИ ЛУКА"
+    },
+    "pinyin": "tóu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1050,
+    "simplified": "头（里头）",
+    "translations": {
+      "ru": "СЛОВООБРАЗУЮЩИЙ СУФФИКС ИМЁН СУЩЕСТВИТЕЛЬНЫХ (А ТАКЖЕ НАРЕЧИЙ МЕСТА)"
+    },
+    "pinyin": "tou (lǐtou)",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1051,
+    "simplified": "头发",
+    "translations": {
+      "ru": "ВОЛОСЫ (НА ГОЛОВЕ)"
+    },
+    "pinyin": "tóufa",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1052,
+    "simplified": "图片",
+    "translations": {
+      "ru": "РИСУНОК, КАРТИНКА, ИЛЛЮСТРАЦИЯ, ФОТОГРАФИЯ"
+    },
+    "pinyin": "túpiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1053,
+    "simplified": "推",
+    "translations": {
+      "ru": "ТОЛКАТЬ; ПЕРЕКЛАДЫВАТЬ, СВАЛИВАТЬ; ОТЛОЖИТЬ (НАПР., СОБРАНИЕ); ОТКАЗЫВАТЬСЯ; ОТКЛОНЯТЬ"
+    },
+    "pinyin": "tuī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1054,
+    "simplified": "腿",
+    "translations": {
+      "ru": "НОГА"
+    },
+    "pinyin": "tuǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1055,
+    "simplified": "外地",
+    "translations": {
+      "ru": "ИНЫЕ КРАЯ, ТЕРРИТОРИЯ ЗА ПРЕДЕЛАМИ КАКОГО-ТО МЕСТА"
+    },
+    "pinyin": "wàidì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1056,
+    "simplified": "外卖",
+    "translations": {
+      "ru": "ЕДА НА ВЫНОС, ЕДА С ДОСТАВКОЙ НА ДОМ"
+    },
+    "pinyin": "wàimài",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1057,
+    "simplified": "完",
+    "translations": {
+      "ru": "ЗАКАНЧИВАТЬ (ПОСГЛАГОЛЬНАЯ РЕЗУЛЬТАТИВНАЯ МОРФЕМА)"
+    },
+    "pinyin": "wán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1058,
+    "simplified": "完成",
+    "translations": {
+      "ru": "ЗАКОНЧИТЬ(СЯ), ЗАВЕРШИТЬ(СЯ); ВЫПОЛНИТЬ; СОВЕРШИТЬ; ВЫПОЛНЕНИЕ (РАСЧЁТА)"
+    },
+    "pinyin": "wánchéng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1059,
+    "simplified": "完全",
+    "translations": {
+      "ru": "ПОЛНЫЙ; ЦЕЛЫЙ; СОВЕРШЕННЫЙ; ЗАКОНЧЕННЫЙ; ПОЛНОСТЬЮ; ЦЕЛИКОМ; СОВСЕМ"
+    },
+    "pinyin": "wánquán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1060,
+    "simplified": "晚安",
+    "translations": {
+      "ru": "СПОКОЙНО НОЧИ!"
+    },
+    "pinyin": "wǎn’ān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1061,
+    "simplified": "晚报",
+    "translations": {
+      "ru": "ВЕЧЕРНЯЯ ГАЗЕТА"
+    },
+    "pinyin": "wǎnbào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1062,
+    "simplified": "晚餐",
+    "translations": {
+      "ru": "(ОФИЦ.) УЖИН"
+    },
+    "pinyin": "wǎncān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1063,
+    "simplified": "晚会",
+    "translations": {
+      "ru": "ВЕЧЕРИНКА, ПРАЗДНИЧНЫЙ ВЕЧЕР"
+    },
+    "pinyin": "wǎnhuì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1064,
+    "simplified": "碗",
+    "translations": {
+      "ru": "ПЛОШКА, ПИАЛА; В ТОМ ЧИСЛЕ И КАК СЧЁТНОЕ СЛОВО"
+    },
+    "pinyin": "wǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1065,
+    "simplified": "万",
+    "translations": {
+      "ru": "10 000, ДЕСЯТЬ ТЫСЯЧ"
+    },
+    "pinyin": "wàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1066,
+    "simplified": "网",
+    "translations": {
+      "ru": "СЕТЬ, СЕТКА; ПРЕДМЕТ В ФОРМЕ СЕТКИ; ИНТЕРНЕТ; СИСТЕМА; ПОКРЫВАТЬ СЕТЬЮ; ЛОВИТЬ СЕТЬЮ"
+    },
+    "pinyin": "wǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1067,
+    "simplified": "网球",
+    "translations": {
+      "ru": "ТЕННИС; ТЕННИСНЫЙ МЯЧ"
+    },
+    "pinyin": "wǎngqiú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1068,
+    "simplified": "网站",
+    "translations": {
+      "ru": "САЙТ, ВЕБ-САЙТ"
+    },
+    "pinyin": "wǎngzhàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1069,
+    "simplified": "往",
+    "translations": {
+      "ru": "(ПРЕДЛОГ) К, ПО НАПРАВЛЕНИЮ К…, В СТОРОНУ…; ПРОШЛОЕ"
+    },
+    "pinyin": "wǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1070,
+    "simplified": "为",
+    "translations": {
+      "ru": "(ПРЕДЛОГ) ДЛЯ, ИЗ-ЗА, В КАЧЕСТВЕ"
+    },
+    "pinyin": "wèi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1071,
+    "simplified": "为什么",
+    "translations": {
+      "ru": "ПОЧЕМУ? ЗАЧЕМ?"
+    },
+    "pinyin": "wèi shénme",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1072,
+    "simplified": "位",
+    "translations": {
+      "ru": "ПОЗИЦИЯ, ПОЛОЖЕНИЕ; УВАЖИТЕЛЬНОЕ СЧЁТНОЕ СЛОВО ДЛЯ ЛИЧНОСТЕЙ"
+    },
+    "pinyin": "wèi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1073,
+    "simplified": "味道",
+    "translations": {
+      "ru": "ВКУС; ЗАПАХ; ПРИВКУС; ИЗЯЩЕСТВО; КРАСОТА"
+    },
+    "pinyin": "wèidào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1074,
+    "simplified": "喂",
+    "translations": {
+      "ru": "ЭЙ! АЛЛО!"
+    },
+    "pinyin": "wèi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1075,
+    "simplified": "温度",
+    "translations": {
+      "ru": "ТЕМПЕРАТУРА; ТЕМПЕРАТУРНЫЙ; ТЕРМО"
+    },
+    "pinyin": "wēndù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1076,
+    "simplified": "闻",
+    "translations": {
+      "ru": "УСЛЫШАТЬ, НЮХАТЬ; ОБОНЯТЬ; ИЗВЕСТИЯ; СООБЩЕНИЯ, РЕПУТАЦИЯ"
+    },
+    "pinyin": "wén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1077,
+    "simplified": "问路",
+    "translations": {
+      "ru": "СПРАШИВАТЬ ДОРОГУ"
+    },
+    "pinyin": "wènlù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1078,
+    "simplified": "问题",
+    "translations": {
+      "ru": "ВОПРОС, ПРОБЛЕМА"
+    },
+    "pinyin": "wèntí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1079,
+    "simplified": "午餐",
+    "translations": {
+      "ru": "ОБЕД"
+    },
+    "pinyin": "wǔcān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1080,
+    "simplified": "午睡",
+    "translations": {
+      "ru": "СПАТЬ В ОБЕДЕННОЕ ВРЕМЯ, ДРЕМАТЬ ДНЁМ; СИЕСТА, ПОСЛЕОБЕДЕННЫЙ СОН"
+    },
+    "pinyin": "wǔshuì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1081,
+    "simplified": "西北",
+    "translations": {
+      "ru": "СЕВЕРО-ЗАПАД"
+    },
+    "pinyin": "xīběi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1082,
+    "simplified": "西餐",
+    "translations": {
+      "ru": "ЗАПАДНАЯ КУХНЯ"
+    },
+    "pinyin": "xīcān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1083,
+    "simplified": "西方",
+    "translations": {
+      "ru": "ЗАПАД, ЗАПАДНАЯ СТОРОНА"
+    },
+    "pinyin": "xīfāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1084,
+    "simplified": "西南",
+    "translations": {
+      "ru": "ЮГО-ЗАПАД"
+    },
+    "pinyin": "xīnán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1085,
+    "simplified": "西医",
+    "translations": {
+      "ru": "ЗАПАДНАЯ МЕДИЦИНА"
+    },
+    "pinyin": "xīyī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1086,
+    "simplified": "习惯",
+    "translations": {
+      "ru": "ПРИВЫКАТЬ, ПРИВЫЧКА"
+    },
+    "pinyin": "xíguàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1087,
+    "simplified": "洗衣机",
+    "translations": {
+      "ru": "СТИРАЛЬНАЯ МАШИНА"
+    },
+    "pinyin": "xǐyījī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1088,
+    "simplified": "洗澡",
+    "translations": {
+      "ru": "МЫТЬСЯ, КУПАТЬСЯ"
+    },
+    "pinyin": "xǐzǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1089,
+    "simplified": "下",
+    "translations": {
+      "ru": "УДАР, ХОД, РАЗ; СЧЁТНОЕ СЛОВО (УКАЗЫВАЕТ ПОВТОРЕНИЕ ДЕЙСТВИЯ); (УКАЗЫВАЕТ СПОСОБНОСТЬ ИЛИ УМЕНИЕ)"
+    },
+    "pinyin": "xià",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1090,
+    "simplified": "下雪",
+    "translations": {
+      "ru": "ВЫПАДАТЬ, ПАДАТЬ (О СНЕГЕ)"
+    },
+    "pinyin": "xiàxuě",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1091,
+    "simplified": "下周",
+    "translations": {
+      "ru": "СЛЕДУЮЩАЯ НЕДЕЛЯ"
+    },
+    "pinyin": "xiàzhōu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1092,
+    "simplified": "夏天",
+    "translations": {
+      "ru": "ЛЕТО, ЛЕТОМ"
+    },
+    "pinyin": "xiàtiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1093,
+    "simplified": "相同",
+    "translations": {
+      "ru": "ОДИНАКОВЫЙ; ТОЖДЕСТВЕННЫЙ; ИДЕНТИЧНЫЙ"
+    },
+    "pinyin": "xiāngtóng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1094,
+    "simplified": "相信",
+    "translations": {
+      "ru": "ВЕРИТЬ, ПОВЕРИТЬ"
+    },
+    "pinyin": "xiāngxìn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1095,
+    "simplified": "响",
+    "translations": {
+      "ru": "ЗВУЧНЫЙ; ЗВОНКИЙ; ЗВУЧАТЬ; ГРЕМЕТЬ"
+    },
+    "pinyin": "xiǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1096,
+    "simplified": "想到",
+    "translations": {
+      "ru": "ДУМАТЬ О; ВСПОМИНАТЬ; ПРЕДВИДЕТЬ"
+    },
+    "pinyin": "xiǎngdào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1097,
+    "simplified": "想法",
+    "translations": {
+      "ru": "ИДЕЯ, МЫСЛЬ"
+    },
+    "pinyin": "xiǎngfǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1098,
+    "simplified": "想起",
+    "translations": {
+      "ru": "ВСПОМИНАТЬ, ДУМАТЬ О, ВОСКРЕШАТЬ В ПАМЯТИ"
+    },
+    "pinyin": "xiǎngqǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1099,
+    "simplified": "向",
+    "translations": {
+      "ru": "НАПРАВЛЕНИЕ, (ПРЕДЛОГ)В НАПРАВЛЕНИИ К"
+    },
+    "pinyin": "xiàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1100,
+    "simplified": "相机",
+    "translations": {
+      "ru": "ФОТОАППАРАТ, ФОТОКАМЕРА"
+    },
+    "pinyin": "xiàngjī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1101,
+    "simplified": "像",
+    "translations": {
+      "ru": "НАПОМИНАТЬ, ВЫГЛЯДЕТЬ КАК; БЫТЬ КАК…"
+    },
+    "pinyin": "xiàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1102,
+    "simplified": "小（小王）",
+    "translations": {
+      "ru": "СЛУЖИТ ПРЕФИКСОМ УМЕНЬШИТЕЛЬНЫМ ИЛИ ЛАСКАТЕЛЬНЫМ, ИНОГДА ПРЕНЕБРЕЖИТЕЛЬНЫМ"
+    },
+    "pinyin": "xiǎo (Xiǎo Wáng)",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1103,
+    "simplified": "小声",
+    "translations": {
+      "ru": "ТИХО, ВПОЛГОЛОСА, ШЕПОТОМ"
+    },
+    "pinyin": "xiǎoshēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1104,
+    "simplified": "小时候",
+    "translations": {
+      "ru": "ДЕТСТВО, ДЕТСКИЙ ВОЗРАСТ"
+    },
+    "pinyin": "xiǎoshíhou",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1105,
+    "simplified": "小说",
+    "translations": {
+      "ru": "РОМАН"
+    },
+    "pinyin": "xiǎoshuō",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1106,
+    "simplified": "小心",
+    "translations": {
+      "ru": "ОСТОРОЖНО, БЫТЬ ОСТОРОЖНЫМ (БУКВ. МАЛЕНЬКИЙ+СЕРДЦЕ)"
+    },
+    "pinyin": "xiǎoxīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1107,
+    "simplified": "小组",
+    "translations": {
+      "ru": "НЕБОЛЬШАЯ ГРУППА"
+    },
+    "pinyin": "xiǎozǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1108,
+    "simplified": "校园",
+    "translations": {
+      "ru": "КАМПУС, ТЕРРИТОРИЯ УНИВЕРСИТЕТА"
+    },
+    "pinyin": "xiàoyuán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1109,
+    "simplified": "校长",
+    "translations": {
+      "ru": "ДИРЕКТОР ШКОЛЫ, УЧЕБНОГО ЗАВЕДЕНИЯ"
+    },
+    "pinyin": "xiàozhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1110,
+    "simplified": "笑话",
+    "translations": {
+      "ru": "ШУТКА, АНЕКДОТ"
+    },
+    "pinyin": "xiàohuà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1111,
+    "simplified": "笑话儿",
+    "translations": {
+      "ru": "ШУТКА, АНЕКДОТ, ЧЕПУХА, ЕРУНДА"
+    },
+    "pinyin": "xiào huàér",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1112,
+    "simplified": "鞋",
+    "translations": {
+      "ru": "ОБУВЬ"
+    },
+    "pinyin": "xié",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1113,
+    "simplified": "心里",
+    "translations": {
+      "ru": "В ДУШЕ, В УМЕ"
+    },
+    "pinyin": "xīnli",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1114,
+    "simplified": "心情",
+    "translations": {
+      "ru": "НАСТРОЕНИЕ; РАСПОЛОЖЕНИЕ ДУХА"
+    },
+    "pinyin": "xīnqíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1115,
+    "simplified": "心中",
+    "translations": {
+      "ru": "В СЕРДЦЕ, В МЫСЛЯХ"
+    },
+    "pinyin": "xīnzhōng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1116,
+    "simplified": "新闻",
+    "translations": {
+      "ru": "НОВОСТИ"
+    },
+    "pinyin": "xīnwén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1117,
+    "simplified": "信",
+    "translations": {
+      "ru": "ПИСЬМО; СООБЩЕНИЕ, НОВОСТЬ"
+    },
+    "pinyin": "xìn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1118,
+    "simplified": "信号",
+    "translations": {
+      "ru": "СИГНАЛ; СИГНАЛЬНЫЙ, СИГНАЛИЗАЦИОННЫЙ"
+    },
+    "pinyin": "xìnhào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1119,
+    "simplified": "信息",
+    "translations": {
+      "ru": "ИНФОРМАЦИЯ, СВЕДЕНИЯ; ВЕСТЬ, ИЗВЕСТИЕ; СООБЩЕНИЕ"
+    },
+    "pinyin": "xìnxī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1120,
+    "simplified": "信心",
+    "translations": {
+      "ru": "ВЕРА, УВЕРЕННОСТЬ (В СВОИХ СИЛАХ), УБЕЖДЁННОСТЬ"
+    },
+    "pinyin": "xìnxīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1121,
+    "simplified": "信用卡",
+    "translations": {
+      "ru": "КРЕДИТНАЯ КАРТА"
+    },
+    "pinyin": "xìnyòngkǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1122,
+    "simplified": "星星",
+    "translations": {
+      "ru": "ЗВЕЗДА"
+    },
+    "pinyin": "xīngxing",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1123,
+    "simplified": "行动",
+    "translations": {
+      "ru": "ДВИГАТЬСЯ; ДЕЙСТВОВАТЬ; ДЕЙСТВИЕ; АКТ"
+    },
+    "pinyin": "xíngdòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1124,
+    "simplified": "行人",
+    "translations": {
+      "ru": "ПЕШЕХОД; ПРОХОЖИЙ"
+    },
+    "pinyin": "xíngrén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1125,
+    "simplified": "行为",
+    "translations": {
+      "ru": "ДЕЙСТВИЕ, ПОСТУПОК; АКТ; ПОВЕДЕНИЕ"
+    },
+    "pinyin": "xíngwéi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1126,
+    "simplified": "姓",
+    "translations": {
+      "ru": "ФАМИЛИЯ, ИМЕТЬ ТАКУЮ ФАМИЛИЮ"
+    },
+    "pinyin": "xìng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1127,
+    "simplified": "姓名",
+    "translations": {
+      "ru": "ПОЛНОЕ ИМЯ, ФАМИЛИЯ И ИМЯ"
+    },
+    "pinyin": "xìngmíng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1128,
+    "simplified": "休假",
+    "translations": {
+      "ru": "В ОТПУСКЕ, ОТДЫХАТЬ НА КАНИКУЛАХ"
+    },
+    "pinyin": "xiūjià",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1129,
+    "simplified": "许多",
+    "translations": {
+      "ru": "ОЧЕНЬ МНОГО, ПОРЯДОЧНО; ЦЕЛЫЙ РЯД"
+    },
+    "pinyin": "xǔduō",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1130,
+    "simplified": "选",
+    "translations": {
+      "ru": "ВЫБИРАТЬ, ИЗБИРАТЬ"
+    },
+    "pinyin": "xuǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1131,
+    "simplified": "学期",
+    "translations": {
+      "ru": "СЕМЕСТР (УЧЕБНЫЙ)"
+    },
+    "pinyin": "xuéqī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1132,
+    "simplified": "雪",
+    "translations": {
+      "ru": "СНЕГ"
+    },
+    "pinyin": "xuě",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1133,
+    "simplified": "颜色",
+    "translations": {
+      "ru": "ЦВЕТ(-А)"
+    },
+    "pinyin": "yánsè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1134,
+    "simplified": "眼",
+    "translations": {
+      "ru": "ГЛАЗ, ОКО; НЕБОЛЬШОЕ ОТВЕРСТИЕ; (ИГРА ГО) ЛОВУШКА; (В ОПЕРЕ) НЕАКЦЕНТИРОВАННЫЙ РИТМ"
+    },
+    "pinyin": "yǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1135,
+    "simplified": "眼睛",
+    "translations": {
+      "ru": "ГЛАЗ(-А)"
+    },
+    "pinyin": "yǎnjing",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1136,
+    "simplified": "养",
+    "translations": {
+      "ru": "ДЕРЖАТЬ (ПИТОМЦЕВ), РАСТИТЬ; ПОДДЕРЖИВАТЬ; РОЖДАТЬ; ПОПРАВЛЯТЬ ЗДОРОВЬЕ; СОВЕРШЕНСТВОВАТЬ; ПРИОБРЕТАТЬ (НАПР., ПРИВЫЧКУ); ОТРАЩИВАТЬ (ВОЛОСЫ); ПРИЁМНЫЙ"
+    },
+    "pinyin": "yǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1137,
+    "simplified": "样子",
+    "translations": {
+      "ru": "ОБРАЗЕЦ; ФАСОН; МОДЕЛЬ; ВИД; ОБРАЗ; МИНА, ПОЗА; ВИДИМОСТЬ"
+    },
+    "pinyin": "yàngzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1138,
+    "simplified": "要求",
+    "translations": {
+      "ru": "ТРЕБОВАТЬ, ПРОСИТЬ, ЗАПРАШИВАТЬ"
+    },
+    "pinyin": "yāoqiú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1139,
+    "simplified": "药",
+    "translations": {
+      "ru": "ЛЕКАРСТВО, ПРЕПАРАТ"
+    },
+    "pinyin": "yào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1140,
+    "simplified": "药店",
+    "translations": {
+      "ru": "АПТЕКА"
+    },
+    "pinyin": "yàodiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1141,
+    "simplified": "药片",
+    "translations": {
+      "ru": "ТАБЛЕТКА, ПИЛЮЛЯ"
+    },
+    "pinyin": "yàopiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1142,
+    "simplified": "药水",
+    "translations": {
+      "ru": "МИКСТУРА, ЖИДКОЕ ЛЕКАРСТВО"
+    },
+    "pinyin": "yàoshuǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1143,
+    "simplified": "也许",
+    "translations": {
+      "ru": "ВОЗМОЖНО"
+    },
+    "pinyin": "yěxǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1144,
+    "simplified": "夜",
+    "translations": {
+      "ru": "НОЧЬ; НОЧЬЮ; НОЧНОЙ; ВЕЧЕРНИЙ"
+    },
+    "pinyin": "yè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1145,
+    "simplified": "夜里",
+    "translations": {
+      "ru": "НОЧЬЮ, ВЕЧЕРОМ, В НОЧНОЕ ИЛИ ВЕЧЕРНЕЕ ВРЕМЯ"
+    },
+    "pinyin": "yèli",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1146,
+    "simplified": "一部分",
+    "translations": {
+      "ru": "ЧАСТЬ, ДОЛЯ"
+    },
+    "pinyin": "yí bùfen",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1147,
+    "simplified": "一定",
+    "translations": {
+      "ru": "ОБЯЗАТЕЛЬНО, ТОЧНО"
+    },
+    "pinyin": "yídìng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1148,
+    "simplified": "一共",
+    "translations": {
+      "ru": "ВСЕГО"
+    },
+    "pinyin": "yígòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1149,
+    "simplified": "一会儿",
+    "translations": {
+      "ru": "НЕМНОГО, КАКОЕ-ТО ВРЕМЯ; ВСКОРЕ"
+    },
+    "pinyin": "yíhuìr",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1150,
+    "simplified": "一路平安",
+    "translations": {
+      "ru": "ДОБРОГО ПУТИ"
+    },
+    "pinyin": "yílùpíngān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1151,
+    "simplified": "一路顺风",
+    "translations": {
+      "ru": "ПОПУТНОГО ВЕТРА, СЧАСТЛИВОГО ПУТИ"
+    },
+    "pinyin": "yílùshùnfēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1152,
+    "simplified": "已经",
+    "translations": {
+      "ru": "УЖЕ"
+    },
+    "pinyin": "yǐjīng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1153,
+    "simplified": "以后",
+    "translations": {
+      "ru": "ПОСЛЕ, ПОТОМ, ПОЗЖЕ"
+    },
+    "pinyin": "yǐhòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1154,
+    "simplified": "以前",
+    "translations": {
+      "ru": "РАНЬШЕ, ДО"
+    },
+    "pinyin": "yǐqián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1155,
+    "simplified": "以上",
+    "translations": {
+      "ru": "БОЛЬШЕ ЧЕМ, СВЫШЕ"
+    },
+    "pinyin": "yǐshàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1156,
+    "simplified": "以外",
+    "translations": {
+      "ru": "ВНЕ, ЗА ПРЕДЕЛАМИ, КРОМЕ, ЗА ИСКЛЮЧЕНИЕМ"
+    },
+    "pinyin": "yǐwài",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1157,
+    "simplified": "以为",
+    "translations": {
+      "ru": "ПОЛАГАТЬ, СЧИТАТЬ"
+    },
+    "pinyin": "yǐwéi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1158,
+    "simplified": "以下",
+    "translations": {
+      "ru": "(О ПОЛОЖЕНИИ) НИЖЕ, ПОД; (О КОЛИЧЕСТВЕ) МЕНЕЕ; (О ВОЗРАСТЕ) ДО"
+    },
+    "pinyin": "yǐxià",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1159,
+    "simplified": "椅子",
+    "translations": {
+      "ru": "СТУЛ"
+    },
+    "pinyin": "yǐzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1160,
+    "simplified": "一般",
+    "translations": {
+      "ru": "ОБЫЧНО, КАК ПРАВИЛО"
+    },
+    "pinyin": "yìbān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1161,
+    "simplified": "一点点",
+    "translations": {
+      "ru": "НЕМНОГО"
+    },
+    "pinyin": "yì diǎndiǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1162,
+    "simplified": "一生",
+    "translations": {
+      "ru": "ВСЯ ЖИЗНЬ"
+    },
+    "pinyin": "yìshēng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1163,
+    "simplified": "一直",
+    "translations": {
+      "ru": "ПРЯМО, ПОСТОЯННО, ВСЁ ВРЕМЯ"
+    },
+    "pinyin": "yìzhí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1164,
+    "simplified": "亿",
+    "translations": {
+      "ru": "СТО МИЛЛИОНОВ"
+    },
+    "pinyin": "yì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1165,
+    "simplified": "意见",
+    "translations": {
+      "ru": "МНЕНИЕ, ВЗГЛЯД; ТОЧКА ЗРЕНИЯ; (КРИТИЧЕСКОЕ) ЗАМЕЧАНИЕ; ПРЕТЕНЗИЯ"
+    },
+    "pinyin": "yìjiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1166,
+    "simplified": "意思",
+    "translations": {
+      "ru": "СМЫСЛ, ЗНАЧЕНИЕ, ИДЕЯ, ИНТЕРЕС"
+    },
+    "pinyin": "yìsi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1167,
+    "simplified": "因为",
+    "translations": {
+      "ru": "ПОТОМУ ЧТО, ИЗ-ЗА"
+    },
+    "pinyin": "yīnwèi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1168,
+    "simplified": "阴",
+    "translations": {
+      "ru": "ИНЬ, ЖЕНСКОЕ/ОТРИЦАТЕЛЬНОЕ НАЧАЛО, ТЁМНЫЙ, СКРЫТЫЙ"
+    },
+    "pinyin": "yīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1169,
+    "simplified": "阴天",
+    "translations": {
+      "ru": "ОБЛАЧНОЕ НЕБО, ПАСМУРНОЕ НЕБО"
+    },
+    "pinyin": "yīntiān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1170,
+    "simplified": "音节",
+    "translations": {
+      "ru": "СЛОГ"
+    },
+    "pinyin": "yīnjié",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1171,
+    "simplified": "音乐",
+    "translations": {
+      "ru": "МУЗЫКА"
+    },
+    "pinyin": "yīnyuè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1172,
+    "simplified": "音乐会",
+    "translations": {
+      "ru": "МУЗЫКАЛЬНЫЙ КОНЦЕРТ"
+    },
+    "pinyin": "yīnyuèhuì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1173,
+    "simplified": "银行",
+    "translations": {
+      "ru": "БАНК"
+    },
+    "pinyin": "yínháng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1174,
+    "simplified": "银行卡",
+    "translations": {
+      "ru": "БАНКОВСКАЯ КАРТОЧКА"
+    },
+    "pinyin": "yínhángkǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1175,
+    "simplified": "应该",
+    "translations": {
+      "ru": "БЫТЬ ДОЛЖНЫМ; СЛЕДУЕТ, ПОЛАГАЕТСЯ; НЕОБХОДИМО, НУЖНО, ДОЛЖНО; ЗАСЛУЖЕННО, ПОДЕЛОМ; КАК И СЛЕДУЕТ"
+    },
+    "pinyin": "yīnggāi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1176,
+    "simplified": "英文",
+    "translations": {
+      "ru": "АНГЛИЙСКИЙ ЯЗЫК (ПИСЬМЕННЫЙ); АНГЛИЙСКИЙ ТЕКСТ"
+    },
+    "pinyin": "Yīngwén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1177,
+    "simplified": "英语",
+    "translations": {
+      "ru": "АНГЛИЙСКИЙ ЯЗЫК"
+    },
+    "pinyin": "Yīngyǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1178,
+    "simplified": "影片",
+    "translations": {
+      "ru": "ФИЛЬМ, КИНО"
+    },
+    "pinyin": "yǐngpiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1179,
+    "simplified": "影响",
+    "translations": {
+      "ru": "ВЛИЯТЬ, ВЛИЯНИЕ"
+    },
+    "pinyin": "yǐngxiǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1180,
+    "simplified": "永远",
+    "translations": {
+      "ru": "ВЕЧНЫЙ, ВЕКОВЕЧНЫЙ; ВЕЧНО, ВСЕГДА; НАВЕЧНО"
+    },
+    "pinyin": "yǒngyuǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1181,
+    "simplified": "油",
+    "translations": {
+      "ru": "МАСЛО, ЖИР; НЕФТЬ; КРАСИТЬ, ЛАКИРОВАТЬ; БЫТЬ ИСПАЧКАННЫМ В ЖИРУ; ИЗВОРОТЛИВЫЙ, СКОЛЬЗКИЙ"
+    },
+    "pinyin": "yóu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1182,
+    "simplified": "游客",
+    "translations": {
+      "ru": "ТУРИСТ, ЭКСКУРСАНТ"
+    },
+    "pinyin": "yóukè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1183,
+    "simplified": "友好",
+    "translations": {
+      "ru": "ДРУЖБА; ДРУЖЕСТВЕННЫЙ"
+    },
+    "pinyin": "yǒuhǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1184,
+    "simplified": "有空儿",
+    "translations": {
+      "ru": "ИМЕТЬ СВОБОДНОЕ ВРЕМЯ; БЫТЬ СВОБОДНЫМ"
+    },
+    "pinyin": "yǒukòngr",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1185,
+    "simplified": "有人",
+    "translations": {
+      "ru": "КТО-ТО, НЕКТО; (НЕКОТОРЫЕ) ЛЮДИ; КТО-ТО ЕСТЬ, ЗАНЯТО (НАПРИМЕР, ТУАЛЕТ)"
+    },
+    "pinyin": "yǒurén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1186,
+    "simplified": "有（一）点儿",
+    "translations": {
+      "ru": "НЕМНОГО, ЧУТЬ-ЧУТЬ"
+    },
+    "pinyin": "yǒu (yī) diǎnr",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1187,
+    "simplified": "有意思",
+    "translations": {
+      "ru": "ИНТЕРЕСНЫЙ; ПИТАТЬ ИНТЕРЕС (К КОМУ-ЛИБО В РОМАНТИЧЕСКОМ СМЫСЛЕ)"
+    },
+    "pinyin": "yǒuyìsi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1188,
+    "simplified": "又",
+    "translations": {
+      "ru": "СНОВА, ОПЯТЬ, К ТОМУ ЖЕ"
+    },
+    "pinyin": "yòu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1189,
+    "simplified": "鱼",
+    "translations": {
+      "ru": "РЫБА"
+    },
+    "pinyin": "yú",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1190,
+    "simplified": "语言",
+    "translations": {
+      "ru": "РЕЧЬ; ЯЗЫК"
+    },
+    "pinyin": "yǔyán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1191,
+    "simplified": "原来",
+    "translations": {
+      "ru": "ПЕРВОНАЧАЛЬНО; ПЕРВОНАЧАЛЬНЫЙ; ОКАЗЫВАЕТСЯ; НА САМОМ ДЕЛЕ"
+    },
+    "pinyin": "yuánlái",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1192,
+    "simplified": "原因",
+    "translations": {
+      "ru": "ПРИЧИНА, ПОВОД; ОСНОВАНИЕ"
+    },
+    "pinyin": "yuányīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1193,
+    "simplified": "院",
+    "translations": {
+      "ru": "ДВОР; НАЗВАНИЕ ОПРЕДЕЛЁННЫХ ГОСУДАРСТВЕННЫХ УЧРЕЖДЕНИЙ; ПУБЛИЧНОЕ МЕСТО; ИНСТИТУТ, АКАДЕМИЯ"
+    },
+    "pinyin": "yuàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1194,
+    "simplified": "院长",
+    "translations": {
+      "ru": "ДИРЕКТОР, ПРЕЗИДЕНТ, ГЛАВА"
+    },
+    "pinyin": "yuànzhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1195,
+    "simplified": "院子",
+    "translations": {
+      "ru": "ДВОР, УСАДЬБА"
+    },
+    "pinyin": "yuànzi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1196,
+    "simplified": "愿意",
+    "translations": {
+      "ru": "ЖЕЛАТЬ, ХОТЕТЬ"
+    },
+    "pinyin": "yuànyì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1197,
+    "simplified": "月份",
+    "translations": {
+      "ru": "МЕСЯЦ"
+    },
+    "pinyin": "yuèfèn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1198,
+    "simplified": "月亮",
+    "translations": {
+      "ru": "ЛУНА"
+    },
+    "pinyin": "yuèliang",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1199,
+    "simplified": "越",
+    "translations": {
+      "ru": "ПЕРЕЙТИ ЧЕРЕЗ; ПРЕОДОЛЕТЬ, ЕЩЁ БОЛЕЕ"
+    },
+    "pinyin": "yuè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1200,
+    "simplified": "越来越",
+    "translations": {
+      "ru": "ВСЁ БОЛЬШЕ И БОЛЬШЕ; ЧЕМ ДАЛЬШЕ, ТЕМ…"
+    },
+    "pinyin": "yuèláiyuè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1201,
+    "simplified": "云",
+    "translations": {
+      "ru": "ОБЛАКО"
+    },
+    "pinyin": "yún",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1202,
+    "simplified": "运动",
+    "translations": {
+      "ru": "СПОРТ, ДВИЖЕНИЕ, КАМПАНИЯ"
+    },
+    "pinyin": "yùndòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1203,
+    "simplified": "咱",
+    "translations": {
+      "ru": "МЫ (ВКЛЮЧАЯ ГОВОРЯЩЕГО)"
+    },
+    "pinyin": "zán",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1204,
+    "simplified": "咱们",
+    "translations": {
+      "ru": "МЫ, МЫ С ВАМИ (С ТОБОЙ)"
+    },
+    "pinyin": "zánmen",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1205,
+    "simplified": "脏",
+    "translations": {
+      "ru": "ГРЯЗНЫЙ"
+    },
+    "pinyin": "zāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1206,
+    "simplified": "早餐",
+    "translations": {
+      "ru": "ЗАВТРАК"
+    },
+    "pinyin": "zǎocān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1207,
+    "simplified": "早晨",
+    "translations": {
+      "ru": "УТРО"
+    },
+    "pinyin": "zǎochén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1208,
+    "simplified": "早就",
+    "translations": {
+      "ru": "УЖЕ ДАВНО, ЕЩЁ РАНЬШЕ"
+    },
+    "pinyin": "zǎojiù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1209,
+    "simplified": "怎么办",
+    "translations": {
+      "ru": "ЧТО ДЕЛАТЬ; КАК ДЕЛАТЬ"
+    },
+    "pinyin": "zěnmebàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1210,
+    "simplified": "怎么样",
+    "translations": {
+      "ru": "КАК? КАКИМ ОБРАЗОМ? КАК ДЕЛА?"
+    },
+    "pinyin": "zěnmeyàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1211,
+    "simplified": "怎样",
+    "translations": {
+      "ru": "КАКИМ ОБРАЗОМ; КАК"
+    },
+    "pinyin": "zěnyàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1212,
+    "simplified": "占",
+    "translations": {
+      "ru": "ЗАНИМАТЬ (НАПР., МЕСТО, ВРЕМЯ), СОСТАВЛЯТЬ; ОБЛАДАТЬ (НАПР., ПРЕИМУЩЕСТВОМ)"
+    },
+    "pinyin": "zhàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1213,
+    "simplified": "站",
+    "translations": {
+      "ru": "СТОЯТЬ, ВСТАВАТЬ; ОСТАНАВЛИВАТЬСЯ"
+    },
+    "pinyin": "zhàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1214,
+    "simplified": "站住",
+    "translations": {
+      "ru": "ОСТАНОВИТЬСЯ; СТОЙ!"
+    },
+    "pinyin": "zhànzhù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1215,
+    "simplified": "长",
+    "translations": {
+      "ru": "СТАРШИЙ; ГЛАВНЫЙ, ПЕРВЫЙ; РАСТИ, УВЕЛИЧИВАТЬСЯ; МНОЖИТЬСЯ ВОЗРАСТАТЬ; НАКАПЛИВАТЬСЯ"
+    },
+    "pinyin": "zhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1216,
+    "simplified": "长大",
+    "translations": {
+      "ru": "ВЫРАСТАТЬ, СТАНОВИТЬСЯ ВЗРОСЛЫМ"
+    },
+    "pinyin": "zhǎngdà",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1217,
+    "simplified": "找出",
+    "translations": {
+      "ru": "НАХОДИТЬ, ОБНАРУЖИВАТЬ"
+    },
+    "pinyin": "zhǎochū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1218,
+    "simplified": "照顾",
+    "translations": {
+      "ru": "ПРИСМАТРИВАТЬ, ЗАБОТИТЬСЯ"
+    },
+    "pinyin": "zhàogù",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1219,
+    "simplified": "照片",
+    "translations": {
+      "ru": "ФОТОГРАФИЯ"
+    },
+    "pinyin": "zhàopiàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1220,
+    "simplified": "照相",
+    "translations": {
+      "ru": "ФОТОГРАФИРОВАТЬ; ФОТОГРАФИРОВАНИЕ; ФОТОГРАФИЧЕСКИЙ"
+    },
+    "pinyin": "zhàoxiàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1221,
+    "simplified": "这么",
+    "translations": {
+      "ru": "ТАК, ТАКОЙ, НАСТОЛЬКО"
+    },
+    "pinyin": "zhème",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1222,
+    "simplified": "这时候｜这时",
+    "translations": {
+      "ru": "В ЭТО ВРЕМЯ, В ЭТОТ МОМЕНТ"
+    },
+    "pinyin": "zhè shíhòu| zhè shí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1223,
+    "simplified": "这样",
+    "translations": {
+      "ru": "ТАКОЙ; ТАК; ТАКИМ ОБРАЗОМ"
+    },
+    "pinyin": "zhèyàng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1224,
+    "simplified": "真正",
+    "translations": {
+      "ru": "ПОДЛИННЫЙ; НАСТОЯЩИЙ; ИСТИННЫЙ; ДЕЙСТВИТЕЛЬНО; НА САМОМ ДЕЛЕ"
+    },
+    "pinyin": "zhēnzhèng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1225,
+    "simplified": "正常",
+    "translations": {
+      "ru": "НОРМАЛЬНЫЙ, ОБЫЧНЫЙ; ПОСТОЯННЫЙ; СРЕДНИЙ"
+    },
+    "pinyin": "zhèngcháng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1226,
+    "simplified": "正好",
+    "translations": {
+      "ru": "КАК РАЗ; КСТАТИ, ВПОРУ"
+    },
+    "pinyin": "zhènghǎo",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1227,
+    "simplified": "正确",
+    "translations": {
+      "ru": "ДОСТОВЕРНЫЙ, ДЕЙСТВИТЕЛЬНЫЙ, ТОЧНЫЙ; ПРАВИЛЬНЫЙ; ПРАВИЛЬНО"
+    },
+    "pinyin": "zhèngquè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1228,
+    "simplified": "正是",
+    "translations": {
+      "ru": "БЫТЬ ТОЧНО, БЫТЬ ИМЕННО, БЫТЬ ПРЯМО КАК"
+    },
+    "pinyin": "zhèngshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1229,
+    "simplified": "直接",
+    "translations": {
+      "ru": "ПРЯМОЙ; НЕПОСРЕДСТВЕННЫЙ; ПРЯМО; НЕПОСРЕДСТВЕННО"
+    },
+    "pinyin": "zhíjiē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1230,
+    "simplified": "只",
+    "translations": {
+      "ru": "ТОЛЬКО; ЛИШЬ; ВСЕГО ЛИШЬ; ТОЛЬКО ЛИШЬ"
+    },
+    "pinyin": "zhǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1231,
+    "simplified": "只能",
+    "translations": {
+      "ru": "ТОЛЬКО И МОЧЬ ЧТО.., МОЧЬ ТОЛЬКО; ОСТАЁТСЯ ТОЛЬКО"
+    },
+    "pinyin": "zhǐnéng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1232,
+    "simplified": "只要",
+    "translations": {
+      "ru": "НУЖНО ЛИШЬ; НАДО ТОЛЬКО"
+    },
+    "pinyin": "zhǐyào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1233,
+    "simplified": "纸",
+    "translations": {
+      "ru": "БУМАГА; СЧЁТНОЕ СЛОВО ДЛЯ ПИСЕМ, ДОКУМЕНТОВ И Т.Д."
+    },
+    "pinyin": "zhǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1234,
+    "simplified": "中餐",
+    "translations": {
+      "ru": "КИТАЙСКАЯ КУХНЯ"
+    },
+    "pinyin": "zhōngcān",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1235,
+    "simplified": "中级",
+    "translations": {
+      "ru": "СРЕДНИЙ УРОВЕНЬ"
+    },
+    "pinyin": "zhōngjí",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1236,
+    "simplified": "中年",
+    "translations": {
+      "ru": "СРЕДНИХ ЛЕТ"
+    },
+    "pinyin": "zhōngnián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1237,
+    "simplified": "中小学",
+    "translations": {
+      "ru": "НАЧАЛЬНАЯ ИЛИ СРЕДНЯЯ ШКОЛА"
+    },
+    "pinyin": "zhōng-xiǎoxué",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1238,
+    "simplified": "中心",
+    "translations": {
+      "ru": "ЦЕНТР; СЕРДЦЕВИНА; ЦЕНТРАЛЬНЫЙ"
+    },
+    "pinyin": "zhōngxīn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1239,
+    "simplified": "中医",
+    "translations": {
+      "ru": "(КИТ. МЕД) ТРАДИЦИОННАЯ КИТАЙСКАЯ МЕДИЦИНА; ДОКТОР ТРАДИЦИОННОЙ КИТАЙСКОЙ МЕДИЦИНЫ"
+    },
+    "pinyin": "zhōngyī",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1240,
+    "simplified": "重点",
+    "translations": {
+      "ru": "КЛЮЧЕВОЙ ПУНКТ; ГЛАВНОЕ ЗВЕНО"
+    },
+    "pinyin": "zhòngdiǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1241,
+    "simplified": "重视",
+    "translations": {
+      "ru": "ПРИДАВАТЬ ЗНАЧЕНИЕ, ОБРАЩАТЬ БОЛЬШОЕ ВНИМАНИЕ, ИМЕТЬ ВЫСОКОЕ МНЕНИЕ (О КОМ-ЛИБО)"
+    },
+    "pinyin": "zhòngshì",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1242,
+    "simplified": "周",
+    "translations": {
+      "ru": "НЕДЕЛЯ; ЦИКЛ, КРУГ"
+    },
+    "pinyin": "zhōu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1243,
+    "simplified": "周末",
+    "translations": {
+      "ru": "ВЫХОДНЫЕ, КОНЕЦ НЕДЕЛИ"
+    },
+    "pinyin": "zhōumò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1244,
+    "simplified": "周年",
+    "translations": {
+      "ru": "ГОДОВЩИНА, ГОДИЧНЫЙ"
+    },
+    "pinyin": "zhōunián",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1245,
+    "simplified": "主人",
+    "translations": {
+      "ru": "ХОЗЯИН, ВЛАДЕЛЕЦ"
+    },
+    "pinyin": "zhǔrén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1246,
+    "simplified": "主要",
+    "translations": {
+      "ru": "ГЛАВНЫЙ, ГЛАВНЫМ ОБРАЗОМ"
+    },
+    "pinyin": "zhǔyào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1247,
+    "simplified": "住房",
+    "translations": {
+      "ru": "ЖИЛЬЁ"
+    },
+    "pinyin": "zhùfáng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1248,
+    "simplified": "住院",
+    "translations": {
+      "ru": "ЛЕЧЬ В БОЛЬНИЦУ, ГОСПИТАЛИЗИРОВАТЬСЯ"
+    },
+    "pinyin": "zhùyuàn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1249,
+    "simplified": "装",
+    "translations": {
+      "ru": "НАРЯЖАТЬСЯ; ПЕРЕОДЕВАТЬСЯ; НАРЯД; ОДЕЖДА; ПРИТВОРЯТЬСЯ; ПРИКИДЫВАТЬСЯ; НАГРУЖАТЬ; ГРУЗИТЬ; УКЛАДЫВАТЬ; УПАКОВЫВАТЬ; МОНТИРОВАТЬ"
+    },
+    "pinyin": "zhuāng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1250,
+    "simplified": "准确",
+    "translations": {
+      "ru": "ТОЧНЫЙ, ВЕРНЫЙ; ПРАВИЛЬНЫЙ; ПУНКТУАЛЬНЫЙ; МЕТКИЙ"
+    },
+    "pinyin": "zhǔnquè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1251,
+    "simplified": "自己",
+    "translations": {
+      "ru": "САМ"
+    },
+    "pinyin": "zìjǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1252,
+    "simplified": "自行车",
+    "translations": {
+      "ru": "ВЕЛОСИПЕД"
+    },
+    "pinyin": "zìxíngchē",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1253,
+    "simplified": "自由",
+    "translations": {
+      "ru": "СВОБОДА; СВОБОДНЫЙ; ВОЛЬНЫЙ"
+    },
+    "pinyin": "zìyóu",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1254,
+    "simplified": "字典",
+    "translations": {
+      "ru": "СЛОВАРЬ"
+    },
+    "pinyin": "zìdiǎn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1255,
+    "simplified": "走过",
+    "translations": {
+      "ru": "МИНОВАТЬ, ПРОХОДИТЬ МИМО"
+    },
+    "pinyin": "zǒuguò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1256,
+    "simplified": "走进",
+    "translations": {
+      "ru": "ЗАХОДИТЬ, ВХОДИТЬ"
+    },
+    "pinyin": "zǒujìn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1257,
+    "simplified": "走开",
+    "translations": {
+      "ru": "УХОДИТЬ ОТСЮДА, УБИРАТЬСЯ (В ДРУГОЕ МЕСТО)"
+    },
+    "pinyin": "zǒukāi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1258,
+    "simplified": "租",
+    "translations": {
+      "ru": "АРЕНДОВАТЬ, СНИМАТЬ (НАПР., КВАРТИРУ); БРАТЬ НАПРОКАТ; СДАВАТЬ В АРЕНДУ; ВЫДАВАТЬ НАПРОКАТ; АРЕНДНАЯ ПЛАТА"
+    },
+    "pinyin": "zū",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1259,
+    "simplified": "组",
+    "translations": {
+      "ru": "ГРУППА; КРУЖОК; ЗВЕНО (ПРОИЗВОДСТВЕННОЕ); БРИГАДА; ОРГАНИЗОВАТЬ; СФОРМИРОВАТЬ"
+    },
+    "pinyin": "zǔ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1260,
+    "simplified": "组成",
+    "translations": {
+      "ru": "ОБРАЗОВАТЬ; СФОРМИРОВАТЬ; СОСТАВИТЬ"
+    },
+    "pinyin": "zǔchéng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1261,
+    "simplified": "组长",
+    "translations": {
+      "ru": "ЛИДЕР ГРУППЫ"
+    },
+    "pinyin": "zǔzhǎng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1262,
+    "simplified": "嘴",
+    "translations": {
+      "ru": "РОТ"
+    },
+    "pinyin": "zuǐ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1263,
+    "simplified": "最近",
+    "translations": {
+      "ru": "БЛИЖАЙШИЙ, НЕДАВНО"
+    },
+    "pinyin": "zuìjìn",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1264,
+    "simplified": "作家",
+    "translations": {
+      "ru": "ПИСАТЕЛЬ; ТВОРЧЕСКИЙ РАБОТНИК"
+    },
+    "pinyin": "zuòjiā",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1265,
+    "simplified": "作文",
+    "translations": {
+      "ru": "ПИСАТЬ СТАТЬЮ; ПИСАТЬ СОЧИНЕНИЕ (ШКОЛЬНОЕ); СОЧИНЕНИЕ (ШКОЛЬНОЕ)"
+    },
+    "pinyin": "zuòwén",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1266,
+    "simplified": "作业",
+    "translations": {
+      "ru": "ДОМАШНЯЯ РАБОТА; ЗАДАНИЕ, РАБОТА"
+    },
+    "pinyin": "zuòyè",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1267,
+    "simplified": "作用",
+    "translations": {
+      "ru": "РОЛЬ; ЗНАЧЕНИЕ; ДЕЙСТВИЕ; ВОЗДЕЙСТВИЕ"
+    },
+    "pinyin": "zuòyòng",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1268,
+    "simplified": "座",
+    "translations": {
+      "ru": "МЕСТО; СИДЕНЬЕ; ПОДСТАВКА; ПОСТАМЕНТ; СЧЕТНОЕ СЛОВО ДЛЯ БОЛЬШИХ ЗДАНИЙ, МОСТОВ И ГРОМОЗДКИХ ПРЕДМЕТОВ"
+    },
+    "pinyin": "zuò",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1269,
+    "simplified": "座位",
+    "translations": {
+      "ru": "МЕСТО (НАПР. ЗА СТОЛОМ, В ВАГОНЕ, В ТЕАТРЕ)"
+    },
+    "pinyin": "zuòwèi",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1270,
+    "simplified": "做到",
+    "translations": {
+      "ru": "ВЫПОЛНЯТЬ, ДОСТИГАТЬ"
+    },
+    "pinyin": "zuòdào",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1271,
+    "simplified": "做法",
+    "translations": {
+      "ru": "МЕТОД, СПОСОБ ДЕЙСТВИЯ, ПРАКТИКА, ПОСТУПОК"
+    },
+    "pinyin": "zuòfǎ",
+    "pos": [],
+    "level": 2
+  },
+  {
+    "id": 1272,
+    "simplified": "做饭",
+    "translations": {
+      "ru": "ГОТОВИТЬ ЕДУ"
+    },
+    "pinyin": "zuòfàn",
+    "pos": [],
+    "level": 2
+  }
+]

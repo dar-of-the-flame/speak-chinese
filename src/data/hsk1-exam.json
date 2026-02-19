@@ -1,0 +1,108 @@
+[
+  {
+    "id": "hsk1-mock-001",
+    "title": "Пробный экзамен HSK 1 (вариант 1)",
+    "level": "1",
+    "sections": [
+      {
+        "name": "Лексика",
+        "questions": [
+          { "type": "multiple-choice", "question": "爱", "options": ["любить", "есть", "пить", "спать"], "answer": 0 },
+          { "type": "multiple-choice", "question": "学校", "options": ["школа", "больница", "магазин", "парк"], "answer": 0 },
+          { "type": "multiple-choice", "question": "今天", "options": ["вчера", "сегодня", "завтра", "сейчас"], "answer": 1 },
+          { "type": "multiple-choice", "question": "多少钱", "options": ["сколько времени", "сколько стоит", "сколько лет", "сколько людей"], "answer": 1 },
+          { "type": "multiple-choice", "question": "老师", "options": ["ученик", "учитель", "врач", "студент"], "answer": 1 }
+        ]
+      },
+      {
+        "name": "Грамматика",
+        "questions": [
+          { "type": "fill-blank", "sentence": "我叫___学生。", "options": ["是", "有", "在", "当"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "她___很高。", "options": ["很", "是", "的", "有"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "你___茶吗？", "options": ["喝", "吃", "看", "品"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "我___一个哥哥。", "options": ["有", "是", "在", "要"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "现在___点？", "options": ["几", "多", "什么", "哪"], "answer": 0 }
+        ]
+      },
+      {
+        "name": "Чтение",
+        "questions": [
+          {
+            "type": "reading",
+            "text": "我叫李明。我是中国人。我家有三口人：爸爸、妈妈和我。爸爸是老师，妈妈是医生。我八岁，是学生。我爱我家。",
+            "items": [
+              { "question": "李明是哪国人？", "options": ["中国人", "美国人", "英国人", "日本人"], "answer": 0 },
+              { "question": "李明家有几个人？", "options": ["两个", "三个", "四个", "五个"], "answer": 1 },
+              { "question": "爸爸做什么工作？", "options": ["医生", "老师", "学生", "工人"], "answer": 1 },
+              { "question": "妈妈做什么工作？", "options": ["医生", "老师", "护士", "司机"], "answer": 0 },
+              { "question": "李明几岁了？", "options": ["七岁", "八岁", "九岁", "十岁"], "answer": 1 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Перевод",
+        "questions": [
+          { "type": "translate", "question": "Я люблю чай.", "answer": "我爱喝茶。" },
+          { "type": "translate", "question": "Сколько стоит эта книга?", "answer": "这本书多少钱？" },
+          { "type": "translate", "question": "Сегодня холодно.", "answer": "今天很冷。" },
+          { "type": "translate", "question": "У меня есть старший брат.", "answer": "我有一个哥哥。" },
+          { "type": "translate", "question": "Мы идём в школу.", "answer": "我们去学校。" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hsk1-mock-002",
+    "title": "Пробный экзамен HSK 1 (вариант 2)",
+    "level": "1",
+    "sections": [
+      {
+        "name": "Лексика",
+        "questions": [
+          { "type": "multiple-choice", "question": "猫", "options": ["кошка", "собака", "птица", "рыба"], "answer": 0 },
+          { "type": "multiple-choice", "question": "喝", "options": ["есть", "пить", "спать", "готовить"], "answer": 1 },
+          { "type": "multiple-choice", "question": "爸爸", "options": ["папа", "мама", "брат", "дедушка"], "answer": 0 },
+          { "type": "multiple-choice", "question": "再见", "options": ["привет", "пока", "спасибо", "извините"], "answer": 1 },
+          { "type": "multiple-choice", "question": "名字", "options": ["имя", "фамилия", "возраст", "адрес"], "answer": 0 }
+        ]
+      },
+      {
+        "name": "Грамматика",
+        "questions": [
+          { "type": "fill-blank", "sentence": "你___什么？", "options": ["是", "有", "叫", "在"], "answer": 2 },
+          { "type": "fill-blank", "sentence": "我___喜欢猫。", "options": ["很", "是", "有", "也"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "他___学生。", "options": ["是", "有", "在", "当"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "你___茶还是咖啡？", "options": ["喝", "吃", "看", "品"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "今天___几号？", "options": ["是", "有", "在", "到"], "answer": 0 }
+        ]
+      },
+      {
+        "name": "Чтение",
+        "questions": [
+          {
+            "type": "reading",
+            "text": "我家有一只猫，它很可爱。它喜欢睡觉，也喜欢吃鱼。我每天和它一起玩。我很爱我的猫。",
+            "items": [
+              { "question": "我家有什么？", "options": ["狗", "猫", "鸟", "鱼"], "answer": 1 },
+              { "question": "猫喜欢做什么？", "options": ["睡觉和吃鱼", "跑步", "看电视", "玩球"], "answer": 0 },
+              { "question": "我每天和猫做什么？", "options": ["一起玩", "一起吃饭", "一起睡觉", "一起跑步"], "answer": 0 },
+              { "question": "我觉得我的猫怎么样？", "options": ["不可爱", "很可爱", "很胖", "很瘦"], "answer": 1 },
+              { "question": "猫喜欢吃什么？", "options": ["鱼", "肉", "菜", "水果"], "answer": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Перевод",
+        "questions": [
+          { "type": "translate", "question": "У меня есть кошка.", "answer": "我有一只猫。" },
+          { "type": "translate", "question": "Он мой папа.", "answer": "他是我爸爸。" },
+          { "type": "translate", "question": "Сколько тебе лет?", "answer": "你几岁？" },
+          { "type": "translate", "question": "Я хочу пить воду.", "answer": "我想喝水。" },
+          { "type": "translate", "question": "До свидания!", "answer": "再见！" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "hsk3-mock-001",
+    "title": "Пробный экзамен HSK 3 (вариант 1)",
+    "level": "3",
+    "sections": [
+      {
+        "name": "Лексика",
+        "questions": [
+          { "type": "multiple-choice", "question": "经验", "options": ["опыт", "деньги", "время", "работа"], "answer": 0 },
+          { "type": "multiple-choice", "question": "解决", "options": ["решить (проблему)", "понять", "объяснить", "найти"], "answer": 0 },
+          { "type": "multiple-choice", "question": "继续", "options": ["начинать", "продолжать", "заканчивать", "прерывать"], "answer": 1 },
+          { "type": "multiple-choice", "question": "简单", "options": ["сложный", "простой", "интересный", "скучный"], "answer": 1 },
+          { "type": "multiple-choice", "question": "可爱", "options": ["милый", "злой", "грустный", "страшный"], "answer": 0 }
+        ]
+      },
+      {
+        "name": "Грамматика",
+        "questions": [
+          { "type": "fill-blank", "sentence": "___明天下雨，我们就不去了。", "options": ["如果", "虽然", "因为", "假如"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "他___会说英语，还会说法语。", "options": ["不但", "不仅", "除了", "不只"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "我把门___了。", "options": ["关", "关上", "关闭", "合上"], "answer": 1 },
+          { "type": "fill-blank", "sentence": "这个问题___难。", "options": ["有点儿", "一点儿", "一下", "一些"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "你___去过长城吗？", "options": ["曾经", "已经", "从来", "从未"], "answer": 0 }
+        ]
+      },
+      {
+        "name": "Чтение",
+        "questions": [
+          {
+            "type": "reading",
+            "text": "去年暑假，我一个人去了云南旅行。云南的风景非常美，尤其是丽江古城。我在那儿住了三天，每天在古城里散步，还认识了一些新朋友。这次旅行让我很难忘。",
+            "items": [
+              { "question": "作者去了哪里旅行？", "options": ["北京", "上海", "云南", "广州"], "answer": 2 },
+              { "question": "作者在丽江住了几天？", "options": ["两天", "三天", "四天", "五天"], "answer": 1 },
+              { "question": "作者在古城做了什么？", "options": ["买东西", "散步", "吃饭", "睡觉"], "answer": 1 },
+              { "question": "作者认识了新朋友吗？", "options": ["认识了", "没认识", "不知道", "没有提到"], "answer": 0 },
+              { "question": "作者觉得这次旅行怎么样？", "options": ["难忘", "一般", "没意思", "太累"], "answer": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Перевод",
+        "questions": [
+          { "type": "translate", "question": "Если завтра будет дождь, мы не пойдём.", "answer": "如果明天下雨，我们就不去。" },
+          { "type": "translate", "question": "Он не только говорит по-английски, но и по-французски.", "answer": "他不但会说英语，还会说法语。" },
+          { "type": "translate", "question": "Я закрыл дверь.", "answer": "我把门关了。" },
+          { "type": "translate", "question": "Ты был на Великой стене?", "answer": "你去过长城吗？" },
+          { "type": "translate", "question": "Он очень хорошо поёт.", "answer": "他唱歌唱得很好。" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hsk3-mock-002",
+    "title": "Пробный экзамен HSK 3 (вариант 2)",
+    "level": "3",
+    "sections": [
+      {
+        "name": "Лексика",
+        "questions": [
+          { "type": "multiple-choice", "question": "空调", "options": ["отопление", "кондиционер", "вентилятор", "обогреватель"], "answer": 1 },
+          { "type": "multiple-choice", "question": "厨房", "options": ["ванная", "кухня", "гостиная", "спальня"], "answer": 1 },
+          { "type": "multiple-choice", "question": "窗户", "options": ["дверь", "окно", "стена", "пол"], "answer": 1 },
+          { "type": "multiple-choice", "question": "词典", "options": ["словарь", "тетрадь", "книга", "журнал"], "answer": 0 },
+          { "type": "multiple-choice", "question": "锻炼", "options": ["тренироваться", "отдыхать", "работать", "спать"], "answer": 0 }
+        ]
+      },
+      {
+        "name": "Грамматика",
+        "questions": [
+          { "type": "fill-blank", "sentence": "他___累得不行了。", "options": ["有点儿", "很", "非常", "挺"], "answer": 1 },
+          { "type": "fill-blank", "sentence": "我___去过两次上海。", "options": ["已经", "曾经", "从来", "早已"], "answer": 1 },
+          { "type": "fill-blank", "sentence": "你___知道这件事？", "options": ["怎么", "为什么", "什么", "哪样"], "answer": 0 },
+          { "type": "fill-blank", "sentence": "他___在睡觉。", "options": ["正", "正在", "在", "现在"], "answer": 1 },
+          { "type": "fill-blank", "sentence": "我___听音乐。", "options": ["喜欢", "爱", "想", "要"], "answer": 0 }
+        ]
+      },
+      {
+        "name": "Чтение",
+        "questions": [
+          {
+            "type": "reading",
+            "text": "我爸爸吸烟吸了二十年，最近他终于决定戒烟了。一开始他很痛苦，总是想吸烟。但是妈妈和我一直鼓励他。现在他已经三个月没吸烟了，身体也好了很多。我们都为他高兴。",
+            "items": [
+              { "question": "爸爸吸烟吸了多少年？", "options": ["十年", "十五年", "二十年", "二十五年"], "answer": 2 },
+              { "question": "戒烟后爸爸怎么样？", "options": ["很痛苦", "很开心", "生病了", "没变化"], "answer": 0 },
+              { "question": "现在爸爸多久没吸烟了？", "options": ["一个月", "三个月", "半年", "一年"], "answer": 1 },
+              { "question": "谁鼓励爸爸戒烟？", "options": ["妈妈和我", "朋友", "医生", "同事"], "answer": 0 },
+              { "question": "爸爸身体现在怎么样？", "options": ["好了很多", "更差了", "没变化", "不知道"], "answer": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Перевод",
+        "questions": [
+          { "type": "translate", "question": "Хотя было поздно, он всё ещё работал.", "answer": "虽然很晚了，他还在工作。" },
+          { "type": "translate", "question": "Я уже два раза был в Шанхае.", "answer": "我去过两次上海。" },
+          { "type": "translate", "question": "Что ты делаешь?", "answer": "你在做什么？" },
+          { "type": "translate", "question": "Он немного устал.", "answer": "他有点儿累。" },
+          { "type": "translate", "question": "Я люблю слушать музыку.", "answer": "我喜欢听音乐。" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "id": "g3_1",
+    "pattern": "结果补语 (Result Complement): V + 完 / 到 / 见 / 懂",
+    "explanation": "Результативные дополнения указывают на результат действия. 完 - завершение, 到 - достижение, 见 - восприятие, 懂 - понимание.",
+    "examples": [
+      {
+        "chinese": "我做完作业了。",
+        "pinyin": "Wǒ zuò wán zuòyè le.",
+        "translation": "Я закончил делать домашнее задание."
+      },
+      {
+        "chinese": "他买到票了。",
+        "pinyin": "Tā mǎi dào piào le.",
+        "translation": "Он купил билет (успешно)."
+      },
+      {
+        "chinese": "我听懂了老师的话。",
+        "pinyin": "Wǒ tīng dǒng le lǎoshī de huà.",
+        "translation": "Я понял слова учителя."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_2",
+    "pattern": "可能补语 (Potential Complement): V + 得/不 + 结果补语",
+    "explanation": "Потенциальные дополнения выражают возможность или невозможность достичь результата.",
+    "examples": [
+      {
+        "chinese": "这么多菜，我吃不完。",
+        "pinyin": "Zhème duō cài, wǒ chī bù wán.",
+        "translation": "Так много еды, я не смогу всё съесть."
+      },
+      {
+        "chinese": "今天的作业我做得完。",
+        "pinyin": "Jīntiān de zuòyè wǒ zuò de wán.",
+        "translation": "Сегодняшнее задание я смогу сделать."
+      },
+      {
+        "chinese": "汉字太难，我记不住。",
+        "pinyin": "Hànzì tài nán, wǒ jì bù zhù.",
+        "translation": "Иероглифы слишком сложные, я не могу их запомнить."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_3",
+    "pattern": "程度补语 (Degree Complement): V + 得 + 形容词 (+ 极了/得很)",
+    "explanation": "Дополнение степени описывает, как происходит действие или в какой степени проявляется качество.",
+    "examples": [
+      {
+        "chinese": "他高兴得跳起来了。",
+        "pinyin": "Tā gāoxìng de tiào qǐlái le.",
+        "translation": "Он так обрадовался, что подпрыгнул."
+      },
+      {
+        "chinese": "她汉语说得好极了。",
+        "pinyin": "Tā Hànyǔ shuō de hǎo jí le.",
+        "translation": "Она говорит по-китайски отлично."
+      },
+      {
+        "chinese": "外面冷得很。",
+        "pinyin": "Wàimiàn lěng de hěn.",
+        "translation": "На улице очень холодно."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_4",
+    "pattern": "被动句 (Passive Voice) с 被/让/叫",
+    "explanation": "Пассивный залог показывает, что действие совершается над подлежащим. 被 - официальный, 让/叫 - разговорный.",
+    "examples": [
+      {
+        "chinese": "我的手机被我弟弟弄坏了。",
+        "pinyin": "Wǒ de shǒujī bèi wǒ dìdi nòng huài le.",
+        "translation": "Мой телефон был сломан моим младшим братом."
+      },
+      {
+        "chinese": "钱包让小偷偷了。",
+        "pinyin": "Qiánbāo ràng xiǎotōu tōu le.",
+        "translation": "Кошелёк украл вор."
+      },
+      {
+        "chinese": "他叫老师批评了。",
+        "pinyin": "Tā jiào lǎoshī pīpíng le.",
+        "translation": "Его поругал учитель."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_5",
+    "pattern": "比较句 (Comparative Sentences): A + 比 + B + 形容词 + 具体数量",
+    "explanation": "Сравнительные предложения с указанием конкретной разницы.",
+    "examples": [
+      {
+        "chinese": "他比我高五厘米。",
+        "pinyin": "Tā bǐ wǒ gāo wǔ límǐ.",
+        "translation": "Он выше меня на 5 сантиметров."
+      },
+      {
+        "chinese": "今天比昨天冷多了。",
+        "pinyin": "Jīntiān bǐ zuótiān lěng duō le.",
+        "translation": "Сегодня намного холоднее, чем вчера."
+      },
+      {
+        "chinese": "我比他更喜欢中国菜。",
+        "pinyin": "Wǒ bǐ tā gèng xǐhuān Zhōngguó cài.",
+        "translation": "Я люблю китайскую еду больше, чем он."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_6",
+    "pattern": "存现句 (Existential Sentences): 地方 + V + 着 + 人或物",
+    "explanation": "Предложения наличия описывают, что где-то находится кто-то или что-то (с акцентом на состояние).",
+    "examples": [
+      {
+        "chinese": "墙上挂着一幅画。",
+        "pinyin": "Qiáng shàng guà zhe yī fú huà.",
+        "translation": "На стене висит картина."
+      },
+      {
+        "chinese": "门口站着一个人。",
+        "pinyin": "Ménkǒu zhàn zhe yī gè rén.",
+        "translation": "У входа стоит человек."
+      },
+      {
+        "chinese": "桌子上放着一本书。",
+        "pinyin": "Zhuōzi shàng fàng zhe yī běn shū.",
+        "translation": "На столе лежит книга."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_7",
+    "pattern": "连动句 (Serial Verb Sentences): V1 + O1 + V2 + O2",
+    "explanation": "Последовательные глагольные конструкции: два действия, связанные по смыслу (цель, последовательность, способ).",
+    "examples": [
+      {
+        "chinese": "我去商店买东西。",
+        "pinyin": "Wǒ qù shāngdiàn mǎi dōngxi.",
+        "translation": "Я иду в магазин за покупками."
+      },
+      {
+        "chinese": "他坐飞机去上海。",
+        "pinyin": "Tā zuò fēijī qù Shànghǎi.",
+        "translation": "Он летит в Шанхай на самолёте."
+      },
+      {
+        "chinese": "我们打电话告诉他这个消息。",
+        "pinyin": "Wǒmen dǎ diànhuà gàosu tā zhège xiāoxī.",
+        "translation": "Мы позвонили и сказали ему эту новость."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_8",
+    "pattern": "兼语句 (Pivotal Sentences): S + V1 + O + V2",
+    "explanation": "Предикативные конструкции: объект первого глагола одновременно является субъектом второго (让, 叫, 请, 派).",
+    "examples": [
+      {
+        "chinese": "老师让学生回答问题。",
+        "pinyin": "Lǎoshī ràng xuésheng huídá wèntí.",
+        "translation": "Учитель просит учеников ответить на вопрос."
+      },
+      {
+        "chinese": "妈妈叫我吃饭。",
+        "pinyin": "Māma jiào wǒ chīfàn.",
+        "translation": "Мама зовёт меня есть."
+      },
+      {
+        "chinese": "我请他来我家做客。",
+        "pinyin": "Wǒ qǐng tā lái wǒ jiā zuòkè.",
+        "translation": "Я пригласил его к себе в гости."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_9",
+    "pattern": "转折关系 (Contrastive Relation): 虽然…但是…",
+    "explanation": "Уступительные предложения: хотя... но...",
+    "examples": [
+      {
+        "chinese": "虽然很累，但是我很快乐。",
+        "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kuàilè.",
+        "translation": "Хотя я устал, но я счастлив."
+      },
+      {
+        "chinese": "虽然汉语很难，但是他学得很好。",
+        "pinyin": "Suīrán Hànyǔ hěn nán, dànshì tā xué de hěn hǎo.",
+        "translation": "Хотя китайский трудный, он учит его хорошо."
+      },
+      {
+        "chinese": "虽然下雨，但是我们还是去了公园。",
+        "pinyin": "Suīrán xiàyǔ, dànshì wǒmen háishì qù le gōngyuán.",
+        "translation": "Хотя шёл дождь, мы всё равно пошли в парк."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_10",
+    "pattern": "因果关系 (Cause and Effect): 因为…所以…",
+    "explanation": "Предложения причины и следствия.",
+    "examples": [
+      {
+        "chinese": "因为下雨，所以比赛取消了。",
+        "pinyin": "Yīnwèi xiàyǔ, suǒyǐ bǐsài qǔxiāo le.",
+        "translation": "Из-за дождя соревнования отменили."
+      },
+      {
+        "chinese": "因为他很努力，所以考得很好。",
+        "pinyin": "Yīnwèi tā hěn nǔlì, suǒyǐ kǎo de hěn hǎo.",
+        "translation": "Потому что он усердно занимался, он хорошо сдал экзамен."
+      },
+      {
+        "chinese": "因为没时间，所以我不去了。",
+        "pinyin": "Yīnwèi méi shíjiān, suǒyǐ wǒ bù qù le.",
+        "translation": "Так как нет времени, я не пойду."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_11",
+    "pattern": "条件关系 (Conditional): 只要…就… / 只有…才…",
+    "explanation": "Условные предложения:只要 (достаточно лишь...) и 只有 (только при условии...).",
+    "examples": [
+      {
+        "chinese": "只要努力，就能成功。",
+        "pinyin": "Zhǐyào nǔlì, jiù néng chénggōng.",
+        "translation": "Если приложить усилия, можно добиться успеха."
+      },
+      {
+        "chinese": "只有坐飞机，才能按时到。",
+        "pinyin": "Zhǐyǒu zuò fēijī, cái néng ànshí dào.",
+        "translation": "Только на самолёте можно прибыть вовремя."
+      },
+      {
+        "chinese": "只要有钱，就可以买。",
+        "pinyin": "Zhǐyào yǒu qián, jiù kěyǐ mǎi.",
+        "translation": "Если есть деньги, можно купить."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_12",
+    "pattern": "假设关系 (Hypothetical): 如果…就…",
+    "explanation": "Гипотетические предложения: если... то...",
+    "examples": [
+      {
+        "chinese": "如果明天下雨，我们就不去。",
+        "pinyin": "Rúguǒ míngtiān xiàyǔ, wǒmen jiù bù qù.",
+        "translation": "Если завтра будет дождь, мы не пойдём."
+      },
+      {
+        "chinese": "如果我有时间，我就去看你。",
+        "pinyin": "Rúguǒ wǒ yǒu shíjiān, wǒ jiù qù kàn nǐ.",
+        "translation": "Если у меня будет время, я навещу тебя."
+      },
+      {
+        "chinese": "如果你不喜欢，可以换一个。",
+        "pinyin": "Rúguǒ nǐ bù xǐhuān, kěyǐ huàn yī gè.",
+        "translation": "Если тебе не нравится, можно поменять."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_13",
+    "pattern": "动词重叠 (Verb Reduplication): VV / V — V",
+    "explanation": "Удвоение глагола смягчает значение, обозначает короткое или пробное действие.",
+    "examples": [
+      {
+        "chinese": "你看看这个怎么样？",
+        "pinyin": "Nǐ kànkan zhège zěnmeyàng?",
+        "translation": "Посмотри-ка на это, как тебе?"
+      },
+      {
+        "chinese": "我试试这件衣服。",
+        "pinyin": "Wǒ shìshi zhè jiàn yīfu.",
+        "translation": "Я примерю эту одежду."
+      },
+      {
+        "chinese": "我们聊聊吧。",
+        "pinyin": "Wǒmen liáoliao ba.",
+        "translation": "Давай поболтаем."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_14",
+    "pattern": "动作的进行 (Action in Progress): 正在 + V + 呢",
+    "explanation": "Указывает на действие, происходящее прямо сейчас.",
+    "examples": [
+      {
+        "chinese": "我正在吃饭呢。",
+        "pinyin": "Wǒ zhèngzài chīfàn ne.",
+        "translation": "Я сейчас ем."
+      },
+      {
+        "chinese": "他们正在上课呢。",
+        "pinyin": "Tāmen zhèngzài shàngkè ne.",
+        "translation": "Они сейчас на уроке."
+      },
+      {
+        "chinese": "他正在洗澡呢。",
+        "pinyin": "Tā zhèngzài xǐzǎo ne.",
+        "translation": "Он сейчас принимает душ."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_15",
+    "pattern": "动作的持续 (Continuous State): V + 着",
+    "explanation": "Указывает на продолжительное состояние или действие.",
+    "examples": [
+      {
+        "chinese": "门开着呢。",
+        "pinyin": "Mén kāi zhe ne.",
+        "translation": "Дверь открыта."
+      },
+      {
+        "chinese": "他穿着一件红衣服。",
+        "pinyin": "Tā chuān zhe yī jiàn hóng yīfu.",
+        "translation": "На нём красная одежда."
+      },
+      {
+        "chinese": "他躺着看书。",
+        "pinyin": "Tā tǎng zhe kàn shū.",
+        "translation": "Он читает книгу лёжа."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_16",
+    "pattern": "将要发生的动作 (Imminent Action): 快/要/快要 + V + 了",
+    "explanation": "Указывает на действие, которое скоро произойдёт.",
+    "examples": [
+      {
+        "chinese": "火车快开了。",
+        "pinyin": "Huǒchē kuài kāi le.",
+        "translation": "Поезд скоро отправится."
+      },
+      {
+        "chinese": "要下雨了，快回家吧。",
+        "pinyin": "Yào xiàyǔ le, kuài huíjiā ba.",
+        "translation": "Скоро пойдёт дождь, быстро иди домой."
+      },
+      {
+        "chinese": "快要考试了，我很紧张。",
+        "pinyin": "Kuàiyào kǎoshì le, wǒ hěn jǐnzhāng.",
+        "translation": "Скоро экзамен, я очень волнуюсь."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_17",
+    "pattern": "动作的尝试 (Tentative Action): V + 看看",
+    "explanation": "Попытка совершить действие (посмотреть, попробовать).",
+    "examples": [
+      {
+        "chinese": "你尝尝这个菜。",
+        "pinyin": "Nǐ chángchang zhège cài.",
+        "translation": "Попробуй это блюдо."
+      },
+      {
+        "chinese": "我想想看看。",
+        "pinyin": "Wǒ xiǎngxiǎng kànkan.",
+        "translation": "Я подумаю (посмотрю)."
+      },
+      {
+        "chinese": "问问看谁知道。",
+        "pinyin": "Wènwen kàn shéi zhīdào.",
+        "translation": "Спроси-ка, кто знает."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_18",
+    "pattern": "形容词重叠 (Adjective Reduplication): AA / AABB",
+    "explanation": "Удвоение прилагательных усиливает выразительность или смягчает значение.",
+    "examples": [
+      {
+        "chinese": "她高高兴兴地走了。",
+        "pinyin": "Tā gāogāo-xìngxìng de zǒu le.",
+        "translation": "Она ушла очень довольная."
+      },
+      {
+        "chinese": "房间里干干净净的。",
+        "pinyin": "Fángjiān lǐ gāngān-jìngjìng de.",
+        "translation": "В комнате чисто-чисто."
+      },
+      {
+        "chinese": "慢慢地走，别着急。",
+        "pinyin": "Mànmàn de zǒu, bié zháojí.",
+        "translation": "Иди медленно, не торопись."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_19",
+    "pattern": "概数表达 (Approximate Numbers): 几 / 多 / 左右 / 来",
+    "explanation": "Способы выражения приблизительного количества.",
+    "examples": [
+      {
+        "chinese": "我买了二十多个苹果。",
+        "pinyin": "Wǒ mǎi le èrshí duō gè píngguǒ.",
+        "translation": "Я купил больше двадцати яблок."
+      },
+      {
+        "chinese": "他三十岁左右。",
+        "pinyin": "Tā sānshí suì zuǒyòu.",
+        "translation": "Ему около тридцати лет."
+      },
+      {
+        "chinese": "十来个学生。",
+        "pinyin": "Shí lái gè xuésheng.",
+        "translation": "Около десяти студентов."
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "id": "g3_20",
+    "pattern": "双重否定 (Double Negation): 不得不 / 没有...不",
+    "explanation": "Двойное отрицание выражает вынужденность или всеобщность.",
+    "examples": [
+      {
+        "chinese": "我不得不去。",
+        "pinyin": "Wǒ bùdébù qù.",
+        "translation": "Мне придётся пойти (не могу не пойти)."
+      },
+      {
+        "chinese": "没有人不知道这件事。",
+        "pinyin": "Méiyǒu rén bù zhīdào zhè jiàn shì.",
+        "translation": "Нет никого, кто бы не знал об этом."
+      },
+      {
+        "chinese": "他不可能不来。",
+        "pinyin": "Tā bù kěnéng bù lái.",
+        "translation": "Не может быть, чтобы он не пришёл."
+      }
+    ],
+    "level": "3"
+  }
+]

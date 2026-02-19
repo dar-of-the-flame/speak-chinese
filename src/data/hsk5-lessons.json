@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "5-1",
+    "hskLevel": "5",
+    "lessonNumber": 1,
+    "title": "Личность, психология",
+    "newWords": [3246, 3247, 3248, 3249, 3250, 3251, 3252, 3253, 3254, 3255, 3256, 3257, 3258, 3259, 3260, 3261, 3262, 3263, 3264, 3265, 3266, 3267, 3268, 3269, 3270, 3271, 3272],
+    "grammarPoints": ["g5_1", "g5_2"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你最近看起来不太高兴，怎么了？",
+            "pinyin": "Nǐ zuìjìn kàn qǐlái bù tài gāoxìng, zěnme le?",
+            "russian": "В последнее время ты выглядишь не очень радостным, что случилось?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我的背包被偷了，里面有很多重要的东西。",
+            "pinyin": "Wǒ de bēibāo bèi tōu le, lǐmiàn yǒu hěnduō zhòngyào de dōngxi.",
+            "russian": "У меня украли рюкзак, там было много важных вещей."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "真是太不幸了！你报警了吗？",
+            "pinyin": "Zhēn shì tài búxìng le! Nǐ bàojǐng le ma?",
+            "russian": "Какая неудача! Ты сообщил в полицию?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "报了，警察说会帮我寻找，但毕竟希望不大。",
+            "pinyin": "Bào le, jǐngchá shuō huì bāng wǒ xúnzhǎo, dàn bìjìng xīwàng bù dà.",
+            "russian": "Сообщил, полиция сказала, что поможет искать, но всё же надежды мало."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "别太难过了，东西可以再买。",
+            "pinyin": "Bié tài nánguò le, dōngxi kěyǐ zài mǎi.",
+            "russian": "Не расстраивайся слишком, вещи можно купить заново."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает слово «安慰»?",
+        "options": ["утешать", "нападать", "обманывать", "защищать"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "他___没有放弃希望。",
+        "options": ["毕竟 (bìjìng)", "竟然 (jìngrán)", "果然 (guǒrán)", "仍然 (réngrán)"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Несмотря на трудности, он не сдавался.",
+        "answer": "尽管困难，他并没有放弃。"
+      }
+    ]
+  },
+  {
+    "id": "5-2",
+    "hskLevel": "5",
+    "lessonNumber": 2,
+    "title": "Семья, воспитание",
+    "newWords": [3273, 3274, 3275, 3276, 3277, 3278, 3279, 3280, 3281, 3282, 3283, 3284, 3285, 3286, 3287, 3288, 3289, 3290, 3291, 3292, 3293, 3294, 3295, 3296, 3297, 3298, 3299],
+    "grammarPoints": ["g5_3", "g5_4"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你跟你父母的关系怎么样？",
+            "pinyin": "Nǐ gēn nǐ fùmǔ de guānxì zěnmeyàng?",
+            "russian": "Как у тебя отношения с родителями?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "很好，他们很关心我，我也很尊重他们。",
+            "pinyin": "Hěn hǎo, tāmen hěn guānxīn wǒ, wǒ yě hěn zūnzhòng tāmen.",
+            "russian": "Очень хорошо, они обо мне заботятся, и я их уважаю."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你跟他们住在一起吗？",
+            "pinyin": "Nǐ gēn tāmen zhù zài yīqǐ ma?",
+            "russian": "Ты живёшь с ними?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "没有，我住学校宿舍，周末常回家。",
+            "pinyin": "Méiyǒu, wǒ zhù xuéxiào sùshè, zhōumò cháng huíjiā.",
+            "russian": "Нет, я живу в общежитии, на выходных часто езжу домой."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает слово «培养»?",
+        "options": ["воспитывать", "разрушать", "игнорировать", "наказывать"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "他___很尊重父母。",
+        "options": ["的确 (díquè)", "确实 (quèshí)", "实在 (shízài)", "真的 (zhēnde)"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я живу с родителями.",
+        "answer": "我和父母住在一起。"
+      }
+    ]
+  },
+  {
+    "id": "5-3",
+    "hskLevel": "5",
+    "lessonNumber": 3,
+    "title": "Служебные слова 1",
+    "newWords": [3300, 3301, 3302, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3318, 3319, 3320, 3321, 3322, 3323, 3324, 3325, 3326],
+    "grammarPoints": ["g5_5", "g5_6"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得学习汉语难吗？",
+            "pinyin": "Nǐ juéde xuéxí Hànyǔ nán ma?",
+            "russian": "Как ты думаешь, учить китайский трудно?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "虽然有点儿难，但是很有意思。",
+            "pinyin": "Suīrán yǒudiǎnr nán, dànshì hěn yǒuyìsi.",
+            "russian": "Хотя немного трудно, но очень интересно."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你每天学习多长时间？",
+            "pinyin": "Nǐ měitiān xuéxí duō cháng shíjiān?",
+            "russian": "Сколько времени ты учишь каждый день?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "大概两个小时，有时候更多。",
+            "pinyin": "Dàgài liǎng gè xiǎoshí, yǒu shíhou gèng duō.",
+            "russian": "Около двух часов, иногда больше."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «虽然…但是…»?",
+        "options": ["если… то…", "хотя… но…", "потому что… поэтому…", "не только… но и…"],
+        "answer": 1
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "___很累，我___坚持学习。",
+        "options": ["虽然…但是…", "因为…所以…", "如果…就…", "不但…而且…"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я учусь около двух часов.",
+        "answer": "我学习大概两个小时。"
+      }
+    ]
+  },
+  {
+    "id": "5-4",
+    "hskLevel": "5",
+    "lessonNumber": 4,
+    "title": "Время, управление временем",
+    "newWords": [3327, 3328, 3329, 3330, 3331, 3332, 3333, 3334, 3335, 3336, 3337, 3338, 3339, 3340, 3341, 3342, 3343, 3344, 3345, 3346, 3347, 3348, 3349, 3350, 3351, 3352, 3353],
+    "grammarPoints": ["g5_7", "g5_8"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你每天几点起床？",
+            "pinyin": "Nǐ měitiān jǐ diǎn qǐchuáng?",
+            "russian": "Во сколько ты встаёшь каждый день?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我七点起床，然后吃早饭。",
+            "pinyin": "Wǒ qī diǎn qǐchuáng, ránhòu chī zǎofàn.",
+            "russian": "Я встаю в 7, потом завтракаю."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你上午做什么？",
+            "pinyin": "Nǐ shàngwǔ zuò shénme?",
+            "russian": "Что ты делаешь утром?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我去学校上课，下午有时候去图书馆。",
+            "pinyin": "Wǒ qù xuéxiào shàngkè, xiàwǔ yǒu shíhou qù túshūguǎn.",
+            "russian": "Я иду в школу на уроки, после обеда иногда хожу в библиотеку."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Как сказать «после завтрака»?",
+        "options": ["早饭后", "吃早饭以后", "早饭以后", "吃完早饭后"],
+        "answer": 1
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我七点___起床。",
+        "options": ["半", "一刻", "点", "小时"],
+        "answer": 2
+      },
+      {
+        "type": "translate",
+        "question": "Я иногда хожу в библиотеку.",
+        "answer": "我有时候去图书馆。"
+      }
+    ]
+  },
+  {
+    "id": "5-5",
+    "hskLevel": "5",
+    "lessonNumber": 5,
+    "title": "Глаголы 1 (действия)",
+    "newWords": [3354, 3355, 3356, 3357, 3358, 3359, 3360, 3361, 3362, 3363, 3364, 3365, 3366, 3367, 3368, 3369, 3370, 3371, 3372, 3373, 3374, 3375, 3376, 3377, 3378, 3379, 3380],
+    "grammarPoints": ["g5_9", "g5_10"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你周末经常做什么？",
+            "pinyin": "Nǐ zhōumò jīngcháng zuò shénme?",
+            "russian": "Что ты часто делаешь на выходных?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我经常去运动，有时候和朋友一起打球。",
+            "pinyin": "Wǒ jīngcháng qù yùndòng, yǒu shíhou hé péngyou yīqǐ dǎ qiú.",
+            "russian": "Я часто занимаюсь спортом, иногда с друзьями играю в мяч."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你喜欢什么运动？",
+            "pinyin": "Nǐ xǐhuān shénme yùndòng?",
+            "russian": "Какой спорт ты любишь?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我喜欢打篮球，也喜欢跑步。",
+            "pinyin": "Wǒ xǐhuān dǎ lánqiú, yě xǐhuān pǎobù.",
+            "russian": "Люблю баскетбол и бег."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «经常»?",
+        "options": ["часто", "иногда", "всегда", "редко"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我___和朋友们一起打球。",
+        "options": ["经常", "有时", "常常", "往往"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я люблю бегать.",
+        "answer": "我喜欢跑步。"
+      }
+    ]
+  },
+  {
+    "id": "5-6",
+    "hskLevel": "5",
+    "lessonNumber": 6,
+    "title": "Профессии, рынок труда",
+    "newWords": [3381, 3382, 3383, 3384, 3385, 3386, 3387, 3388, 3389, 3390, 3391, 3392, 3393, 3394, 3395, 3396, 3397, 3398, 3399, 3400, 3401, 3402, 3403, 3404, 3405, 3406, 3407],
+    "grammarPoints": ["g5_11", "g5_12"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你长大以后想做什么工作？",
+            "pinyin": "Nǐ zhǎngdà yǐhòu xiǎng zuò shénme gōngzuò?",
+            "russian": "Кем ты хочешь работать, когда вырастешь?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我想当一名工程师，设计机器人。",
+            "pinyin": "Wǒ xiǎng dāng yī míng gōngchéngshī, shèjì jīqìrén.",
+            "russian": "Я хочу стать инженером, проектировать роботов."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "这个工作很有意思，但是需要很努力。",
+            "pinyin": "Zhège gōngzuò hěn yǒuyìsi, dànshì xūyào hěn nǔlì.",
+            "russian": "Эта работа очень интересная, но требует больших усилий."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "是啊，所以我每天都很努力学习。",
+            "pinyin": "Shì a, suǒyǐ wǒ měitiān dōu hěn nǔlì xuéxí.",
+            "russian": "Да, поэтому я каждый день усердно учусь."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «工程师»?",
+        "options": ["инженер", "учитель", "врач", "программист"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我___当一名医生。",
+        "options": ["想", "要", "会", "能"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Он очень усердно учится.",
+        "answer": "他学习很努力。"
+      }
+    ]
+  },
+  {
+    "id": "5-7",
+    "hskLevel": "5",
+    "lessonNumber": 7,
+    "title": "Кулинария, рестораны",
+    "newWords": [3408, 3409, 3410, 3411, 3412, 3413, 3414, 3415, 3416, 3417, 3418, 3419, 3420, 3421, 3422, 3423, 3424, 3425, 3426, 3427, 3428, 3429, 3430, 3431, 3432, 3433, 3434],
+    "grammarPoints": ["g5_13", "g5_14"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你吃过中国菜吗？",
+            "pinyin": "Nǐ chīguò Zhōngguó cài ma?",
+            "russian": "Ты пробовал китайскую еду?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "吃过，最喜欢吃饺子。",
+            "pinyin": "Chīguò, zuì xǐhuān chī jiǎozi.",
+            "russian": "Пробовал, больше всего люблю пельмени."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你会包饺子吗？",
+            "pinyin": "Nǐ huì bāo jiǎozi ma?",
+            "russian": "Ты умеешь лепить пельмени?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "会一点儿，但是包得不太好。",
+            "pinyin": "Huì yīdiǎnr, dànshì bāo de bù tài hǎo.",
+            "russian": "Немного умею, но получается не очень."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «饺子»?",
+        "options": ["пельмени", "рис", "лапша", "суп"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "他做菜做得___好吃。",
+        "options": ["很", "非常", "真", "太"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я умею готовить.",
+        "answer": "我会做饭。"
+      }
+    ]
+  },
+  {
+    "id": "5-8",
+    "hskLevel": "5",
+    "lessonNumber": 8,
+    "title": "Глаголы 2 (движения)",
+    "newWords": [3435, 3436, 3437, 3438, 3439, 3440, 3441, 3442, 3443, 3444, 3445, 3446, 3447, 3448, 3449, 3450, 3451, 3452, 3453, 3454, 3455, 3456, 3457, 3458, 3459, 3460, 3461],
+    "grammarPoints": ["g5_15", "g5_16"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你昨天去哪儿了？",
+            "pinyin": "Nǐ zuótiān qù nǎr le?",
+            "russian": "Куда ты ходил вчера?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我去公园散步了，还拍了照片。",
+            "pinyin": "Wǒ qù gōngyuán sànbù le, hái pāi le zhàopiàn.",
+            "russian": "Я ходил гулять в парк и фотографировал."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "公园人多吗？",
+            "pinyin": "Gōngyuán rén duō ma?",
+            "russian": "В парке было много людей?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "很多，大家都在散步、跑步。",
+            "pinyin": "Hěnduō, dàjiā dōu zài sànbù, pǎobù.",
+            "russian": "Много, все гуляли и бегали."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Как сказать «гулять»?",
+        "options": ["散步", "走路", "跑步", "逛街"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "他正在___照片。",
+        "options": ["拍", "照", "看", "洗"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я люблю гулять в парке.",
+        "answer": "我喜欢在公园散步。"
+      }
+    ]
+  },
+  {
+    "id": "5-9",
+    "hskLevel": "5",
+    "lessonNumber": 9,
+    "title": "Покупки, потребительство",
+    "newWords": [3462, 3463, 3464, 3465, 3466, 3467, 3468, 3469, 3470, 3471, 3472, 3473, 3474, 3475, 3476, 3477, 3478, 3479, 3480, 3481, 3482, 3483, 3484, 3485, 3486, 3487, 3488],
+    "grammarPoints": ["g5_17", "g5_18"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "这件衣服多少钱？",
+            "pinyin": "Zhè jiàn yīfu duōshǎo qián?",
+            "russian": "Сколько стоит эта одежда?"
+          },
+          {
+            "speaker": "Продавец",
+            "chinese": "两百块。",
+            "pinyin": "Liǎng bǎi kuài.",
+            "russian": "200 юаней."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "有点贵，能不能便宜一点？",
+            "pinyin": "Yǒudiǎn guì, néng bù néng piányi yīdiǎn?",
+            "russian": "Дороговато, можно подешевле?"
+          },
+          {
+            "speaker": "Продавец",
+            "chinese": "最低一百八十块。",
+            "pinyin": "Zuì dī yībǎi bāshí kuài.",
+            "russian": "Минимум 180 юаней."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "好吧，我买了。",
+            "pinyin": "Hǎo ba, wǒ mǎi le.",
+            "russian": "Хорошо, я куплю."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Как спросить «можно подешевле»?",
+        "options": ["能便宜一点吗？", "便宜一点？", "可以便宜吗？", "打折吗？"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "这个___多少钱？",
+        "options": ["东西", "商品", "产品", "物品"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Слишком дорого.",
+        "answer": "太贵了。"
+      }
+    ]
+  },
+  {
+    "id": "5-10",
+    "hskLevel": "5",
+    "lessonNumber": 10,
+    "title": "Служебные слова 2",
+    "newWords": [3489, 3490, 3491, 3492, 3493, 3494, 3495, 3496, 3497, 3498, 3499, 3500, 3501, 3502, 3503, 3504, 3505, 3506, 3507, 3508, 3509, 3510, 3511, 3512, 3513, 3514, 3515],
+    "grammarPoints": ["g5_19", "g5_20"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你最近怎么样？",
+            "pinyin": "Nǐ zuìjìn zěnmeyàng?",
+            "russian": "Как у тебя дела в последнее время?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "还不错，虽然有点忙，但是很充实。",
+            "pinyin": "Hái bùcuò, suīrán yǒudiǎn máng, dànshì hěn chōngshí.",
+            "russian": "Неплохо, хотя немного занят, но насыщенно."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你每天工作多长时间？",
+            "pinyin": "Nǐ měitiān gōngzuò duō cháng shíjiān?",
+            "russian": "Сколько часов ты работаешь каждый день?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "大概八个小时，有时候加班。",
+            "pinyin": "Dàgài bā gè xiǎoshí, yǒu shíhou jiābān.",
+            "russian": "Около восьми часов, иногда работаю сверхурочно."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «最近»?",
+        "options": ["недавно, в последнее время", "сейчас", "в будущем", "раньше"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "虽然忙，___很充实。",
+        "options": ["但是", "不过", "可是", "然而"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я иногда работаю сверхурочно.",
+        "answer": "我有时候加班。"
+      }
+    ]
+  },
+  {
+    "id": "5-11",
+    "hskLevel": "5",
+    "lessonNumber": 11,
+    "title": "Транспорт, логистика",
+    "newWords": [3516, 3517, 3518, 3519, 3520, 3521, 3522, 3523, 3524, 3525, 3526, 3527, 3528, 3529, 3530, 3531, 3532, 3533, 3534, 3535, 3536, 3537, 3538, 3539, 3540, 3541, 3542],
+    "grammarPoints": ["g5_21", "g5_22"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你怎么去上班？",
+            "pinyin": "Nǐ zěnme qù shàngbān?",
+            "russian": "Как ты добираешься до работы?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "如果天气好，我就骑自行车。",
+            "pinyin": "Rúguǒ tiānqì hǎo, wǒ jiù qí zìxíngchē.",
+            "russian": "Если погода хорошая, я еду на велосипеде."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "如果下雨呢？",
+            "pinyin": "Rúguǒ xiàyǔ ne?",
+            "russian": "Если дождь?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "因为下雨，所以坐地铁。",
+            "pinyin": "Yīnwèi xiàyǔ, suǒyǐ zuò dìtiě.",
+            "russian": "Из-за дождя, поэтому на метро."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Как сказать «если… то…»?",
+        "options": ["因为…所以…", "如果…就…", "虽然…但是…", "不但…而且…"],
+        "answer": 1
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "___下雨，我不去。",
+        "options": ["如果", "因为", "虽然", "不但"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Потому что идёт дождь, я не пойду.",
+        "answer": "因为下雨，所以我不去。"
+      }
+    ]
+  },
+  {
+    "id": "5-12",
+    "hskLevel": "5",
+    "lessonNumber": 12,
+    "title": "Город, урбанизация",
+    "newWords": [3543, 3544, 3545, 3546, 3547, 3548, 3549, 3550, 3551, 3552, 3553, 3554, 3555, 3556, 3557, 3558, 3559, 3560, 3561, 3562, 3563, 3564, 3565, 3566, 3567, 3568, 3569],
+    "grammarPoints": ["g5_23"],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你住在城市还是农村？",
+            "pinyin": "Nǐ zhù zài chéngshì háishì nóngcūn?",
+            "russian": "Ты живёшь в городе или в деревне?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我住在城市，这里交通很方便。",
+            "pinyin": "Wǒ zhù zài chéngshì, zhèlǐ jiāotōng hěn fāngbiàn.",
+            "russian": "Я живу в городе, здесь транспорт очень удобный."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你们城市有地铁吗？",
+            "pinyin": "Nǐmen chéngshì yǒu dìtiě ma?",
+            "russian": "В вашем городе есть метро?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "有，坐地铁可以到很多地方。",
+            "pinyin": "Yǒu, zuò dìtiě kěyǐ dào hěnduō dìfang.",
+            "russian": "Да, на метро можно доехать во многие места."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «城市»?",
+        "options": ["деревня", "город", "район", "улица"],
+        "answer": 1
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "这里的交通很___。",
+        "options": ["方便", "麻烦", "复杂", "简单"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я живу в городе.",
+        "answer": "我住在城市。"
+      }
+    ]
+  },
+  {
+    "id": "5-13",
+    "hskLevel": "5",
+    "lessonNumber": 13,
+    "title": "Дом, бытовая техника",
+    "newWords": [3570, 3571, 3572, 3573, 3574, 3575, 3576, 3577, 3578, 3579, 3580, 3581, 3582, 3583, 3584, 3585, 3586, 3587, 3588, 3589, 3590, 3591, 3592, 3593, 3594, 3595, 3596],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你的新家怎么样？",
+            "pinyin": "Nǐ de xīn jiā zěnmeyàng?",
+            "russian": "Как твой новый дом?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "很不错，客厅很大，还有新买的冰箱和洗衣机。",
+            "pinyin": "Hěn bùcuò, kètīng hěn dà, hái yǒu xīn mǎi de bīngxiāng hé xǐyījī.",
+            "russian": "Неплохо, гостиная большая, есть новый холодильник и стиральная машина."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你的房间有空调吗？",
+            "pinyin": "Nǐ de fángjiān yǒu kòngtiáo ma?",
+            "russian": "В твоей комнате есть кондиционер?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "有，夏天很舒服。",
+            "pinyin": "Yǒu, xiàtiān hěn shūfu.",
+            "russian": "Есть, летом очень комфортно."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «冰箱»?",
+        "options": ["стиральная машина", "холодильник", "кондиционер", "телевизор"],
+        "answer": 1
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "客厅里有一___沙发。",
+        "options": ["个", "张", "把", "件"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Летом очень комфортно.",
+        "answer": "夏天很舒服。"
+      }
+    ]
+  },
+  {
+    "id": "5-14",
+    "hskLevel": "5",
+    "lessonNumber": 14,
+    "title": "Глаголы 3 (состояния)",
+    "newWords": [3597, 3598, 3599, 3600, 3601, 3602, 3603, 3604, 3605, 3606, 3607, 3608, 3609, 3610, 3611, 3612, 3613, 3614, 3615, 3616, 3617, 3618, 3619, 3620, 3621, 3622, 3623],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你最近感觉怎么样？",
+            "pinyin": "Nǐ zuìjìn gǎnjué zěnmeyàng?",
+            "russian": "Как ты себя чувствуешь в последнее время?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我越来越喜欢运动，身体好多了。",
+            "pinyin": "Wǒ yuè lái yuè xǐhuān yùndòng, shēntǐ hǎo duō le.",
+            "russian": "Мне всё больше нравится спорт, здоровье стало намного лучше."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你每天运动多久？",
+            "pinyin": "Nǐ měitiān yùndòng duōjiǔ?",
+            "russian": "Сколько времени ты занимаешься спортом каждый день?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "大概一个小时，跑跑步或者打打球。",
+            "pinyin": "Dàgài yī gè xiǎoshí, pǎopǎo bù huòzhě dǎdǎ qiú.",
+            "russian": "Около часа: бегаю или играю в мяч."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «越来越»?",
+        "options": ["всё больше и больше", "иногда", "внезапно", "постепенно"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "天气___越热。",
+        "options": ["越来越", "一天比一天", "渐渐", "不断"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Мне нравится бегать.",
+        "answer": "我喜欢跑步。"
+      }
+    ]
+  },
+  {
+    "id": "5-15",
+    "hskLevel": "5",
+    "lessonNumber": 15,
+    "title": "Внешность, мода",
+    "newWords": [3624, 3625, 3626, 3627, 3628, 3629, 3630, 3631, 3632, 3633, 3634, 3635, 3636, 3637, 3638, 3639, 3640, 3641, 3642, 3643, 3644, 3645, 3646, 3647, 3648, 3649, 3650],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你看那个人，个子很高，很帅。",
+            "pinyin": "Nǐ kàn nàge rén, gèzi hěn gāo, hěn shuài.",
+            "russian": "Посмотри на того человека, высокий рост, очень симпатичный."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "是啊，他戴着一副眼镜，看起来很有学问。",
+            "pinyin": "Shì a, tā dài zhe yī fù yǎnjìng, kàn qǐlai hěn yǒu xuéwèn.",
+            "russian": "Да, он в очках, выглядит очень учёным."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你认识他吗？",
+            "pinyin": "Nǐ rènshi tā ma?",
+            "russian": "Ты его знаешь?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "不认识，但是觉得他很面熟。",
+            "pinyin": "Bù rènshi, dànshì juéde tā hěn miànshú.",
+            "russian": "Не знаю, но кажется, что лицо знакомое."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «个子»?",
+        "options": ["рост", "вес", "фигура", "лицо"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "他戴着一___眼镜。",
+        "options": ["副", "个", "双", "件"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Он выглядит очень учёным.",
+        "answer": "他看起来很有学问。"
+      }
+    ]
+  },
+  {
+    "id": "5-16",
+    "hskLevel": "5",
+    "lessonNumber": 16,
+    "title": "Служебные слова 3",
+    "newWords": [3651, 3652, 3653, 3654, 3655, 3656, 3657, 3658, 3659, 3660, 3661, 3662, 3663, 3664, 3665, 3666, 3667, 3668, 3669, 3670, 3671, 3672, 3673, 3674, 3675, 3676, 3677],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得学习语法重要吗？",
+            "pinyin": "Nǐ juéde xuéxí yǔfǎ zhòngyào ma?",
+            "russian": "Как ты думаешь, учить грамматику важно?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "当然重要，虽然语法有点儿难，但是必须学好。",
+            "pinyin": "Dāngrán zhòngyào, suīrán yǔfǎ yǒudiǎnr nán, dànshì bìxū xué hǎo.",
+            "russian": "Конечно важно, хотя грамматика немного сложная, но её нужно хорошо выучить."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你平时怎么练习语法？",
+            "pinyin": "Nǐ píngshí zěnme liànxí yǔfǎ?",
+            "russian": "Как ты обычно тренируешь грамматику?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "多做练习，特别是填空和改错。",
+            "pinyin": "Duō zuò liànxí, tèbié shì tiánkòng hé gǎicuò.",
+            "russian": "Делаю много упражнений, особенно на заполнение пропусков и исправление ошибок."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «必须»?",
+        "options": ["нужно, обязательно", "можно", "хочется", "может быть"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我们___努力学习。",
+        "options": ["必须", "可以", "能", "要"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Грамматика немного сложная.",
+        "answer": "语法有点儿难。"
+      }
+    ]
+  },
+  {
+    "id": "5-17",
+    "hskLevel": "5",
+    "lessonNumber": 17,
+    "title": "Погода, климат",
+    "newWords": [3678, 3679, 3680, 3681, 3682, 3683, 3684, 3685, 3686, 3687, 3688, 3689, 3690, 3691, 3692, 3693, 3694, 3695, 3696, 3697, 3698, 3699, 3700, 3701, 3702, 3703, 3704],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "今天天气真好，不冷也不热。",
+            "pinyin": "Jīntiān tiānqì zhēn hǎo, bù lěng yě bù rè.",
+            "russian": "Сегодня отличная погода, не холодно и не жарко."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "是啊，阳光明媚，我们去散步吧。",
+            "pinyin": "Shì a, yángguāng míngmèi, wǒmen qù sànbù ba.",
+            "russian": "Да, солнечно, давай пойдём гулять."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "天气预报说下午可能会下雨，我们早点去吧。",
+            "pinyin": "Tiānqì yùbào shuō xiàwǔ kěnéng huì xiàyǔ, wǒmen zǎodiǎn qù ba.",
+            "russian": "Прогноз говорит, что днём может пойти дождь, пойдём пораньше."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "好的，我带把伞。",
+            "pinyin": "Hǎo de, wǒ dài bǎ sǎn.",
+            "russian": "Хорошо, я возьму зонт."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «阳光明媚»?",
+        "options": ["солнечно", "пасмурно", "ветрено", "дождливо"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "天气预报___明天有雨。",
+        "options": ["说", "预报", "告诉", "通知"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Возьми зонт.",
+        "answer": "带把伞。"
+      }
+    ]
+  },
+  {
+    "id": "5-18",
+    "hskLevel": "5",
+    "lessonNumber": 18,
+    "title": "Хобби, творчество",
+    "newWords": [3705, 3706, 3707, 3708, 3709, 3710, 3711, 3712, 3713, 3714, 3715, 3716, 3717, 3718, 3719, 3720, 3721, 3722, 3723, 3724, 3725, 3726, 3727, 3728, 3729, 3730, 3731],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你有什么爱好？",
+            "pinyin": "Nǐ yǒu shénme àihào?",
+            "russian": "Какие у тебя хобби?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我喜欢听音乐，特别喜欢听流行歌曲。",
+            "pinyin": "Wǒ xǐhuān tīng yīnyuè, tèbié xǐhuān tīng liúxíng gēqǔ.",
+            "russian": "Я люблю слушать музыку, особенно поп-песни."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你也会弹钢琴吗？",
+            "pinyin": "Nǐ yě huì tán gāngqín ma?",
+            "russian": "Ты умеешь играть на пианино?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "会一点儿，我小时候学过。",
+            "pinyin": "Huì yīdiǎnr, wǒ xiǎo shíhou xué guò.",
+            "russian": "Немного умею, я учился в детстве."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «爱好»?",
+        "options": ["хобби", "любовь", "интерес", "работа"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "他特别喜欢___流行歌曲。",
+        "options": ["听", "唱", "弹", "看"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я немного умею играть на пианино.",
+        "answer": "我会弹一点儿钢琴。"
+      }
+    ]
+  },
+  {
+    "id": "5-19",
+    "hskLevel": "5",
+    "lessonNumber": 19,
+    "title": "Глаголы 4 (модальные)",
+    "newWords": [3732, 3733, 3734, 3735, 3736, 3737, 3738, 3739, 3740, 3741, 3742, 3743, 3744, 3745, 3746, 3747, 3748, 3749, 3750, 3751, 3752, 3753, 3754, 3755, 3756, 3757, 3758],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "我们明天去看电影，你能去吗？",
+            "pinyin": "Wǒmen míngtiān qù kàn diànyǐng, nǐ néng qù ma?",
+            "russian": "Мы завтра идём в кино, ты сможешь пойти?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我想去，但是得先完成作业。",
+            "pinyin": "Wǒ xiǎng qù, dànshì děi xiān wánchéng zuòyè.",
+            "russian": "Я хочу пойти, но сначала нужно закончить уроки."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你可以做完作业再去啊。",
+            "pinyin": "Nǐ kěyǐ zuò wán zuòyè zài qù a.",
+            "russian": "Ты можешь сделать уроки, а потом пойти."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "好，我尽量快点写完。",
+            "pinyin": "Hǎo, wǒ jǐnliàng kuài diǎn xiě wán.",
+            "russian": "Хорошо, я постараюсь побыстрее дописать."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «得» (děi) в этом контексте?",
+        "options": ["нужно, приходится", "получать", "хорошо", "можно"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我___先完成作业。",
+        "options": ["得", "要", "应该", "必须"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я постараюсь прийти вовремя.",
+        "answer": "我尽量准时到。"
+      }
+    ]
+  },
+  {
+    "id": "5-20",
+    "hskLevel": "5",
+    "lessonNumber": 20,
+    "title": "Здоровье, медицина",
+    "newWords": [3759, 3760, 3761, 3762, 3763, 3764, 3765, 3766, 3767, 3768, 3769, 3770, 3771, 3772, 3773, 3774, 3775, 3776, 3777, 3778, 3779, 3780, 3781, 3782, 3783, 3784, 3785],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你脸色不太好，是不是生病了？",
+            "pinyin": "Nǐ liǎnsè bù tài hǎo, shì bù shì shēngbìng le?",
+            "russian": "У тебя нездоровый цвет лица, не заболел ли?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我有点头疼，可能是感冒了。",
+            "pinyin": "Wǒ yǒudiǎn tóuténg, kěnéng shì gǎnmào le.",
+            "russian": "У меня немного болит голова, возможно, простудился."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "去看医生了吗？",
+            "pinyin": "Qù kàn yīshēng le ma?",
+            "russian": "Ходил к врачу?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "还没有，我吃了药，多喝水。",
+            "pinyin": "Hái méiyǒu, wǒ chī le yào, duō hē shuǐ.",
+            "russian": "Ещё нет, я выпил лекарство и пью много воды."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «头疼»?",
+        "options": ["головная боль", "кашель", "температура", "насморк"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "你脸色不___好。",
+        "options": ["太", "很", "非常", "有点儿"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я немного простудился.",
+        "answer": "我有点儿感冒。"
+      }
+    ]
+  },
+  {
+    "id": "5-21",
+    "hskLevel": "5",
+    "lessonNumber": 21,
+    "title": "Образование, педагогика",
+    "newWords": [3786, 3787, 3788, 3789, 3790, 3791, 3792, 3793, 3794, 3795, 3796, 3797, 3798, 3799, 3800, 3801, 3802, 3803, 3804, 3805, 3806, 3807, 3808, 3809, 3810, 3811, 3812],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你在哪所学校上学？",
+            "pinyin": "Nǐ zài nǎ suǒ xuéxiào shàngxué?",
+            "russian": "В какой школе ты учишься?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我在北京语言大学学习汉语。",
+            "pinyin": "Wǒ zài Běijīng Yǔyán Dàxué xuéxí Hànyǔ.",
+            "russian": "Я учу китайский в Пекинском университете языка и культуры."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你的专业是什么？",
+            "pinyin": "Nǐ de zhuānyè shì shénme?",
+            "russian": "Какая у тебя специальность?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我的专业是汉语国际教育。",
+            "pinyin": "Wǒ de zhuānyè shì Hànyǔ guójì jiàoyù.",
+            "russian": "Моя специальность — преподавание китайского как иностранного."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «专业»?",
+        "options": ["специальность", "профессия", "работа", "учёба"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我在大学___汉语。",
+        "options": ["学习", "学", "上学", "念书"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Какая у тебя специальность?",
+        "answer": "你的专业是什么？"
+      }
+    ]
+  },
+  {
+    "id": "5-22",
+    "hskLevel": "5",
+    "lessonNumber": 22,
+    "title": "Животные, природа",
+    "newWords": [3813, 3814, 3815, 3816, 3817, 3818, 3819, 3820, 3821, 3822, 3823, 3824, 3825, 3826, 3827, 3828, 3829, 3830, 3831, 3832, 3833, 3834, 3835, 3836, 3837, 3838, 3839],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你喜欢什么动物？",
+            "pinyin": "Nǐ xǐhuān shénme dòngwù?",
+            "russian": "Каких животных ты любишь?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我喜欢熊猫，它们很可爱。",
+            "pinyin": "Wǒ xǐhuān xióngmāo, tāmen hěn kě'ài.",
+            "russian": "Я люблю панд, они очень милые."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你见过熊猫吗？",
+            "pinyin": "Nǐ jiàn guò xióngmāo ma?",
+            "russian": "Ты видел панд?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "见过，在动物园看过，它们吃竹子。",
+            "pinyin": "Jiàn guò, zài dòngwùyuán kàn guò, tāmen chī zhúzi.",
+            "russian": "Видел, в зоопарке, они едят бамбук."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «熊猫»?",
+        "options": ["панда", "медведь", "коала", "тигр"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "熊猫吃___。",
+        "options": ["竹子", "肉", "草", "水果"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я видел панд в зоопарке.",
+        "answer": "我在动物园看过熊猫。"
+      }
+    ]
+  },
+  {
+    "id": "5-23",
+    "hskLevel": "5",
+    "lessonNumber": 23,
+    "title": "Общение, масс-медиа",
+    "newWords": [3840, 3841, 3842, 3843, 3844, 3845, 3846, 3847, 3848, 3849, 3850, 3851, 3852, 3853, 3854, 3855, 3856, 3857, 3858, 3859, 3860, 3861, 3862, 3863, 3864, 3865, 3866],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你经常上网吗？",
+            "pinyin": "Nǐ jīngcháng shàngwǎng ma?",
+            "russian": "Ты часто сидишь в интернете?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "每天都会上网，看看新闻，和朋友聊天。",
+            "pinyin": "Měitiān dōu huì shàngwǎng, kànkan xīnwén, hé péngyou liáotiān.",
+            "russian": "Каждый день захожу, смотрю новости, общаюсь с друзьями."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你用微信还是QQ？",
+            "pinyin": "Nǐ yòng Wēixìn háishì QQ?",
+            "russian": "Ты пользуешься WeChat или QQ?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "主要用微信，很方便。",
+            "pinyin": "Zhǔyào yòng Wēixìn, hěn fāngbiàn.",
+            "russian": "В основном WeChat, очень удобно."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «上网»?",
+        "options": ["выходить в интернет", "звонить", "писать письмо", "играть"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我用微信和朋友___。",
+        "options": ["聊天", "说话", "谈话", "交流"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я каждый день захожу в интернет.",
+        "answer": "我每天上网。"
+      }
+    ]
+  },
+  {
+    "id": "5-24",
+    "hskLevel": "5",
+    "lessonNumber": 24,
+    "title": "Глаголы 5 (устойчивые)",
+    "newWords": [3867, 3868, 3869, 3870, 3871, 3872, 3873, 3874, 3875, 3876, 3877, 3878, 3879, 3880, 3881, 3882, 3883, 3884, 3885, 3886, 3887, 3888, 3889, 3890, 3891, 3892, 3893],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你习惯这儿的生活了吗？",
+            "pinyin": "Nǐ xíguàn zhèr de shēnghuó le ma?",
+            "russian": "Ты привык к здешней жизни?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "差不多习惯了，但是有时候还是会想家。",
+            "pinyin": "Chàbuduō xíguàn le, dànshì yǒu shíhou háishì huì xiǎngjiā.",
+            "russian": "Почти привык, но иногда всё ещё скучаю по дому."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你想家的时候怎么办？",
+            "pinyin": "Nǐ xiǎngjiā de shíhou zěnmebàn?",
+            "russian": "Что ты делаешь, когда скучаешь по дому?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "给家里人打电话，或者和朋友聊天。",
+            "pinyin": "Gěi jiālǐ rén dǎ diànhuà, huòzhě hé péngyou liáotiān.",
+            "russian": "Звоню домой или общаюсь с друзьями."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «习惯»?",
+        "options": ["привыкать", "любить", "знать", "уметь"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我___了这里的生活。",
+        "options": ["习惯", "熟悉", "了解", "知道"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я скучаю по дому.",
+        "answer": "我想家。"
+      }
+    ]
+  },
+  {
+    "id": "5-25",
+    "hskLevel": "5",
+    "lessonNumber": 25,
+    "title": "Эмоции, межличностные отношения",
+    "newWords": [3894, 3895, 3896, 3897, 3898, 3899, 3900, 3901, 3902, 3903, 3904, 3905, 3906, 3907, 3908, 3909, 3910, 3911, 3912, 3913, 3914, 3915, 3916, 3917, 3918, 3919, 3920],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你今天看起来很高兴，有什么好事？",
+            "pinyin": "Nǐ jīntiān kàn qǐlai hěn gāoxìng, yǒu shénme hǎoshì?",
+            "russian": "Ты сегодня выглядишь очень радостным, что случилось?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我考试通过了，特别开心！",
+            "pinyin": "Wǒ kǎoshì tōngguò le, tèbié kāixīn!",
+            "russian": "Я сдал экзамен, очень рад!"
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "恭喜你！我也替你高兴。",
+            "pinyin": "Gōngxǐ nǐ! Wǒ yě tì nǐ gāoxìng.",
+            "russian": "Поздравляю! Я тоже за тебя рада."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "谢谢，今晚我们一起吃饭庆祝吧！",
+            "pinyin": "Xièxie, jīnwǎn wǒmen yīqǐ chīfàn qìngzhù ba!",
+            "russian": "Спасибо, сегодня вечером пойдём вместе поужинаем и отметим!"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «开心»?",
+        "options": ["радостный", "грустный", "злой", "уставший"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我替你___。",
+        "options": ["高兴", "开心", "快乐", "幸福"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Поздравляю!",
+        "answer": "恭喜你！"
+      }
+    ]
+  },
+  {
+    "id": "5-26",
+    "hskLevel": "5",
+    "lessonNumber": 26,
+    "title": "Работа, карьера",
+    "newWords": [3921, 3922, 3923, 3924, 3925, 3926, 3927, 3928, 3929, 3930, 3931, 3932, 3933, 3934, 3935, 3936, 3937, 3938, 3939, 3940, 3941, 3942, 3943, 3944, 3945, 3946, 3947],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你毕业以后打算做什么？",
+            "pinyin": "Nǐ bìyè yǐhòu dǎsuàn zuò shénme?",
+            "russian": "Что ты планируешь делать после окончания учёбы?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我想找一份好工作，最好跟我的专业相关。",
+            "pinyin": "Wǒ xiǎng zhǎo yī fèn hǎo gōngzuò, zuì hǎo gēn wǒ de zhuānyè xiāngguān.",
+            "russian": "Я хочу найти хорошую работу, лучше всего связанную с моей специальностью."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你想去大公司还是小公司？",
+            "pinyin": "Nǐ xiǎng qù dà gōngsī háishì xiǎo gōngsī?",
+            "russian": "Ты хочешь пойти в большую компанию или маленькую?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "大公司比较好，发展机会多。",
+            "pinyin": "Dà gōngsī bǐjiào hǎo, fāzhǎn jīhuì duō.",
+            "russian": "В большую лучше, больше возможностей для развития."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «工作»?",
+        "options": ["работа", "учёба", "бизнес", "компания"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我想找一份好___。",
+        "options": ["工作", "职业", "专业", "事业"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "У меня много возможностей для развития.",
+        "answer": "我有很多发展机会。"
+      }
+    ]
+  },
+  {
+    "id": "5-27",
+    "hskLevel": "5",
+    "lessonNumber": 27,
+    "title": "Культура, традиции",
+    "newWords": [3948, 3949, 3950, 3951, 3952, 3953, 3954, 3955, 3956, 3957, 3958, 3959, 3960, 3961, 3962, 3963, 3964, 3965, 3966, 3967, 3968, 3969, 3970, 3971, 3972, 3973, 3974],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "中国的春节你们怎么庆祝？",
+            "pinyin": "Zhōngguó de Chūnjié nǐmen zěnme qìngzhù?",
+            "russian": "Как вы празднуете китайский Новый год?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我们一家人在一起吃年夜饭，看春晚，放鞭炮。",
+            "pinyin": "Wǒmen yī jiā rén zài yīqǐ chī niányèfàn, kàn chūnwǎn, fàng biānpào.",
+            "russian": "Мы всей семьёй ужинаем, смотрим новогодний концерт, запускаем фейерверки."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "真热闹啊！我也想过春节。",
+            "pinyin": "Zhēn rènao a! Wǒ yě xiǎng guò Chūnjié.",
+            "russian": "Как оживлённо! Я тоже хочу встретить Новый год."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "欢迎你来我家一起过春节。",
+            "pinyin": "Huānyíng nǐ lái wǒ jiā yīqǐ guò Chūnjié.",
+            "russian": "Приглашаю тебя к нам встретить Новый год."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «春节»?",
+        "options": ["китайский Новый год", "Праздник середины осени", "День драконьих лодок", "Национальный день"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "春节我们吃___。",
+        "options": ["饺子", "月饼", "粽子", "年糕"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Как оживлённо!",
+        "answer": "真热闹啊！"
+      }
+    ]
+  },
+  {
+    "id": "5-28",
+    "hskLevel": "5",
+    "lessonNumber": 28,
+    "title": "Глаголы 6 (сложные)",
+    "newWords": [3975, 3976, 3977, 3978, 3979, 3980, 3981, 3982, 3983, 3984, 3985, 3986, 3987, 3988, 3989, 3990, 3991, 3992, 3993, 3994, 3995, 3996, 3997, 3998, 3999, 4000, 4001],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你能帮我翻译一下这篇文章吗？",
+            "pinyin": "Nǐ néng bāng wǒ fānyì yīxià zhè piān wénzhāng ma?",
+            "russian": "Ты можешь помочь мне перевести эту статью?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "没问题，不过可能需要一些时间。",
+            "pinyin": "Méi wèntí, bùguò kěnéng xūyào yīxiē shíjiān.",
+            "russian": "Без проблем, но может потребоваться время."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "不急，你慢慢来。",
+            "pinyin": "Bù jí, nǐ mànmàn lái.",
+            "russian": "Не спеши, делай не торопясь."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «翻译»?",
+        "options": ["переводить", "объяснять", "говорить", "писать"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "你___帮我一下吗？",
+        "options": ["能", "可以", "会", "可能"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Не торопись, делай медленно.",
+        "answer": "别急，慢慢来。"
+      }
+    ]
+  },
+  {
+    "id": "5-29",
+    "hskLevel": "5",
+    "lessonNumber": 29,
+    "title": "Наука, исследования",
+    "newWords": [4002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012, 4013, 4014, 4015, 4016, 4017, 4018, 4019, 4020, 4021, 4022, 4023, 4024, 4025, 4026, 4027, 4028],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你对人工智能了解吗？",
+            "pinyin": "Nǐ duì réngōng zhìnéng liǎojiě ma?",
+            "russian": "Ты разбираешься в искусственном интеллекте?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "有一些了解，这个领域发展很快。",
+            "pinyin": "Yǒu yīxiē liǎojiě, zhège lǐngyù fāzhǎn hěn kuài.",
+            "russian": "Немного разбираюсь, эта область быстро развивается."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得它会给生活带来什么改变？",
+            "pinyin": "Nǐ juéde tā huì gěi shēnghuó dài lái shénme gǎibiàn?",
+            "russian": "Как думаешь, какие изменения он принесёт в жизнь?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "会更方便，但也可能带来一些挑战。",
+            "pinyin": "Huì gèng fāngbiàn, dàn yě kěnéng dài lái yīxiē tiǎozhàn.",
+            "russian": "Станет удобнее, но могут возникнуть и некоторые вызовы."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «人工智能»?",
+        "options": ["искусственный интеллект", "робот", "технология", "инновация"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "这个领域发展很___。",
+        "options": ["快", "迅速", "快速", "飞速"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Это принесёт изменения.",
+        "answer": "这会带来改变。"
+      }
+    ]
+  },
+  {
+    "id": "5-30",
+    "hskLevel": "5",
+    "lessonNumber": 30,
+    "title": "Общество, глобализация",
+    "newWords": [4029, 4030, 4031, 4032, 4033, 4034, 4035, 4036, 4037, 4038, 4039, 4040, 4041, 4042, 4043, 4044, 4045, 4046, 4047, 4048, 4049, 4050, 4051, 4052, 4053, 4054, 4055],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你关注社会新闻吗？",
+            "pinyin": "Nǐ guānzhù shèhuì xīnwén ma?",
+            "russian": "Ты следишь за социальными новостями?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "经常看，了解社会动态很重要。",
+            "pinyin": "Jīngcháng kàn, liǎojiě shèhuì dòngtài hěn zhòngyào.",
+            "russian": "Часто смотрю, важно знать, что происходит в обществе."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得现在社会有什么问题？",
+            "pinyin": "Nǐ juéde xiànzài shèhuì yǒu shénme wèntí?",
+            "russian": "Какие проблемы, по-твоему, есть в обществе сейчас?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "环境污染和贫富差距比较突出。",
+            "pinyin": "Huánjìng wūrǎn hé pínfù chājù bǐjiào tūchū.",
+            "russian": "Загрязнение окружающей среды и разрыв между богатыми и бедными довольно заметны."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «社会»?",
+        "options": ["общество", "государство", "страна", "мир"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "环境污染是一个严重___。",
+        "options": ["问题", "困难", "麻烦", "挑战"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Это очень актуальная проблема.",
+        "answer": "这是一个很突出的问题。"
+      }
+    ]
+  },
+  {
+    "id": "5-31",
+    "hskLevel": "5",
+    "lessonNumber": 31,
+    "title": "Путешествия, туризм",
+    "newWords": [4056, 4057, 4058, 4059, 4060, 4061, 4062, 4063, 4064, 4065, 4066, 4067, 4068, 4069, 4070, 4071, 4072, 4073, 4074, 4075, 4076, 4077, 4078, 4079, 4080, 4081, 4082],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你假期想去哪里旅行？",
+            "pinyin": "Nǐ jiàqī xiǎng qù nǎlǐ lǚxíng?",
+            "russian": "Куда ты хочешь поехать в отпуск?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我想去云南，听说那里风景很美，而且气候宜人。",
+            "pinyin": "Wǒ xiǎng qù Yúnnán, tīngshuō nàlǐ fēngjǐng hěn měi, érqiě qìhòu yírén.",
+            "russian": "Хочу в Юньнань, говорят, там красивые пейзажи и приятный климат."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你打算怎么去？",
+            "pinyin": "Nǐ dǎsuàn zěnme qù?",
+            "russian": "Как планируешь добираться?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "先坐飞机到昆明，然后租车自驾。",
+            "pinyin": "Xiān zuò fēijī dào Kūnmíng, ránhòu zūchē zìjià.",
+            "russian": "Сначала на самолёте до Куньмина, потом арендую машину и поеду сам."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «自驾»?",
+        "options": ["путешествовать на арендованной машине", "самостоятельно", "пешком", "на такси"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "云南___很美。",
+        "options": ["风景", "景色", "风光", "景象"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Климат там приятный.",
+        "answer": "那里的气候宜人。"
+      }
+    ]
+  },
+  {
+    "id": "5-32",
+    "hskLevel": "5",
+    "lessonNumber": 32,
+    "title": "Экономика, бизнес",
+    "newWords": [4083, 4084, 4085, 4086, 4087, 4088, 4089, 4090, 4091, 4092, 4093, 4094, 4095, 4096, 4097, 4098, 4099, 4100, 4101, 4102, 4103, 4104, 4105, 4106, 4107, 4108, 4109],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你平时怎么理财？",
+            "pinyin": "Nǐ píngshí zěnme lǐcái?",
+            "russian": "Как ты обычно распоряжаешься финансами?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我会把一部分工资存起来，剩下的用于日常开销。",
+            "pinyin": "Wǒ huì bǎ yī bùfen gōngzī cún qǐlái, shèngxià de yòng yú rìcháng kāixiāo.",
+            "russian": "Я часть зарплаты откладываю, остальное трачу на повседневные расходы."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你投资吗？",
+            "pinyin": "Nǐ tóuzī ma?",
+            "russian": "Ты инвестируешь?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "买了一些基金，收益还不错。",
+            "pinyin": "Mǎi le yīxiē jījīn, shōuyì hái bùcuò.",
+            "russian": "Купил немного фондов, доход неплохой."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «理财»?",
+        "options": ["управление финансами", "экономия", "инвестиции", "заработок"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我把工资___一部分。",
+        "options": ["存", "留", "省", "攒"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Доход неплохой.",
+        "answer": "收益不错。"
+      }
+    ]
+  },
+  {
+    "id": "5-33",
+    "hskLevel": "5",
+    "lessonNumber": 33,
+    "title": "Психология, развитие личности",
+    "newWords": [4110, 4111, 4112, 4113, 4114, 4115, 4116, 4117, 4118, 4119, 4120, 4121, 4122, 4123, 4124, 4125, 4126, 4127, 4128, 4129, 4130, 4131, 4132, 4133, 4134, 4135, 4136],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得怎么才能保持好心态？",
+            "pinyin": "Nǐ juéde zěnme cái néng bǎochí hǎo xīntài?",
+            "russian": "Как, по-твоему, можно сохранять хороший настрой?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "遇到困难不抱怨，积极面对，多和朋友交流。",
+            "pinyin": "Yùdào kùnnán bù bàoyuàn, jījí miànduì, duō hé péngyou jiāoliú.",
+            "russian": "Не жаловаться при трудностях, позитивно смотреть, больше общаться с друзьями."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "有时候压力大会影响心情。",
+            "pinyin": "Yǒu shíhou yālì dà huì yǐngxiǎng xīnqíng.",
+            "russian": "Иногда большое давление влияет на настроение."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "所以要学会调节，做些自己喜欢的事。",
+            "pinyin": "Suǒyǐ yào xuéhuì tiáojié, zuò xiē zìjǐ xǐhuān de shì.",
+            "russian": "Поэтому нужно учиться регулировать, делать то, что нравится."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «心态»?",
+        "options": ["настрой, состояние духа", "отношение", "характер", "чувство"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "遇到困难不要___。",
+        "options": ["抱怨", "埋怨", "责怪", "批评"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Нужно учиться регулировать настроение.",
+        "answer": "要学会调节心情。"
+      }
+    ]
+  },
+  {
+    "id": "5-34",
+    "hskLevel": "5",
+    "lessonNumber": 34,
+    "title": "Право, политика",
+    "newWords": [4137, 4138, 4139, 4140, 4141, 4142, 4143, 4144, 4145, 4146, 4147, 4148, 4149, 4150, 4151, 4152, 4153, 4154, 4155, 4156, 4157, 4158, 4159, 4160, 4161, 4162, 4163],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得诚实重要吗？",
+            "pinyin": "Nǐ juéde chéngshí zhòngyào ma?",
+            "russian": "Как думаешь, честность важна?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "非常重要，这是做人的基本道德。",
+            "pinyin": "Fēicháng zhòngyào, zhè shì zuòrén de jīběn dàodé.",
+            "russian": "Очень важна, это базовая мораль человека."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "如果发现朋友说谎，你会怎么办？",
+            "pinyin": "Rúguǒ fāxiàn péngyou shuōhuǎng, nǐ huì zěnmebàn?",
+            "russian": "Если обнаружите, что друг врёт, что будешь делать?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我会和他沟通，希望他改正。",
+            "pinyin": "Wǒ huì hé tā gōutōng, xīwàng tā gǎizhèng.",
+            "russian": "Поговорю с ним, надеясь, что исправится."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «道德»?",
+        "options": ["мораль", "закон", "правило", "принцип"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "这是做人的基本___。",
+        "options": ["道德", "品德", "品质", "素质"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Честность очень важна.",
+        "answer": "诚实非常重要。"
+      }
+    ]
+  },
+  {
+    "id": "5-35",
+    "hskLevel": "5",
+    "lessonNumber": 35,
+    "title": "Глаголы 7 (книжные)",
+    "newWords": [4164, 4165, 4166, 4167, 4168, 4169, 4170, 4171, 4172, 4173, 4174, 4175, 4176, 4177, 4178, 4179, 4180, 4181, 4182, 4183, 4184, 4185, 4186, 4187, 4188, 4189, 4190],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你明天有空吗？",
+            "pinyin": "Nǐ míngtiān yǒu kòng ma?",
+            "russian": "У тебя завтра есть время?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "上午有事，下午没什么安排。",
+            "pinyin": "Shàngwǔ yǒu shì, xiàwǔ méi shénme ānpái.",
+            "russian": "Утром дела, днём ничего не планировал."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "那我们下午一起去图书馆吧。",
+            "pinyin": "Nà wǒmen xiàwǔ yīqǐ qù túshūguǎn ba.",
+            "russian": "Тогда пойдём вместе в библиотеку."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "好的，到时候联系。",
+            "pinyin": "Hǎo de, dào shíhou liánxì.",
+            "russian": "Хорошо, созвонимся."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Как спросить «у тебя есть время»?",
+        "options": ["你有空吗？", "你有时间吗？", "你忙吗？", "你方便吗？"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "上午有事，下午没什么___。",
+        "options": ["安排", "计划", "打算", "活动"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Созвонимся тогда.",
+        "answer": "到时候联系。"
+      }
+    ]
+  },
+  {
+    "id": "5-36",
+    "hskLevel": "5",
+    "lessonNumber": 36,
+    "title": "Искусство, литература",
+    "newWords": [4191, 4192, 4193, 4194, 4195, 4196, 4197, 4198, 4199, 4200, 4201, 4202, 4203, 4204, 4205, 4206, 4207, 4208, 4209, 4210, 4211, 4212, 4213, 4214, 4215, 4216, 4217],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你对京剧感兴趣吗？",
+            "pinyin": "Nǐ duì jīngjù gǎn xìngqù ma?",
+            "russian": "Тебе интересна пекинская опера?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "很感兴趣，虽然有些听不懂，但是觉得很美。",
+            "pinyin": "Hěn gǎn xìngqù, suīrán yǒuxiē tīng bù dǒng, dànshì juéde hěn měi.",
+            "russian": "Очень, хотя некоторые места не понимаю, но считаю, что это красиво."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "中国的传统艺术很有魅力。",
+            "pinyin": "Zhōngguó de chuántǒng yìshù hěn yǒu mèilì.",
+            "russian": "Традиционное китайское искусство очень привлекательно."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "对，以后我想多看一些演出。",
+            "pinyin": "Duì, yǐhòu wǒ xiǎng duō kàn yīxiē yǎnchū.",
+            "russian": "Да, в будущем хочу больше смотреть представлений."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что означает «京剧»?",
+        "options": ["пекинская опера", "кино", "театр", "балет"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "传统艺术很有___。",
+        "options": ["魅力", "美丽", "吸引力", "趣味"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я хочу посмотреть представление.",
+        "answer": "我想看演出。"
+      }
+    ]
+  },
+  {
+    "id": "5-37",
+    "hskLevel": "5",
+    "lessonNumber": 37,
+    "title": "Спорт, достижения",
+    "newWords": [4218, 4219, 4220, 4221, 4222, 4223, 4224, 4225, 4226, 4227, 4228, 4229, 4230, 4231, 4232, 4233, 4234, 4235, 4236, 4237, 4238, 4239, 4240, 4241, 4242, 4243, 4244],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你平时做什么运动？",
+            "pinyin": "Nǐ píngshí zuò shénme yùndòng?",
+            "russian": "Каким спортом ты обычно занимаешься?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我喜欢跑步和游泳，周末还和朋友打羽毛球。",
+            "pinyin": "Wǒ xǐhuān pǎobù hé yóuyǒng, zhōumò hái hé péngyou dǎ yǔmáoqiú.",
+            "russian": "Люблю бегать и плавать, а на выходных ещё играю с друзьями в бадминтон."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "你打得怎么样？",
+            "pinyin": "Nǐ dǎ de zěnmeyàng?",
+            "russian": "Как у тебя получается?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "还可以，但是不太专业。",
+            "pinyin": "Hái kěyǐ, dànshì bù tài zhuānyè.",
+            "russian": "Неплохо, но не очень профессионально."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «运动»?",
+        "options": ["спорт", "движение", "упражнение", "тренировка"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我喜欢打___。",
+        "options": ["羽毛球", "篮球", "足球", "排球"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я играю в бадминтон с друзьями.",
+        "answer": "我和朋友打羽毛球。"
+      }
+    ]
+  },
+  {
+    "id": "5-38",
+    "hskLevel": "5",
+    "lessonNumber": 38,
+    "title": "Экология, устойчивое развитие",
+    "newWords": [4245, 4246, 4247, 4248, 4249, 4250, 4251, 4252, 4253, 4254, 4255, 4256, 4257, 4258, 4259, 4260, 4261, 4262, 4263, 4264, 4265, 4266, 4267, 4268, 4269, 4270, 4271],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得保护环境重要吗？",
+            "pinyin": "Nǐ juéde bǎohù huánjìng zhòngyào ma?",
+            "russian": "Как ты думаешь, важно защищать окружающую среду?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "当然重要，地球是我们的家园。",
+            "pinyin": "Dāngrán zhòngyào, dìqiú shì wǒmen de jiāyuán.",
+            "russian": "Конечно, важно, Земля — наш дом."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "那我们应该怎么做呢？",
+            "pinyin": "Nà wǒmen yīnggāi zěnme zuò ne?",
+            "russian": "Что нам следует делать?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "比如少用塑料袋，节约用水，多植树。",
+            "pinyin": "Bǐrú shǎo yòng sùliàodài, jiéyuē yòng shuǐ, duō zhí shù.",
+            "russian": "Например, меньше использовать пластиковые пакеты, экономить воду, больше сажать деревья."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «污染»?",
+        "options": ["загрязнение", "защита", "окружающая среда", "экология"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我们应该___环境。",
+        "options": ["保护", "爱护", "守护", "维持"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Давайте беречь воду.",
+        "answer": "让我们节约用水。"
+      }
+    ]
+  },
+  {
+    "id": "5-39",
+    "hskLevel": "5",
+    "lessonNumber": 39,
+    "title": "Информационные технологии",
+    "newWords": [4272, 4273, 4274, 4275, 4276, 4277, 4278, 4279, 4280, 4281, 4282, 4283, 4284, 4285, 4286, 4287, 4288, 4289, 4290, 4291, 4292, 4293, 4294, 4295, 4296, 4297, 4298],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你平时用手机做什么？",
+            "pinyin": "Nǐ píngshí yòng shǒujī zuò shénme?",
+            "russian": "Что ты обычно делаешь с телефоном?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "我用来聊天、看视频、查资料。",
+            "pinyin": "Wǒ yòng lái liáotiān, kàn shìpín, chá zīliào.",
+            "russian": "Использую для общения, просмотра видео, поиска информации."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "现在很多工作都离不开电脑了。",
+            "pinyin": "Xiànzài hěnduō gōngzuò dōu lí bù kāi diànnǎo le.",
+            "russian": "Сейчас многие работы не обходятся без компьютера."
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "是啊，信息技术发展太快了。",
+            "pinyin": "Shì a, xìnxī jìshù fāzhǎn tài kuài le.",
+            "russian": "Да, информационные технологии развиваются слишком быстро."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «软件»?",
+        "options": ["программное обеспечение", "аппаратное обеспечение", "технология", "информация"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "我在网上___资料。",
+        "options": ["查", "找", "寻", "搜"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Я скачиваю музыку.",
+        "answer": "我下载音乐。"
+      }
+    ]
+  },
+  {
+    "id": "5-40",
+    "hskLevel": "5",
+    "lessonNumber": 40,
+    "title": "Философия, мировоззрение",
+    "newWords": [4299, 4300, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4311, 4312, 4313, 4314, 4315, 4316],
+    "grammarPoints": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": "Анна",
+            "chinese": "你觉得幸福是什么？",
+            "pinyin": "Nǐ juéde xìngfú shì shénme?",
+            "russian": "Что такое счастье, по-твоему?"
+          },
+          {
+            "speaker": "Ли Мин",
+            "chinese": "幸福不是拥有很多钱，而是健康、快乐和爱。",
+            "pinyin": "Xìngfú bù shì yōngyǒu hěnduō qián, ér shì jiànkāng, kuàilè hé ài.",
+            "russian": "Счастье — это не иметь много денег, а здоровье, радость и любовь."
+          },
+          {
+            "speaker": "Анна",
+            "chinese": "说得真好，我同意。",
+            "pinyin": "Shuō de zhēn hǎo, wǒ tóngyì.",
+            "russian": "Хорошо сказано, я согласна."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Что значит «幸福»?",
+        "options": ["счастье", "богатство", "удача", "здоровье"],
+        "answer": 0
+      },
+      {
+        "type": "fill-blank",
+        "sentence": "他拥有很多___。",
+        "options": ["财富", "财产", "资产", "资本"],
+        "answer": 0
+      },
+      {
+        "type": "translate",
+        "question": "Здоровье важнее всего.",
+        "answer": "健康最重要。"
+      }
+    ]
+  },
+  {
+    "id": "5-41",
+    "hskLevel": "5",
+    "lessonNumber": 41,
+    "title": "Служебные слова 4",
+    "newWords": [],
+    "grammarPoints": [],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "5-42",
+    "hskLevel": "5",
+    "lessonNumber": 42,
+    "title": "Повторение",
+    "newWords": [],
+    "grammarPoints": [],
+    "dialogues": [],
+    "exercises": []
+  }
+]

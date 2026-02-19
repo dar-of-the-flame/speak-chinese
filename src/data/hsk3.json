@@ -1,0 +1,9732 @@
+[
+  {
+    "id": 1273,
+    "simplified": "爱心",
+    "translations": {
+      "ru": "любящее сердце, заботящееся сердце; сердечность, любовь"
+    },
+    "pinyin": "àixīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1274,
+    "simplified": "安排",
+    "translations": {
+      "ru": "назначать, организовывать, планировать, распределять"
+    },
+    "pinyin": "ānpái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1275,
+    "simplified": "安装",
+    "translations": {
+      "ru": "монтаж, установка; установить, смонтировать, оборудовать, оснастить"
+    },
+    "pinyin": "ānzhuāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1276,
+    "simplified": "按",
+    "translations": {
+      "ru": "нажимать, вдавливать; сдерживать; в соответствии с"
+    },
+    "pinyin": "àn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1277,
+    "simplified": "按照",
+    "translations": {
+      "ru": "в соответствии с…; согласно, по"
+    },
+    "pinyin": "ànzhào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1278,
+    "simplified": "把",
+    "translations": {
+      "ru": "(используется перед сущ. или фразой со значением сущ.) вводит дополнение со значением объекта, над которым совершается действие"
+    },
+    "pinyin": "bǎ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1279,
+    "simplified": "把",
+    "translations": {
+      "ru": "счетное слово для предметов с ручкой"
+    },
+    "pinyin": "bǎ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1280,
+    "simplified": "把握",
+    "translations": {
+      "ru": "держать в руках; ухватить суть; уверенность"
+    },
+    "pinyin": "bǎwò",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1281,
+    "simplified": "白",
+    "translations": {
+      "ru": "напрасно, впустую; бесплатно, не прилагая усилий"
+    },
+    "pinyin": "bái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1282,
+    "simplified": "白菜",
+    "translations": {
+      "ru": "китайская капуста"
+    },
+    "pinyin": "báicài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1283,
+    "simplified": "班级",
+    "translations": {
+      "ru": "(учебный) класс"
+    },
+    "pinyin": "bānjí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1284,
+    "simplified": "搬",
+    "translations": {
+      "ru": "переезжать, передвигать, двигать"
+    },
+    "pinyin": "bān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1285,
+    "simplified": "搬家",
+    "translations": {
+      "ru": "переезжать в другой дом"
+    },
+    "pinyin": "bānjiā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1286,
+    "simplified": "板",
+    "translations": {
+      "ru": "доска, плита; ставни (в магазине); негибкий, неживой; выглядеть серьезно"
+    },
+    "pinyin": "bǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1287,
+    "simplified": "办理",
+    "translations": {
+      "ru": "вести дела; действовать; исполнять; оформлять (документы, визу)"
+    },
+    "pinyin": "bànlǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1288,
+    "simplified": "保",
+    "translations": {
+      "ru": "поддерживать, сохранять, защищать, гарантировать"
+    },
+    "pinyin": "bǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1289,
+    "simplified": "保安",
+    "translations": {
+      "ru": "обеспечивать общественную безопасность; защищать работников от несчастных случаев; охранник"
+    },
+    "pinyin": "bǎoān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1290,
+    "simplified": "保持",
+    "translations": {
+      "ru": "держать; поддерживать, удерживать; сохранять; соблюдать; хранить"
+    },
+    "pinyin": "bǎochí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1291,
+    "simplified": "保存",
+    "translations": {
+      "ru": "хранить, сохранять; предохранять; (техн.) предохранение"
+    },
+    "pinyin": "bǎocún",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1292,
+    "simplified": "保护",
+    "translations": {
+      "ru": "защищать, защита"
+    },
+    "pinyin": "bǎohù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1293,
+    "simplified": "保留",
+    "translations": {
+      "ru": "сохранять, оставлять; (по-прежнему) иметь; возражение; оговорка; условие"
+    },
+    "pinyin": "bǎoliú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1294,
+    "simplified": "保险",
+    "translations": {
+      "ru": "страховать; страхование; страховой; безопасный; предохранительный"
+    },
+    "pinyin": "bǎoxiǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1295,
+    "simplified": "保证",
+    "translations": {
+      "ru": "гарантировать, ручаться; гарантия, поручительство"
+    },
+    "pinyin": "bǎozhèng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1296,
+    "simplified": "报",
+    "translations": {
+      "ru": "газета, пресса; отчет, сводка; телеграмма"
+    },
+    "pinyin": "bào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1297,
+    "simplified": "报到",
+    "translations": {
+      "ru": "докладывать, информировать"
+    },
+    "pinyin": "bàodào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1298,
+    "simplified": "报道",
+    "translations": {
+      "ru": "сообщать, информировать; сообщение; информация; репортаж"
+    },
+    "pinyin": "bàodào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1299,
+    "simplified": "报告",
+    "translations": {
+      "ru": "докладывать; доносить; рапортовать; отчитываться; доклад; рапорт; отчёт"
+    },
+    "pinyin": "bàogào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1300,
+    "simplified": "背",
+    "translations": {
+      "ru": "спина, спинка; прислоняться спиной к; опираться на; поворачиваться спиной; заучивать; читать по памяти"
+    },
+    "pinyin": "bèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1301,
+    "simplified": "北部",
+    "translations": {
+      "ru": "север, северная сторона"
+    },
+    "pinyin": "běibù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1302,
+    "simplified": "背",
+    "translations": {
+      "ru": "нести на спине (за плечами); нести на себе бремя, влачить груз; быть обременённым"
+    },
+    "pinyin": "bēi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1303,
+    "simplified": "背后",
+    "translations": {
+      "ru": "позади, за спиной"
+    },
+    "pinyin": "bèihòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1304,
+    "simplified": "被",
+    "translations": {
+      "ru": "(показатель пассивного залога)"
+    },
+    "pinyin": "bèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1305,
+    "simplified": "被子",
+    "translations": {
+      "ru": "одеяло"
+    },
+    "pinyin": "bèizi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1306,
+    "simplified": "本来",
+    "translations": {
+      "ru": "изначально, на самом деле (букв. корень + приходить)"
+    },
+    "pinyin": "běnlái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1307,
+    "simplified": "本领",
+    "translations": {
+      "ru": "способность, умение, навыки; качество, присущая особенность"
+    },
+    "pinyin": "běnlǐng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1308,
+    "simplified": "本事",
+    "translations": {
+      "ru": "умение; навыки; мастерство, способности; основной сюжет"
+    },
+    "pinyin": "běnshi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1309,
+    "simplified": "比较",
+    "translations": {
+      "ru": "сравнивать, сравнительно, относительно"
+    },
+    "pinyin": "bǐjiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1310,
+    "simplified": "比例",
+    "translations": {
+      "ru": "пропорция; соотношение"
+    },
+    "pinyin": "bǐlì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1311,
+    "simplified": "比赛",
+    "translations": {
+      "ru": "соревнование"
+    },
+    "pinyin": "bǐsài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1312,
+    "simplified": "必然",
+    "translations": {
+      "ru": "необходимый, неизбежный; непременно, обязательно, неизбежно; неотвратимо; конечно"
+    },
+    "pinyin": "bìrán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1313,
+    "simplified": "必要",
+    "translations": {
+      "ru": "необходимый, нужный; необходимость"
+    },
+    "pinyin": "bìyào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1314,
+    "simplified": "变化",
+    "translations": {
+      "ru": "перемена, менять(-ся)"
+    },
+    "pinyin": "biànhuà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1315,
+    "simplified": "变为",
+    "translations": {
+      "ru": "измениться, поменяться на"
+    },
+    "pinyin": "biànwéi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1316,
+    "simplified": "标题",
+    "translations": {
+      "ru": "заголовок, заглавие; дать заглавие; предметная рубрика; тема; тематический"
+    },
+    "pinyin": "biāotí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1317,
+    "simplified": "标准",
+    "translations": {
+      "ru": "стандарт, нормативный, стандартный"
+    },
+    "pinyin": "biāozhǔn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1318,
+    "simplified": "表达",
+    "translations": {
+      "ru": "выражать, формулировать; выразительный, экспрессивный"
+    },
+    "pinyin": "biǎodá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1319,
+    "simplified": "表格",
+    "translations": {
+      "ru": "таблица, бланк"
+    },
+    "pinyin": "biǎogé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1320,
+    "simplified": "表面",
+    "translations": {
+      "ru": "внешняя сторона, поверхность; внешний, поверхностный"
+    },
+    "pinyin": "biǎomiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1321,
+    "simplified": "表明",
+    "translations": {
+      "ru": "выражать, изъявлять; показывать, демонстрировать"
+    },
+    "pinyin": "biǎomíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1322,
+    "simplified": "表现",
+    "translations": {
+      "ru": "показывать, выражать, демонстрировать; выражение, проявление, демонстрация, выступление"
+    },
+    "pinyin": "biǎoxiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1323,
+    "simplified": "表演",
+    "translations": {
+      "ru": "выступать, играть, выступление, представление"
+    },
+    "pinyin": "biǎoyǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1324,
+    "simplified": "并",
+    "translations": {
+      "ru": "парно, параллельно; рядом, вместе; наравне, голова в голову"
+    },
+    "pinyin": "bìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1325,
+    "simplified": "并且",
+    "translations": {
+      "ru": "к тому же, более того, и"
+    },
+    "pinyin": "bìngqiě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1326,
+    "simplified": "播出",
+    "translations": {
+      "ru": "вещать, передавать телевизионную программу"
+    },
+    "pinyin": "bōchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1327,
+    "simplified": "播放",
+    "translations": {
+      "ru": "проиграть, воспроизвести (напр., фильм); передавать, транслировать"
+    },
+    "pinyin": "bōfàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1328,
+    "simplified": "不必",
+    "translations": {
+      "ru": "не нужно, не надо, не стоит, не обязательно"
+    },
+    "pinyin": "búbì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1329,
+    "simplified": "不断",
+    "translations": {
+      "ru": "непрерывный; перманентный; беспрерывно, непрестанно"
+    },
+    "pinyin": "búduàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1330,
+    "simplified": "不论",
+    "translations": {
+      "ru": "независимо от, несмотря на"
+    },
+    "pinyin": "búlùn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1331,
+    "simplified": "补",
+    "translations": {
+      "ru": "латать, чинить; добавлять, восполнять; укреплять"
+    },
+    "pinyin": "bǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1332,
+    "simplified": "补充",
+    "translations": {
+      "ru": "пополнять; комплектовать; доукомплектовать; дополнять; дополнительный; дополнение"
+    },
+    "pinyin": "bǔchōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1333,
+    "simplified": "不安",
+    "translations": {
+      "ru": "беспокойство; тревога; волнение, не по себе"
+    },
+    "pinyin": "bùān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1334,
+    "simplified": "不得不",
+    "translations": {
+      "ru": "нельзя не…, быть вынужденным, необходимо"
+    },
+    "pinyin": "bùdébù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1335,
+    "simplified": "不光",
+    "translations": {
+      "ru": "не только"
+    },
+    "pinyin": "bùguāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1336,
+    "simplified": "不仅",
+    "translations": {
+      "ru": "не только… (но и …)"
+    },
+    "pinyin": "bùjǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1337,
+    "simplified": "布",
+    "translations": {
+      "ru": "ткань; матерчатый; расставлять; располагать(ся)"
+    },
+    "pinyin": "bù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1338,
+    "simplified": "步",
+    "translations": {
+      "ru": "шаг, этап, ситуация; (книжн.) шагать"
+    },
+    "pinyin": "bù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1339,
+    "simplified": "部",
+    "translations": {
+      "ru": "счетное слово для фильмов, произведений литературы, приборов и транспортных средств"
+    },
+    "pinyin": "bù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1340,
+    "simplified": "部门",
+    "translations": {
+      "ru": "отделение; филиал; деление; разделение; раздел; отдел"
+    },
+    "pinyin": "bùmén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1341,
+    "simplified": "部长",
+    "translations": {
+      "ru": "министр"
+    },
+    "pinyin": "bùzhǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1342,
+    "simplified": "才能",
+    "translations": {
+      "ru": "дар, талант"
+    },
+    "pinyin": "cáinéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1343,
+    "simplified": "采取",
+    "translations": {
+      "ru": "принимать, предпринимать; применять; прибегать, добывать, разрабатывать"
+    },
+    "pinyin": "cǎiqǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1344,
+    "simplified": "采用",
+    "translations": {
+      "ru": "применять, использовать"
+    },
+    "pinyin": "cǎiyòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1345,
+    "simplified": "彩色",
+    "translations": {
+      "ru": "много цветов, многоцветность"
+    },
+    "pinyin": "cǎisè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1346,
+    "simplified": "曾经",
+    "translations": {
+      "ru": "уже, уже некогда, уже в своё время, прежде, когда-то"
+    },
+    "pinyin": "céngjīng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1347,
+    "simplified": "产生",
+    "translations": {
+      "ru": "рождать(ся); создавать; производить; образовывать, порождать; рождение, появление"
+    },
+    "pinyin": "chǎnshēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1348,
+    "simplified": "长城",
+    "translations": {
+      "ru": "Великая китайская стена"
+    },
+    "pinyin": "chángchéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1349,
+    "simplified": "长处",
+    "translations": {
+      "ru": "достоинство, преимущество, сильная сторона"
+    },
+    "pinyin": "chángchù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1350,
+    "simplified": "长期",
+    "translations": {
+      "ru": "долгосрочный"
+    },
+    "pinyin": "chángqī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1351,
+    "simplified": "厂",
+    "translations": {
+      "ru": "завод, фабрика"
+    },
+    "pinyin": "chǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1352,
+    "simplified": "场合",
+    "translations": {
+      "ru": "случай, обстоятельства, положение, обстановка, условия"
+    },
+    "pinyin": "chǎnghé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1353,
+    "simplified": "场所",
+    "translations": {
+      "ru": "место, пункт; арена"
+    },
+    "pinyin": "chǎngsuǒ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1354,
+    "simplified": "超级",
+    "translations": {
+      "ru": "наивысшая степень; высшее качество; экстра"
+    },
+    "pinyin": "chāojí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1355,
+    "simplified": "朝",
+    "translations": {
+      "ru": "быть обращённым к; (предлог) в; к; на; династия; императорский дом"
+    },
+    "pinyin": "cháo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1356,
+    "simplified": "吵",
+    "translations": {
+      "ru": "шуметь, галдеть; браниться, ссориться; шумный"
+    },
+    "pinyin": "chǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1357,
+    "simplified": "吵架",
+    "translations": {
+      "ru": "перебраниваться; ссориться, ссора, конфликт"
+    },
+    "pinyin": "chǎojià",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1358,
+    "simplified": "衬衫",
+    "translations": {
+      "ru": "рубашка, блузка"
+    },
+    "pinyin": "chènshān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1359,
+    "simplified": "衬衣",
+    "translations": {
+      "ru": "рубашка, блузка; белье"
+    },
+    "pinyin": "chènyī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1360,
+    "simplified": "称为",
+    "translations": {
+      "ru": "называться; звать кого-то или что-то (по имени)"
+    },
+    "pinyin": "chēngwéi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1361,
+    "simplified": "成功",
+    "translations": {
+      "ru": "успех; успешный; завершиться успехом"
+    },
+    "pinyin": "chénggōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1362,
+    "simplified": "成果",
+    "translations": {
+      "ru": "результат, плоды, успехи, завоевания, достижения"
+    },
+    "pinyin": "chéngguǒ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1363,
+    "simplified": "成就",
+    "translations": {
+      "ru": "успех, удача, достижение; закончить, достигнуть"
+    },
+    "pinyin": "chéngjiù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1364,
+    "simplified": "成立",
+    "translations": {
+      "ru": "создать, учредить, основать; быть состоятельным (про аргумент)"
+    },
+    "pinyin": "chénglì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1365,
+    "simplified": "成熟",
+    "translations": {
+      "ru": "созревать; зрелый, спелый"
+    },
+    "pinyin": "chéngshú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1366,
+    "simplified": "成员",
+    "translations": {
+      "ru": "член (напр. семьи, организации)"
+    },
+    "pinyin": "chéngyuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1367,
+    "simplified": "成长",
+    "translations": {
+      "ru": "расти, вырастать, формироваться; рост"
+    },
+    "pinyin": "chéngzhǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1368,
+    "simplified": "城",
+    "translations": {
+      "ru": "город"
+    },
+    "pinyin": "chéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1369,
+    "simplified": "城市",
+    "translations": {
+      "ru": "город"
+    },
+    "pinyin": "chéngshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1370,
+    "simplified": "程度",
+    "translations": {
+      "ru": "степень, мера, масштаб; состояние; уровень"
+    },
+    "pinyin": "chéngdù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1371,
+    "simplified": "持续",
+    "translations": {
+      "ru": "длиться, продолжаться; длительный, последовательный, непрерывный"
+    },
+    "pinyin": "chíxù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1372,
+    "simplified": "充满",
+    "translations": {
+      "ru": "наполнить, заполнить; наполниться, преисполниться (чем-либо); насыщенный, полный"
+    },
+    "pinyin": "chōngmǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1373,
+    "simplified": "重",
+    "translations": {
+      "ru": "двойной; повторный; вновь; вторично; повторить"
+    },
+    "pinyin": "chóng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1374,
+    "simplified": "初",
+    "translations": {
+      "ru": "начало; начальный, только начавшийся"
+    },
+    "pinyin": "chū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1375,
+    "simplified": "初（初一）",
+    "translations": {
+      "ru": "начальный; начавшийся; первый; первичный"
+    },
+    "pinyin": "chū ( chūyī)",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1376,
+    "simplified": "初步",
+    "translations": {
+      "ru": "первый шаг; начальный; предварительный; элементарный"
+    },
+    "pinyin": "chūbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1377,
+    "simplified": "初级",
+    "translations": {
+      "ru": "первая ступень; первая инстанция; первый, первичный"
+    },
+    "pinyin": "chūjí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1378,
+    "simplified": "初中",
+    "translations": {
+      "ru": "средняя ступень школы"
+    },
+    "pinyin": "chūzhōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1379,
+    "simplified": "除了",
+    "translations": {
+      "ru": "кроме…"
+    },
+    "pinyin": "chúle",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1380,
+    "simplified": "处理",
+    "translations": {
+      "ru": "устраивать; разрешать (проблемы); разбирать (дела); (тех.) обрабатывать; обработка"
+    },
+    "pinyin": "chǔlǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1381,
+    "simplified": "传",
+    "translations": {
+      "ru": "передавать; сообщать; распространять; пропагандировать; проповедовать"
+    },
+    "pinyin": "chuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1382,
+    "simplified": "传播",
+    "translations": {
+      "ru": "распространять (учение, взгляды), насаждать, передавать; распространение (напр. света, инфекции)"
+    },
+    "pinyin": "chuánbō",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1383,
+    "simplified": "传来",
+    "translations": {
+      "ru": "доноситься (о звуке, запахе), доходить (о новости)"
+    },
+    "pinyin": "chuánlái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1384,
+    "simplified": "传说",
+    "translations": {
+      "ru": "ходят слухи; говорят; предание; легенда; сказание"
+    },
+    "pinyin": "chuánshuō",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1385,
+    "simplified": "创新",
+    "translations": {
+      "ru": "выступать с новыми идеями; прокладывать новые пути; новаторство; инновации"
+    },
+    "pinyin": "chuàngxīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1386,
+    "simplified": "创业",
+    "translations": {
+      "ru": "основать предприятие, создать бизнес, положить начало делу, стартап; венчурный"
+    },
+    "pinyin": "chuàngyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1387,
+    "simplified": "创造",
+    "translations": {
+      "ru": "создавать; творить; совершать; творчество; созидание"
+    },
+    "pinyin": "chuàngzào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1388,
+    "simplified": "创作",
+    "translations": {
+      "ru": "творить, созидать; творчество; произведение; творение"
+    },
+    "pinyin": "chuàngzuò",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1389,
+    "simplified": "从来",
+    "translations": {
+      "ru": "всегда, никогда (перед отрицанием); издавна, до сих пор"
+    },
+    "pinyin": "cónglái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1390,
+    "simplified": "从前",
+    "translations": {
+      "ru": "раньше; в прошлом; прошлое"
+    },
+    "pinyin": "cóngqián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1391,
+    "simplified": "从事",
+    "translations": {
+      "ru": "заняться (чем-либо); приняться за…; отдаться, посвятить себя (чему-либо)"
+    },
+    "pinyin": "cóngshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1392,
+    "simplified": "村",
+    "translations": {
+      "ru": "деревня"
+    },
+    "pinyin": "cūn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1393,
+    "simplified": "存",
+    "translations": {
+      "ru": "быть, существовать, иметься; содержать, храниться"
+    },
+    "pinyin": "cún",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1394,
+    "simplified": "存在",
+    "translations": {
+      "ru": "существовать, существование, иметься"
+    },
+    "pinyin": "cúnzài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1395,
+    "simplified": "错误",
+    "translations": {
+      "ru": "ошибка"
+    },
+    "pinyin": "cuòwù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1396,
+    "simplified": "达到",
+    "translations": {
+      "ru": "достигать, добиваться, выполнять, доходить до…"
+    },
+    "pinyin": "dádào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1397,
+    "simplified": "打破",
+    "translations": {
+      "ru": "ломать, разрушать, избавляться от (напр., ограничений)"
+    },
+    "pinyin": "dǎpò",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1398,
+    "simplified": "打听",
+    "translations": {
+      "ru": "выяснять, разузнавать; справляться, осведомляться о"
+    },
+    "pinyin": "dǎting",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1399,
+    "simplified": "大概",
+    "translations": {
+      "ru": "вероятно, пожалуй, возможно; приблизительно, в общем; в общих чертах; общий смысл"
+    },
+    "pinyin": "dàgài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1400,
+    "simplified": "大使馆",
+    "translations": {
+      "ru": "посольство"
+    },
+    "pinyin": "dàshǐguǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1401,
+    "simplified": "大约",
+    "translations": {
+      "ru": "приблизительно, около, где-то; большей частью, главным образом; пожалуй, по- видимому"
+    },
+    "pinyin": "dàyuē",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1402,
+    "simplified": "大夫",
+    "translations": {
+      "ru": "врач, доктор (разг.)"
+    },
+    "pinyin": "dàifu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1403,
+    "simplified": "代",
+    "translations": {
+      "ru": "период; поколение; династия"
+    },
+    "pinyin": "dài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1404,
+    "simplified": "代表",
+    "translations": {
+      "ru": "представитель; уполномоченный; депутат, делегат; представлять, быть представителем"
+    },
+    "pinyin": "dàibiǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1405,
+    "simplified": "代表团",
+    "translations": {
+      "ru": "делегация"
+    },
+    "pinyin": "dàibiǎotuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1406,
+    "simplified": "带动",
+    "translations": {
+      "ru": "двигать, приводить в движение, придавать импульс"
+    },
+    "pinyin": "dàidòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1407,
+    "simplified": "带领",
+    "translations": {
+      "ru": "вести, возглавлять, руководить, предводительствовать"
+    },
+    "pinyin": "dàilǐng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1408,
+    "simplified": "单元",
+    "translations": {
+      "ru": "блок; узел; элемент; единичный; подъезд"
+    },
+    "pinyin": "dānyuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1409,
+    "simplified": "当初",
+    "translations": {
+      "ru": "вначале, сперва, первоначально, изначально; раньше"
+    },
+    "pinyin": "dāngchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1410,
+    "simplified": "当地",
+    "translations": {
+      "ru": "данное место; местный"
+    },
+    "pinyin": "dāngdì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1411,
+    "simplified": "当然",
+    "translations": {
+      "ru": "конечно, разумеется"
+    },
+    "pinyin": "dāngrán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1412,
+    "simplified": "当中",
+    "translations": {
+      "ru": "в центре, среди"
+    },
+    "pinyin": "dāngzhōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1413,
+    "simplified": "刀",
+    "translations": {
+      "ru": "нож"
+    },
+    "pinyin": "dāo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1414,
+    "simplified": "导演",
+    "translations": {
+      "ru": "режиссировать; режиссёр"
+    },
+    "pinyin": "dǎoyǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1415,
+    "simplified": "到达",
+    "translations": {
+      "ru": "дойти, доехать до…; достичь (цели), прибыть"
+    },
+    "pinyin": "dàodá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1416,
+    "simplified": "到底",
+    "translations": {
+      "ru": "(довести) до конца; полностью; в конце концов;"
+    },
+    "pinyin": "dàodǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1417,
+    "simplified": "得分",
+    "translations": {
+      "ru": "выиграть (набрать) очко; счет, количество очков (набранных одним игроком или командой в игре)"
+    },
+    "pinyin": "défēn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1418,
+    "simplified": "等待",
+    "translations": {
+      "ru": "ждать, ожидать"
+    },
+    "pinyin": "děngdài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1419,
+    "simplified": "底下",
+    "translations": {
+      "ru": "низ, внизу, под"
+    },
+    "pinyin": "dǐxia",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1420,
+    "simplified": "地区",
+    "translations": {
+      "ru": "район, районный, региональный"
+    },
+    "pinyin": "dìqū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1421,
+    "simplified": "电视剧",
+    "translations": {
+      "ru": "сериал, телевизионная пьеса"
+    },
+    "pinyin": "diànshìjù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1422,
+    "simplified": "电视台",
+    "translations": {
+      "ru": "телевизионная станция"
+    },
+    "pinyin": "diànshìtái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1423,
+    "simplified": "电台",
+    "translations": {
+      "ru": "радиостанция"
+    },
+    "pinyin": "diàntái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1424,
+    "simplified": "电子邮件",
+    "translations": {
+      "ru": "e-mail, электронное письмо"
+    },
+    "pinyin": "diànzǐ yóujiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1425,
+    "simplified": "调",
+    "translations": {
+      "ru": "звучать, петь, играть (об инструменте); переводить, перемещать; расследовать; мелодия, мотив; тональность; акцент; мнение; тон, интонация"
+    },
+    "pinyin": "diào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1426,
+    "simplified": "调查",
+    "translations": {
+      "ru": "исследовать, расследовать; исследование, расследование, опрос"
+    },
+    "pinyin": "diàochá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1427,
+    "simplified": "订",
+    "translations": {
+      "ru": "бронировать (места и т.д.), заказывать, подписываться на (газету и т.д.)"
+    },
+    "pinyin": "dìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1428,
+    "simplified": "定期",
+    "translations": {
+      "ru": "назначить срок (дату); периодический; регулярный"
+    },
+    "pinyin": "dìngqī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1429,
+    "simplified": "东部",
+    "translations": {
+      "ru": "восточная часть"
+    },
+    "pinyin": "dōngbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1430,
+    "simplified": "动力",
+    "translations": {
+      "ru": "тяга, мощность (мотора); движущая сила, толчок"
+    },
+    "pinyin": "dònglì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1431,
+    "simplified": "动人",
+    "translations": {
+      "ru": "трогательный, волнующий, впечатляющий"
+    },
+    "pinyin": "dòngrén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1432,
+    "simplified": "读者",
+    "translations": {
+      "ru": "читатель"
+    },
+    "pinyin": "dúzhě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1433,
+    "simplified": "短处",
+    "translations": {
+      "ru": "недостаток, изъян, слабая сторона, минус"
+    },
+    "pinyin": "duǎnchù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1434,
+    "simplified": "短裤",
+    "translations": {
+      "ru": "шорты"
+    },
+    "pinyin": "duǎnkù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1435,
+    "simplified": "短期",
+    "translations": {
+      "ru": "короткий срок"
+    },
+    "pinyin": "duǎnqī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1436,
+    "simplified": "断",
+    "translations": {
+      "ru": "перерезать; разорвать(ся); переломить(ся); прервать; приостановить; прекратить"
+    },
+    "pinyin": "duàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1437,
+    "simplified": "队员",
+    "translations": {
+      "ru": "член команды"
+    },
+    "pinyin": "duìyuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1438,
+    "simplified": "对待",
+    "translations": {
+      "ru": "относиться к, подходить к кому-либо/чему- либо; обращаться с кем-либо; подход к кому- либо/чему-либо"
+    },
+    "pinyin": "duìdài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1439,
+    "simplified": "对方",
+    "translations": {
+      "ru": "противная сторона; другая сторона, пара; партнёр; противоположная сторона; напротив"
+    },
+    "pinyin": "duìfāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1440,
+    "simplified": "对手",
+    "translations": {
+      "ru": "соперник, противник"
+    },
+    "pinyin": "duìshǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1441,
+    "simplified": "对象",
+    "translations": {
+      "ru": "объект, предмет; возлюбленный, возлюбленная"
+    },
+    "pinyin": "duìxiàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1442,
+    "simplified": "顿",
+    "translations": {
+      "ru": "(сч. сл. для приёмов пищи); раз; сделать паузу; внезапно"
+    },
+    "pinyin": "dùn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1443,
+    "simplified": "发表",
+    "translations": {
+      "ru": "опубликовать; напечатать; высказать; изложить"
+    },
+    "pinyin": "fābiǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1444,
+    "simplified": "发出",
+    "translations": {
+      "ru": "испускать, издавать, рассылать"
+    },
+    "pinyin": "fāchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1445,
+    "simplified": "发达",
+    "translations": {
+      "ru": "высокоразвитый; (получить) высокое развитие; достигнуть высокой степени развития, развиться"
+    },
+    "pinyin": "fādá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1446,
+    "simplified": "发动",
+    "translations": {
+      "ru": "начать; развязать (напр., войну); поднять; мобилизовать (напр., народ); привести в движение; запустить (напр., мотор)"
+    },
+    "pinyin": "fādòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1447,
+    "simplified": "发明",
+    "translations": {
+      "ru": "изобретать; изобретение; открытие"
+    },
+    "pinyin": "fāmíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1448,
+    "simplified": "发生",
+    "translations": {
+      "ru": "возникать, появляться, происходить; случаться"
+    },
+    "pinyin": "fāshēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1449,
+    "simplified": "发送",
+    "translations": {
+      "ru": "передавать (напр., по радио), отправлять, рассылать"
+    },
+    "pinyin": "fāsòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1450,
+    "simplified": "发言",
+    "translations": {
+      "ru": "выступать; произносить речь; высказываться; выступление"
+    },
+    "pinyin": "fāyán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1451,
+    "simplified": "发展",
+    "translations": {
+      "ru": "развивать(-ся); расширяться; развитие; прогресс"
+    },
+    "pinyin": "fāzhǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1452,
+    "simplified": "反对",
+    "translations": {
+      "ru": "противостоять, быть в оппозиции; против; возражение, оппозиция"
+    },
+    "pinyin": "fǎnduì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1453,
+    "simplified": "反复",
+    "translations": {
+      "ru": "повторяющийся, многократный; повторный; повторять(-ся)"
+    },
+    "pinyin": "fǎnfù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1454,
+    "simplified": "反应",
+    "translations": {
+      "ru": "реагировать, отзываться, откликаться; отклик, отзыв, реакция"
+    },
+    "pinyin": "fǎnyìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1455,
+    "simplified": "反正",
+    "translations": {
+      "ru": "так или иначе; всё равно; передняя и задняя сторона"
+    },
+    "pinyin": "fǎnzhèng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1456,
+    "simplified": "范围",
+    "translations": {
+      "ru": "объем; пределы; степень; мера; размер; лимит, диапазон; область; сфера; зона"
+    },
+    "pinyin": "fànwéi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1457,
+    "simplified": "方式",
+    "translations": {
+      "ru": "образец; образ; модель; метод, способ; приём"
+    },
+    "pinyin": "fāngshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1458,
+    "simplified": "防",
+    "translations": {
+      "ru": "предотвращать; защищать; защита; (не используется самостоятельно) дамба, плотина"
+    },
+    "pinyin": "fáng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1459,
+    "simplified": "防止",
+    "translations": {
+      "ru": "предотвращать; препятствовать; устранять; не допускать; уберегать от…"
+    },
+    "pinyin": "fángzhǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1460,
+    "simplified": "房东",
+    "translations": {
+      "ru": "домохозяин, домовладелец"
+    },
+    "pinyin": "fángdōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1461,
+    "simplified": "房屋",
+    "translations": {
+      "ru": "постройка, здание; дом; комната; квартира"
+    },
+    "pinyin": "fángwū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1462,
+    "simplified": "房租",
+    "translations": {
+      "ru": "арендная плата (за дом, квартиру и т.д.)"
+    },
+    "pinyin": "fángzū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1463,
+    "simplified": "访问",
+    "translations": {
+      "ru": "визит, поездка, посещение; нанести визит, посетить; навестить"
+    },
+    "pinyin": "fǎngwèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1464,
+    "simplified": "放到",
+    "translations": {
+      "ru": "класть в, помещать в"
+    },
+    "pinyin": "fàngdào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1465,
+    "simplified": "飞行",
+    "translations": {
+      "ru": "летать (о самолете и т.д.)"
+    },
+    "pinyin": "fēixíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1466,
+    "simplified": "费",
+    "translations": {
+      "ru": "плата, расходы, издержки"
+    },
+    "pinyin": "fèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1467,
+    "simplified": "费用",
+    "translations": {
+      "ru": "затраты, расходы"
+    },
+    "pinyin": "fèiyòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1468,
+    "simplified": "分别",
+    "translations": {
+      "ru": "отличие; разница; различать; отличать; в отдельности, по отдельности; расстаться; расставание"
+    },
+    "pinyin": "fēnbié",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1469,
+    "simplified": "分配",
+    "translations": {
+      "ru": "распределять, делить; распределение; распределительный"
+    },
+    "pinyin": "fēnpèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1470,
+    "simplified": "分组",
+    "translations": {
+      "ru": "делить на группы, группировать"
+    },
+    "pinyin": "fēnzǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1471,
+    "simplified": "丰富",
+    "translations": {
+      "ru": "богатый, обильный, изобильный; процветающий"
+    },
+    "pinyin": "fēngfù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1472,
+    "simplified": "风险",
+    "translations": {
+      "ru": "риск, опасность, угроза"
+    },
+    "pinyin": "fēngxiǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1473,
+    "simplified": "否定",
+    "translations": {
+      "ru": "отрицать, отвергать; отрицание; отрицательный"
+    },
+    "pinyin": "fǒudìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1474,
+    "simplified": "否认",
+    "translations": {
+      "ru": "не признавать; отрицать; опровержение, отрицание"
+    },
+    "pinyin": "fǒurèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1475,
+    "simplified": "服装",
+    "translations": {
+      "ru": "одежда; наряд; костюм; обмундирование"
+    },
+    "pinyin": "fúzhuāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1476,
+    "simplified": "福",
+    "translations": {
+      "ru": "счастье, удача"
+    },
+    "pinyin": "fú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1477,
+    "simplified": "父母",
+    "translations": {
+      "ru": "родители"
+    },
+    "pinyin": "fùmǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1478,
+    "simplified": "父亲",
+    "translations": {
+      "ru": "отец"
+    },
+    "pinyin": "fùqīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1479,
+    "simplified": "付",
+    "translations": {
+      "ru": "платить"
+    },
+    "pinyin": "fù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1480,
+    "simplified": "负责",
+    "translations": {
+      "ru": "отвечать за (что-либо); нести ответственность за (что-либо), ответственный"
+    },
+    "pinyin": "fùzé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1481,
+    "simplified": "复印",
+    "translations": {
+      "ru": "копировать (напр. документ), отксерить"
+    },
+    "pinyin": "fùyìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1482,
+    "simplified": "复杂",
+    "translations": {
+      "ru": "сложный; составной; комплексный"
+    },
+    "pinyin": "fùzá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1483,
+    "simplified": "富",
+    "translations": {
+      "ru": "богатый (также фамилия Фу)"
+    },
+    "pinyin": "fù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1484,
+    "simplified": "改进",
+    "translations": {
+      "ru": "двигать вперёд; реорганизовывать; улучшать; модернизировать"
+    },
+    "pinyin": "gǎijìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1485,
+    "simplified": "改造",
+    "translations": {
+      "ru": "преобразовывать, перестраивать; преобразование, перестройка"
+    },
+    "pinyin": "gǎizào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1486,
+    "simplified": "概念",
+    "translations": {
+      "ru": "концепция, идея"
+    },
+    "pinyin": "gàiniàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1487,
+    "simplified": "赶",
+    "translations": {
+      "ru": "догонять; гнаться; торопиться; спешить; спешно; к тому времени, как; когда"
+    },
+    "pinyin": "gǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1488,
+    "simplified": "赶到",
+    "translations": {
+      "ru": "настичь, догнать; поспеть; прибыть, добраться; торопить (куда-то)"
+    },
+    "pinyin": "gǎndào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1489,
+    "simplified": "赶紧",
+    "translations": {
+      "ru": "срочно, немедленно, безотлагательно, спешно"
+    },
+    "pinyin": "gǎnjǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1490,
+    "simplified": "赶快",
+    "translations": {
+      "ru": "немедленно; сразу"
+    },
+    "pinyin": "gǎnkuài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1491,
+    "simplified": "敢",
+    "translations": {
+      "ru": "сметь; осмелиться; мочь"
+    },
+    "pinyin": "gǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1492,
+    "simplified": "感冒",
+    "translations": {
+      "ru": "простудиться, простуда"
+    },
+    "pinyin": "gǎnmào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1493,
+    "simplified": "感情",
+    "translations": {
+      "ru": "чувство; эмоция"
+    },
+    "pinyin": "gǎnqíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1494,
+    "simplified": "感受",
+    "translations": {
+      "ru": "чувствовать; ощущать; восприятие; чувство; впечатление; опыт"
+    },
+    "pinyin": "gǎnshòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1495,
+    "simplified": "干吗",
+    "translations": {
+      "ru": "почему, зачем, для чего"
+    },
+    "pinyin": "gànmá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1496,
+    "simplified": "高速",
+    "translations": {
+      "ru": "высокоскоростной"
+    },
+    "pinyin": "gāosù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1497,
+    "simplified": "高速公路",
+    "translations": {
+      "ru": "скоростное шоссе, скоростная дорога, автобан (букв. высокая скорость + общая дорога)"
+    },
+    "pinyin": "gāosù gōnglù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1498,
+    "simplified": "告别",
+    "translations": {
+      "ru": "прощаться, откланиваться; расставаться"
+    },
+    "pinyin": "gàobié",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1499,
+    "simplified": "歌迷",
+    "translations": {
+      "ru": "фанат, поклонник пения или певца"
+    },
+    "pinyin": "gēmí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1500,
+    "simplified": "歌声",
+    "translations": {
+      "ru": "поющий голос, звуки песни"
+    },
+    "pinyin": "gēshēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1501,
+    "simplified": "歌手",
+    "translations": {
+      "ru": "певец, певица"
+    },
+    "pinyin": "gēshǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1502,
+    "simplified": "个人",
+    "translations": {
+      "ru": "отдельный человек; личность; индивидуум; сам; лично; личный"
+    },
+    "pinyin": "gèrén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1503,
+    "simplified": "个性",
+    "translations": {
+      "ru": "индивидуальность, личность"
+    },
+    "pinyin": "gèxìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1504,
+    "simplified": "各",
+    "translations": {
+      "ru": "каждый, всякий"
+    },
+    "pinyin": "gè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1505,
+    "simplified": "各地",
+    "translations": {
+      "ru": "все места, все регионы"
+    },
+    "pinyin": "gèdì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1506,
+    "simplified": "各位",
+    "translations": {
+      "ru": "каждый, все (обращение)"
+    },
+    "pinyin": "gèwèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1507,
+    "simplified": "各种",
+    "translations": {
+      "ru": "всех видов"
+    },
+    "pinyin": "gèzhǒng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1508,
+    "simplified": "各自",
+    "translations": {
+      "ru": "каждый сам (по себе); каждый в отдельности"
+    },
+    "pinyin": "gèzì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1509,
+    "simplified": "根本",
+    "translations": {
+      "ru": "фундаментальный; базовый; корень; (с последующим отрицанием) совершенно (не); вовсе (не)"
+    },
+    "pinyin": "gēnběn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1510,
+    "simplified": "更加",
+    "translations": {
+      "ru": "еще более, все больше"
+    },
+    "pinyin": "gèngjiā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1511,
+    "simplified": "工厂",
+    "translations": {
+      "ru": "завод; фабрика; мастерская"
+    },
+    "pinyin": "gōngchǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1512,
+    "simplified": "工程师",
+    "translations": {
+      "ru": "инженер"
+    },
+    "pinyin": "gōngchéngshī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1513,
+    "simplified": "工夫",
+    "translations": {
+      "ru": "время, рабочее время; свободное время, досуг; опыт, знания"
+    },
+    "pinyin": "gōngfu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1514,
+    "simplified": "工具",
+    "translations": {
+      "ru": "инструмент; орудие; средство; способ"
+    },
+    "pinyin": "gōngjù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1515,
+    "simplified": "工业",
+    "translations": {
+      "ru": "промышленность; промышленный, индустриальный; технический"
+    },
+    "pinyin": "gōngyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1516,
+    "simplified": "工资",
+    "translations": {
+      "ru": "заработная плата"
+    },
+    "pinyin": "gōngzī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1517,
+    "simplified": "公布",
+    "translations": {
+      "ru": "опубликовать, обнародовать, объявить"
+    },
+    "pinyin": "gōngbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1518,
+    "simplified": "公共",
+    "translations": {
+      "ru": "общественный, публичный"
+    },
+    "pinyin": "gōnggòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1519,
+    "simplified": "公开",
+    "translations": {
+      "ru": "рассекретить, предать гласности"
+    },
+    "pinyin": "gōngkāi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1520,
+    "simplified": "公民",
+    "translations": {
+      "ru": "гражданин"
+    },
+    "pinyin": "gōngmín",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1521,
+    "simplified": "公务员",
+    "translations": {
+      "ru": "государственный служащий, должностное лицо"
+    },
+    "pinyin": "gōngwùyuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1522,
+    "simplified": "功夫",
+    "translations": {
+      "ru": "гунфу; время; умение, мастерство, навык"
+    },
+    "pinyin": "gōngfu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1523,
+    "simplified": "功课",
+    "translations": {
+      "ru": "домашнее задание, уроки, школьные занятия"
+    },
+    "pinyin": "gōngkè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1524,
+    "simplified": "功能",
+    "translations": {
+      "ru": "функция; назначение, применение, способность; функциональный"
+    },
+    "pinyin": "gōngnéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1525,
+    "simplified": "共同",
+    "translations": {
+      "ru": "совместный, общий, совокупный; единый"
+    },
+    "pinyin": "gòngtóng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1526,
+    "simplified": "共有",
+    "translations": {
+      "ru": "иметь в общей сложности; в целом"
+    },
+    "pinyin": "gòngyǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1527,
+    "simplified": "姑娘",
+    "translations": {
+      "ru": "девушка, барышня, дочь"
+    },
+    "pinyin": "gūniang",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1528,
+    "simplified": "古",
+    "translations": {
+      "ru": "древний, старинный; простой, без прикрас; древности"
+    },
+    "pinyin": "gǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1529,
+    "simplified": "古代",
+    "translations": {
+      "ru": "старые времена; древнее время; архаическая эпоха"
+    },
+    "pinyin": "gǔdài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1530,
+    "simplified": "故乡",
+    "translations": {
+      "ru": "родные места; родина"
+    },
+    "pinyin": "gùxiāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1531,
+    "simplified": "挂",
+    "translations": {
+      "ru": "вешать; вывешивать; висеть; вешать (трубку), отсоединяться; регистрироваться"
+    },
+    "pinyin": "guà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1532,
+    "simplified": "关系",
+    "translations": {
+      "ru": "отношения, связь(-и), блат"
+    },
+    "pinyin": "guānxi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1533,
+    "simplified": "关注",
+    "translations": {
+      "ru": "проявлять интерес, уделять пристальное внимание; подписываться (напр., на канал в YouTube); интерес, внимание"
+    },
+    "pinyin": "guānzhù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1534,
+    "simplified": "观察",
+    "translations": {
+      "ru": "наблюдать (смотреть) за; обозревать; наблюдательный, подзорный, смотровой; наблюдение"
+    },
+    "pinyin": "guānchá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1535,
+    "simplified": "观看",
+    "translations": {
+      "ru": "смотреть, наблюдать"
+    },
+    "pinyin": "guānkàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1536,
+    "simplified": "观念",
+    "translations": {
+      "ru": "идея, взгляд; концепция; понимание; представление"
+    },
+    "pinyin": "guānniàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1537,
+    "simplified": "观众",
+    "translations": {
+      "ru": "зрители, публика, аудитория; посетители"
+    },
+    "pinyin": "guānzhòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1538,
+    "simplified": "管",
+    "translations": {
+      "ru": "отвечать за; воспитывать, поучать; вмешиваться; гарантировать, обеспечивать; независимо от; у (указывает на объект действия)"
+    },
+    "pinyin": "guǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1539,
+    "simplified": "管理",
+    "translations": {
+      "ru": "контролировать; управление; управлять"
+    },
+    "pinyin": "guǎnlǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1540,
+    "simplified": "光",
+    "translations": {
+      "ru": "свет; сияние; дочиста, подчистую;голый; только; лишь"
+    },
+    "pinyin": "guāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1541,
+    "simplified": "光明",
+    "translations": {
+      "ru": "блеск; слава; свет; светлый; блестящий"
+    },
+    "pinyin": "guāngmíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1542,
+    "simplified": "广播",
+    "translations": {
+      "ru": "широковещание, радиовещание, вещание, передача по радио; радиовещательная передача"
+    },
+    "pinyin": "guǎngbō",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1543,
+    "simplified": "广大",
+    "translations": {
+      "ru": "широкий, обширный, громадный, просторный; многочисленный"
+    },
+    "pinyin": "guǎngdà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1544,
+    "simplified": "规定",
+    "translations": {
+      "ru": "определять, устанавливать, давать установку; правило, закон, установление, регламент; определённый, установленный"
+    },
+    "pinyin": "guīdìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1545,
+    "simplified": "规范",
+    "translations": {
+      "ru": "норма; стандарт; нормативный"
+    },
+    "pinyin": "guīfàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1546,
+    "simplified": "国内",
+    "translations": {
+      "ru": "внутренняя территория (страны), внутри страны; внутренний"
+    },
+    "pinyin": "guónèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1547,
+    "simplified": "国庆",
+    "translations": {
+      "ru": "национальный праздник"
+    },
+    "pinyin": "guóqìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1548,
+    "simplified": "果然",
+    "translations": {
+      "ru": "действительно, в самом деле; и впрямь"
+    },
+    "pinyin": "guǒrán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1549,
+    "simplified": "果汁",
+    "translations": {
+      "ru": "фруктовый сок"
+    },
+    "pinyin": "guǒzhī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1550,
+    "simplified": "过程",
+    "translations": {
+      "ru": "процесс; ход (дела, события)"
+    },
+    "pinyin": "guòchéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1551,
+    "simplified": "过去",
+    "translations": {
+      "ru": "прошлое, история, былые времена"
+    },
+    "pinyin": "guòqù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1552,
+    "simplified": "哈哈",
+    "translations": {
+      "ru": "ха-ха (звук смеха)"
+    },
+    "pinyin": "hāhā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1553,
+    "simplified": "海关",
+    "translations": {
+      "ru": "таможня; таможенный"
+    },
+    "pinyin": "hǎiguān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1554,
+    "simplified": "害怕",
+    "translations": {
+      "ru": "бояться"
+    },
+    "pinyin": "hàipà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1555,
+    "simplified": "行",
+    "translations": {
+      "ru": "ряд, шеренга; вереница; строй; строка (также счётное слово); фирма, торговый дом"
+    },
+    "pinyin": "háng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1556,
+    "simplified": "好好",
+    "translations": {
+      "ru": "хороший; хорошенько, как следует"
+    },
+    "pinyin": "hǎohǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1557,
+    "simplified": "好奇",
+    "translations": {
+      "ru": "любопытствовать; любопытный, любознательный"
+    },
+    "pinyin": "hàoqí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1558,
+    "simplified": "合",
+    "translations": {
+      "ru": "закрывать; подходить, соответствовать; соединять, объединять; складываться в, равняться; весь, целый; (в древних романах) схватка, сражение, битва"
+    },
+    "pinyin": "hé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1559,
+    "simplified": "合法",
+    "translations": {
+      "ru": "законный; легальный"
+    },
+    "pinyin": "héfǎ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1560,
+    "simplified": "合格",
+    "translations": {
+      "ru": "соответствовать стандарту (норме); отвечать требованиям"
+    },
+    "pinyin": "hégé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1561,
+    "simplified": "合理",
+    "translations": {
+      "ru": "справедливый; разумный; рациональный; законный; логичный"
+    },
+    "pinyin": "hélǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1562,
+    "simplified": "合作",
+    "translations": {
+      "ru": "сотрудничать, работать вместе; сотрудничество; кооперация; совместный"
+    },
+    "pinyin": "hézuò",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1563,
+    "simplified": "和平",
+    "translations": {
+      "ru": "мир; мирный"
+    },
+    "pinyin": "hépíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1564,
+    "simplified": "红茶",
+    "translations": {
+      "ru": "черный чай (буквальный перевод: “красный чай”)"
+    },
+    "pinyin": "hóngchá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1565,
+    "simplified": "红酒",
+    "translations": {
+      "ru": "красное вино"
+    },
+    "pinyin": "hóngjiǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1566,
+    "simplified": "后果",
+    "translations": {
+      "ru": "последствия, результаты (как правило негативные)"
+    },
+    "pinyin": "hòuguǒ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1567,
+    "simplified": "后面",
+    "translations": {
+      "ru": "сзади, за, далее"
+    },
+    "pinyin": "hòumiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1568,
+    "simplified": "后年",
+    "translations": {
+      "ru": "год, следующий за будущим годом"
+    },
+    "pinyin": "hòunián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1569,
+    "simplified": "互联网",
+    "translations": {
+      "ru": "Интернет"
+    },
+    "pinyin": "hùliánwǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1570,
+    "simplified": "互相",
+    "translations": {
+      "ru": "друг друга; взаимный; взаимно, обоюдно, взаимо-"
+    },
+    "pinyin": "hùxiāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1571,
+    "simplified": "划船",
+    "translations": {
+      "ru": "грести веслами, кататься на лодке"
+    },
+    "pinyin": "huáchuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1572,
+    "simplified": "华人",
+    "translations": {
+      "ru": "этнический китаец; китаец, рожденный за рубежом"
+    },
+    "pinyin": "huárén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1573,
+    "simplified": "化（现代化)",
+    "translations": {
+      "ru": "в словообразовании после основы (обычно двусложной) существительного или прилагательного является словообразующим суффиксом глагола и отглагольного существительного со значением обрести (придать) такой-то признак, рассматривать в таком-то значении и часто соответствует русским словообразовательным суффиксам и окончаниям –изировать(ся), -изация, -ние"
+    },
+    "pinyin": "huà (xiàndàihuà)",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1574,
+    "simplified": "话剧",
+    "translations": {
+      "ru": "драматический спектакль, пьеса"
+    },
+    "pinyin": "huàjù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1575,
+    "simplified": "话题",
+    "translations": {
+      "ru": "тема разговора; тема речи"
+    },
+    "pinyin": "huàtí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1576,
+    "simplified": "欢乐",
+    "translations": {
+      "ru": "радость, веселье; веселиться, радоваться"
+    },
+    "pinyin": "huānlè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1577,
+    "simplified": "环",
+    "translations": {
+      "ru": "кольцо, круг, петля; кольцо мишени; звено, часть целого; окружать, опоясывать"
+    },
+    "pinyin": "huán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1578,
+    "simplified": "环保",
+    "translations": {
+      "ru": "защита окружающей среды; направленный на защиту окружающей среды"
+    },
+    "pinyin": "huánbǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1579,
+    "simplified": "环境",
+    "translations": {
+      "ru": "окружающая среда, обстановка; положение; окружение"
+    },
+    "pinyin": "huánjìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1580,
+    "simplified": "会议",
+    "translations": {
+      "ru": "конференция; заседание, совещание"
+    },
+    "pinyin": "huìyì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1581,
+    "simplified": "会员",
+    "translations": {
+      "ru": "член (союза или общества)"
+    },
+    "pinyin": "huìyuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1582,
+    "simplified": "活",
+    "translations": {
+      "ru": "жить; выживать; живой"
+    },
+    "pinyin": "huó",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1583,
+    "simplified": "火",
+    "translations": {
+      "ru": "огонь"
+    },
+    "pinyin": "huǒ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1584,
+    "simplified": "机器",
+    "translations": {
+      "ru": "машина; механизм"
+    },
+    "pinyin": "jīqì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1585,
+    "simplified": "积极",
+    "translations": {
+      "ru": "активный; активно; положительный; позитивный"
+    },
+    "pinyin": "jījí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1586,
+    "simplified": "基本",
+    "translations": {
+      "ru": "основной; фундаментальный; элементарный"
+    },
+    "pinyin": "jīběn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1587,
+    "simplified": "基本上",
+    "translations": {
+      "ru": "в основном, в целом"
+    },
+    "pinyin": "jīběnshang",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1588,
+    "simplified": "基础",
+    "translations": {
+      "ru": "основание, базис, основа, фундамент; основной; фундаментальный"
+    },
+    "pinyin": "jīchǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1589,
+    "simplified": "及时",
+    "translations": {
+      "ru": "вовремя; своевременно"
+    },
+    "pinyin": "jíshí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1590,
+    "simplified": "…极了",
+    "translations": {
+      "ru": "в высшей степени, чрезвычайно, весьма, исключительно, совершенно (после прилагательных и глаголов, выражающих состояние)"
+    },
+    "pinyin": "… jíle",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1591,
+    "simplified": "集体",
+    "translations": {
+      "ru": "коллектив, группа; коллективный"
+    },
+    "pinyin": "jítǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1592,
+    "simplified": "集中",
+    "translations": {
+      "ru": "собирать, накапливать, концентрировать"
+    },
+    "pinyin": "jízhōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1593,
+    "simplified": "计算",
+    "translations": {
+      "ru": "рассчитывать; вычислять; подсчитывать; расчёт"
+    },
+    "pinyin": "jìsuàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1594,
+    "simplified": "记录",
+    "translations": {
+      "ru": "запись; протокол ; записывать; регистрировать"
+    },
+    "pinyin": "jìlù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1595,
+    "simplified": "记者",
+    "translations": {
+      "ru": "журналист, корреспондент, репортёр"
+    },
+    "pinyin": "jìzhě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1596,
+    "simplified": "纪录",
+    "translations": {
+      "ru": "рекорд; запись (документ); протокол"
+    },
+    "pinyin": "jìlù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1597,
+    "simplified": "纪念",
+    "translations": {
+      "ru": "отмечать (дату); чтить (память); юбилейный; памятный"
+    },
+    "pinyin": "jìniàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1598,
+    "simplified": "技术",
+    "translations": {
+      "ru": "техника; специальные знания, искусство, мастерство; технология; технический"
+    },
+    "pinyin": "jìshù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1599,
+    "simplified": "继续",
+    "translations": {
+      "ru": "продолжать(ся); продолжение"
+    },
+    "pinyin": "jìxù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1600,
+    "simplified": "加工",
+    "translations": {
+      "ru": "обрабатывать; перерабатывать; обработка; переработка"
+    },
+    "pinyin": "jiāgōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1601,
+    "simplified": "加快",
+    "translations": {
+      "ru": "ускорять"
+    },
+    "pinyin": "jiākuài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1602,
+    "simplified": "加强",
+    "translations": {
+      "ru": "усиливать, улучшать, укреплять"
+    },
+    "pinyin": "jiāqiáng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1603,
+    "simplified": "家具",
+    "translations": {
+      "ru": "мебель"
+    },
+    "pinyin": "jiājù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1604,
+    "simplified": "家属",
+    "translations": {
+      "ru": "члены семьи, домочадцы, домашние"
+    },
+    "pinyin": "jiāshǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1605,
+    "simplified": "家乡",
+    "translations": {
+      "ru": "родной край; родина"
+    },
+    "pinyin": "jiāxiāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1606,
+    "simplified": "价格",
+    "translations": {
+      "ru": "цена"
+    },
+    "pinyin": "jiàgé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1607,
+    "simplified": "价钱",
+    "translations": {
+      "ru": "цена"
+    },
+    "pinyin": "jiàqián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1608,
+    "simplified": "价值",
+    "translations": {
+      "ru": "величина; значение; стоимость; ценность"
+    },
+    "pinyin": "jiàzhí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1609,
+    "simplified": "架",
+    "translations": {
+      "ru": "драка, ссора; счетное слово для самолетов, машин и т.д."
+    },
+    "pinyin": "jià",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1610,
+    "simplified": "坚持",
+    "translations": {
+      "ru": "твёрдо придерживаться; отстаивать; проявлять упорство"
+    },
+    "pinyin": "jiānchí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1611,
+    "simplified": "坚决",
+    "translations": {
+      "ru": "решительный; непреклонный; решительно"
+    },
+    "pinyin": "jiānjué",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1612,
+    "simplified": "坚强",
+    "translations": {
+      "ru": "крепкий, сильный; твёрдый, упорный"
+    },
+    "pinyin": "jiānqiáng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1613,
+    "simplified": "简单",
+    "translations": {
+      "ru": "простой"
+    },
+    "pinyin": "jiǎndān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1614,
+    "simplified": "简直",
+    "translations": {
+      "ru": "попросту, прямо-таки, просто-напросто, прямо говоря, без обиняков"
+    },
+    "pinyin": "jiǎnzhí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1615,
+    "simplified": "建",
+    "translations": {
+      "ru": "устанавливать, строить, основывать"
+    },
+    "pinyin": "jiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1616,
+    "simplified": "建成",
+    "translations": {
+      "ru": "основывать, строить"
+    },
+    "pinyin": "jiànchéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1617,
+    "simplified": "建立",
+    "translations": {
+      "ru": "создать; основать"
+    },
+    "pinyin": "jiànlì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1618,
+    "simplified": "建设",
+    "translations": {
+      "ru": "строить, созидать; создание, созидание; конструктивный"
+    },
+    "pinyin": "jiànshè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1619,
+    "simplified": "建议",
+    "translations": {
+      "ru": "предлагать; вносить предложение; рекомендовать; предложение"
+    },
+    "pinyin": "jiànyì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1620,
+    "simplified": "将近",
+    "translations": {
+      "ru": "приближаться; приблизительно; почти, без малого; близиться, скоро уже"
+    },
+    "pinyin": "jiāngjìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1621,
+    "simplified": "将来",
+    "translations": {
+      "ru": "будущий; в будущем; будущее"
+    },
+    "pinyin": "jiānglái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1622,
+    "simplified": "交费",
+    "translations": {
+      "ru": "платить, вносить плату"
+    },
+    "pinyin": "jiāofèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1623,
+    "simplified": "交警",
+    "translations": {
+      "ru": "дорожная полиция"
+    },
+    "pinyin": "jiāojǐng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1624,
+    "simplified": "交流",
+    "translations": {
+      "ru": "связь, контакт; общение, коммуникация; обмен, обмениваться"
+    },
+    "pinyin": "jiāoliú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1625,
+    "simplified": "交往",
+    "translations": {
+      "ru": "общаться, поддерживать знакомство, поддерживать связь"
+    },
+    "pinyin": "jiāowǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1626,
+    "simplified": "交易",
+    "translations": {
+      "ru": "меняться, торговать; совершать сделку; обмен, торговля; сделка"
+    },
+    "pinyin": "jiāoyì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1627,
+    "simplified": "叫",
+    "translations": {
+      "ru": "используется в пассивном залоге и указывает на субъект действия; кричать; называть(ся); звать, вызывать; заставлять; просить, требовать; позволять, разрешать"
+    },
+    "pinyin": "jiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1628,
+    "simplified": "较",
+    "translations": {
+      "ru": "сравнительно, относительно; чем, по сравнению с (вводит объект сравнения)"
+    },
+    "pinyin": "jiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1629,
+    "simplified": "教材",
+    "translations": {
+      "ru": "учебный материал; учебное пособие"
+    },
+    "pinyin": "jiàocái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1630,
+    "simplified": "教练",
+    "translations": {
+      "ru": "тренер, наставник; инструктор"
+    },
+    "pinyin": "jiàoliàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1631,
+    "simplified": "结实",
+    "translations": {
+      "ru": "прочный; крепкий"
+    },
+    "pinyin": "jiēshi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1632,
+    "simplified": "接待",
+    "translations": {
+      "ru": "принимать, прием (гостей, посетителей)"
+    },
+    "pinyin": "jiēdài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1633,
+    "simplified": "接近",
+    "translations": {
+      "ru": "прилегать; близлежащий, близкий, соседний"
+    },
+    "pinyin": "jiējìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1634,
+    "simplified": "节约",
+    "translations": {
+      "ru": "экономить; беречь; экономия; бережливость"
+    },
+    "pinyin": "jiéyuē",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1635,
+    "simplified": "结合",
+    "translations": {
+      "ru": "сочетать; соединять; связывать; комбинация; связь; соединение"
+    },
+    "pinyin": "jiéhé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1636,
+    "simplified": "结婚",
+    "translations": {
+      "ru": "вступить в брак, жениться"
+    },
+    "pinyin": "jiéhūn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1637,
+    "simplified": "结束",
+    "translations": {
+      "ru": "закончить[ся]; покончить с…; финал, конец; заключить, резюмировать"
+    },
+    "pinyin": "jiéshù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1638,
+    "simplified": "解决",
+    "translations": {
+      "ru": "решать (напр. проблему), уладить"
+    },
+    "pinyin": "jiějué",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1639,
+    "simplified": "解开",
+    "translations": {
+      "ru": "развязывать, расстегивать, расшнуровывать; разгадывать (загадку)"
+    },
+    "pinyin": "jiěkāi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1640,
+    "simplified": "金",
+    "translations": {
+      "ru": "золото; золотой; деньги; ударные музыкальные инструменты; драгоценный, замечательный"
+    },
+    "pinyin": "jīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1641,
+    "simplified": "金牌",
+    "translations": {
+      "ru": "золотая медаль"
+    },
+    "pinyin": "jīnpái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1642,
+    "simplified": "仅",
+    "translations": {
+      "ru": "просто, только"
+    },
+    "pinyin": "jǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1643,
+    "simplified": "仅仅",
+    "translations": {
+      "ru": "всего лишь, только"
+    },
+    "pinyin": "jǐnjǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1644,
+    "simplified": "尽量",
+    "translations": {
+      "ru": "насколько только возможно; по возможности; максимально"
+    },
+    "pinyin": "jǐnliàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1645,
+    "simplified": "紧",
+    "translations": {
+      "ru": "тугой, тесный; крепкий, прочный; близкий; следующий в быстрой последовательности; строгий; напряженный; стесненный (материально); срочный, неотложный; затягивать"
+    },
+    "pinyin": "jǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1646,
+    "simplified": "紧急",
+    "translations": {
+      "ru": "срочный, экстренный; чрезвычайный"
+    },
+    "pinyin": "jǐnjí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1647,
+    "simplified": "紧张",
+    "translations": {
+      "ru": "напряжение; напряженный, волноваться, волнение"
+    },
+    "pinyin": "jǐnzhāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1648,
+    "simplified": "进步",
+    "translations": {
+      "ru": "движение вперёд; прогресс; прогрессивный； преуспевать, успешно развиваться, прогрессировать, совершенствоваться"
+    },
+    "pinyin": "jìnbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1649,
+    "simplified": "进一步",
+    "translations": {
+      "ru": "продвигаться на шаг вперед"
+    },
+    "pinyin": "jìnyíbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1650,
+    "simplified": "进展",
+    "translations": {
+      "ru": "развиваться, прогрессировать; сдвиг, развитие; прогресс"
+    },
+    "pinyin": "jìnzhǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1651,
+    "simplified": "近期",
+    "translations": {
+      "ru": "ближайшее будущее, ближайшее время"
+    },
+    "pinyin": "jìnqī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1652,
+    "simplified": "京剧",
+    "translations": {
+      "ru": "пекинская опера, пекинская музыкальная драма"
+    },
+    "pinyin": "jīngjù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1653,
+    "simplified": "经济",
+    "translations": {
+      "ru": "экономика; экономический"
+    },
+    "pinyin": "jīngjì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1654,
+    "simplified": "经历",
+    "translations": {
+      "ru": "опыт, жизненный опыт; проходить, переживать, испытывать"
+    },
+    "pinyin": "jīnglì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1655,
+    "simplified": "经验",
+    "translations": {
+      "ru": "опыт; опытный; переживать, испытывать"
+    },
+    "pinyin": "jīngyàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1656,
+    "simplified": "经营",
+    "translations": {
+      "ru": "хозяйствовать; вести хозяйство; управлять (напр., предприятием); менеджмент"
+    },
+    "pinyin": "jīngyíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1657,
+    "simplified": "精彩",
+    "translations": {
+      "ru": "яркий, блестящий; впечатляющий, эффектный; замечательный"
+    },
+    "pinyin": "jīngcǎi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1658,
+    "simplified": "精神",
+    "translations": {
+      "ru": "дух; духовный; моральный; нравственный"
+    },
+    "pinyin": "jīngshén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1659,
+    "simplified": "精神",
+    "translations": {
+      "ru": "энергия; дух; (душевные) силы; энергичный; бодрый"
+    },
+    "pinyin": "jīngshen",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1660,
+    "simplified": "景色",
+    "translations": {
+      "ru": "пейзаж, вид; картина; ландшафт"
+    },
+    "pinyin": "jǐngsè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1661,
+    "simplified": "警察",
+    "translations": {
+      "ru": "полиция; полицейский"
+    },
+    "pinyin": "jǐngchá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1662,
+    "simplified": "静",
+    "translations": {
+      "ru": "тихий, бесшумный; неподвижный; успокаиваться, замолкать"
+    },
+    "pinyin": "jìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1663,
+    "simplified": "久",
+    "translations": {
+      "ru": "длительное время, долго"
+    },
+    "pinyin": "jiǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1664,
+    "simplified": "旧",
+    "translations": {
+      "ru": "старый, устаревший (как антоним 新 xīn новый)"
+    },
+    "pinyin": "jiù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1665,
+    "simplified": "救",
+    "translations": {
+      "ru": "спасать; выручать; помогать"
+    },
+    "pinyin": "jiù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1666,
+    "simplified": "就是",
+    "translations": {
+      "ru": "(используется самостоятельно для выражения согласия) правильно, точно"
+    },
+    "pinyin": "jiùshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1667,
+    "simplified": "就业",
+    "translations": {
+      "ru": "устроиться на работу, приступить к работе, трудоустроиться"
+    },
+    "pinyin": "jiùyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1668,
+    "simplified": "举办",
+    "translations": {
+      "ru": "организовать, устроить; положить начало; поставить (напр. дело)"
+    },
+    "pinyin": "jǔbàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1669,
+    "simplified": "具体",
+    "translations": {
+      "ru": "конкретный, определённый; реальный"
+    },
+    "pinyin": "jùtǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1670,
+    "simplified": "具有",
+    "translations": {
+      "ru": "обладать, иметь; содержать, вмещать; быть преисполненным (чем-либо)"
+    },
+    "pinyin": "jùyǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1671,
+    "simplified": "剧场",
+    "translations": {
+      "ru": "театр"
+    },
+    "pinyin": "jùchǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1672,
+    "simplified": "据说",
+    "translations": {
+      "ru": "(как) говорят; передают, что; по чьим- либо словам"
+    },
+    "pinyin": "jùshuō",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1673,
+    "simplified": "决定",
+    "translations": {
+      "ru": "решать, решение, принимать решение"
+    },
+    "pinyin": "juédìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1674,
+    "simplified": "决赛",
+    "translations": {
+      "ru": "финальное состязание, финал"
+    },
+    "pinyin": "juésài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1675,
+    "simplified": "决心",
+    "translations": {
+      "ru": "решительность, решимость; решительный; решиться"
+    },
+    "pinyin": "juéxīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1676,
+    "simplified": "绝对",
+    "translations": {
+      "ru": "абсолютный; полный; безусловный"
+    },
+    "pinyin": "juéduì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1677,
+    "simplified": "咖啡",
+    "translations": {
+      "ru": "кофе"
+    },
+    "pinyin": "kāfēi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1678,
+    "simplified": "开发",
+    "translations": {
+      "ru": "разрабатывать; осваивать; развитие; рост (предприятия)"
+    },
+    "pinyin": "kāifā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1679,
+    "simplified": "开放",
+    "translations": {
+      "ru": "быть открытым для внешнего мира; открывать доступ; раскрыться, распуститься (о цветах, деревьях)"
+    },
+    "pinyin": "kāifàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1680,
+    "simplified": "开始",
+    "translations": {
+      "ru": "начинать, начало"
+    },
+    "pinyin": "kāishǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1681,
+    "simplified": "开业",
+    "translations": {
+      "ru": "начинать бизнес, открываться"
+    },
+    "pinyin": "kāiyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1682,
+    "simplified": "开展",
+    "translations": {
+      "ru": "развиваться; прогрессировать; разворачивать, развивать; развитой; передовой"
+    },
+    "pinyin": "kāizhǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1683,
+    "simplified": "看起来",
+    "translations": {
+      "ru": "выглядеть, казаться; кажется, что; похоже, что"
+    },
+    "pinyin": "kànqǐlai",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1684,
+    "simplified": "看上去",
+    "translations": {
+      "ru": "кажется; похоже, что"
+    },
+    "pinyin": "kàn shàngqù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1685,
+    "simplified": "考验",
+    "translations": {
+      "ru": "испытывать, подвергать испытанию, проверять; наблюдать, испытание"
+    },
+    "pinyin": "kǎoyàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1686,
+    "simplified": "科技",
+    "translations": {
+      "ru": "наука и техника"
+    },
+    "pinyin": "kējì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1687,
+    "simplified": "可靠",
+    "translations": {
+      "ru": "надёжный; верный; достоверный"
+    },
+    "pinyin": "kěkào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1688,
+    "simplified": "可乐",
+    "translations": {
+      "ru": "кола"
+    },
+    "pinyin": "kělè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1689,
+    "simplified": "克服",
+    "translations": {
+      "ru": "преодолеть; одолеть, справиться"
+    },
+    "pinyin": "kèfú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1690,
+    "simplified": "客观",
+    "translations": {
+      "ru": "объективный"
+    },
+    "pinyin": "kèguān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1691,
+    "simplified": "课程",
+    "translations": {
+      "ru": "курс (лекций); предмет, дисциплина"
+    },
+    "pinyin": "kèchéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1692,
+    "simplified": "空",
+    "translations": {
+      "ru": "пустой; порожний; пустота; впустую, попусту, напрасно; воздух; воздушный"
+    },
+    "pinyin": "kōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1693,
+    "simplified": "空调",
+    "translations": {
+      "ru": "кондиционер"
+    },
+    "pinyin": "kōngtiáo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1694,
+    "simplified": "恐怕",
+    "translations": {
+      "ru": "бояться, опасаться; боюсь, что…"
+    },
+    "pinyin": "kǒngpà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1695,
+    "simplified": "空儿",
+    "translations": {
+      "ru": "свободное время"
+    },
+    "pinyin": "kòngr",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1696,
+    "simplified": "裤子",
+    "translations": {
+      "ru": "штаны, брюки"
+    },
+    "pinyin": "kùzi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1697,
+    "simplified": "快速",
+    "translations": {
+      "ru": "быстрый, скорый, скоростной, стремительный"
+    },
+    "pinyin": "kuàisù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1698,
+    "simplified": "困",
+    "translations": {
+      "ru": "утомиться, устать; клонит ко сну, хочется спать; окружить; трудный; затруднительный"
+    },
+    "pinyin": "kùn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1699,
+    "simplified": "困难",
+    "translations": {
+      "ru": "трудность; трудный, тяжёлый"
+    },
+    "pinyin": "kùnnan",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1700,
+    "simplified": "浪费",
+    "translations": {
+      "ru": "расточительство, траты; растрачивать, транжирить, тратить"
+    },
+    "pinyin": "làngfèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1701,
+    "simplified": "老百姓",
+    "translations": {
+      "ru": "простой народ, население; простые люди"
+    },
+    "pinyin": "lǎobǎixìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1702,
+    "simplified": "老板",
+    "translations": {
+      "ru": "хозяин; владелец / начальник"
+    },
+    "pinyin": "lǎobǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1703,
+    "simplified": "老太太",
+    "translations": {
+      "ru": "вежливая форма обращения к пожилой женщине; мама или свекровь (тёща)"
+    },
+    "pinyin": "lǎotàitai",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1704,
+    "simplified": "老头儿",
+    "translations": {
+      "ru": "старик"
+    },
+    "pinyin": "lǎotóur",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1705,
+    "simplified": "乐",
+    "translations": {
+      "ru": "радостный, веселый; радость, веселье; смеяться; наслаждаться, любить"
+    },
+    "pinyin": "lè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1706,
+    "simplified": "乐观",
+    "translations": {
+      "ru": "оптимистичный; оптимистический; оптимизм"
+    },
+    "pinyin": "lèguān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1707,
+    "simplified": "类",
+    "translations": {
+      "ru": "категория, вид, тип; счетное слово для видов"
+    },
+    "pinyin": "lèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1708,
+    "simplified": "类似",
+    "translations": {
+      "ru": "подобный, похожий, сходный, аналогия, сходство"
+    },
+    "pinyin": "lèisì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1709,
+    "simplified": "离婚",
+    "translations": {
+      "ru": "развестись; расторгнуть брак; развод"
+    },
+    "pinyin": "líhūn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1710,
+    "simplified": "里面",
+    "translations": {
+      "ru": "внутри, внутренняя часть"
+    },
+    "pinyin": "lǐmiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1711,
+    "simplified": "理发",
+    "translations": {
+      "ru": "стричься; причёсываться; стрижка; причёсывание"
+    },
+    "pinyin": "lǐfà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1712,
+    "simplified": "理解",
+    "translations": {
+      "ru": "понимать, осмысливать, уяснять; понимание"
+    },
+    "pinyin": "lǐjiě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1713,
+    "simplified": "理论",
+    "translations": {
+      "ru": "теория; учение; теоретический"
+    },
+    "pinyin": "lǐlùn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1714,
+    "simplified": "理由",
+    "translations": {
+      "ru": "аргумент; довод; основание; мотив"
+    },
+    "pinyin": "lǐyóu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1715,
+    "simplified": "力",
+    "translations": {
+      "ru": "физическая сила; (физ.) сила"
+    },
+    "pinyin": "lì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1716,
+    "simplified": "力量",
+    "translations": {
+      "ru": "сила, мощь, энергия"
+    },
+    "pinyin": "lìliang",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1717,
+    "simplified": "立刻",
+    "translations": {
+      "ru": "немедленно, сразу же, сейчас же"
+    },
+    "pinyin": "lìkè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1718,
+    "simplified": "利用",
+    "translations": {
+      "ru": "использовать; пользоваться; утилизировать"
+    },
+    "pinyin": "lìyòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1719,
+    "simplified": "连",
+    "translations": {
+      "ru": "соединять(ся); связывать(ся); вместе (с); даже; подряд"
+    },
+    "pinyin": "lián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1720,
+    "simplified": "连忙",
+    "translations": {
+      "ru": "тотчас же, сразу же, поспешно, торопливо, быстро"
+    },
+    "pinyin": "liánmáng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1721,
+    "simplified": "连续",
+    "translations": {
+      "ru": "последовательный; следующий один за другим; подряд; один за другим;"
+    },
+    "pinyin": "liánxù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1722,
+    "simplified": "连续剧",
+    "translations": {
+      "ru": "сериал, мыльная опера"
+    },
+    "pinyin": "liánxùjù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1723,
+    "simplified": "联合",
+    "translations": {
+      "ru": "соединять, объединять; сочетать, комбинировать"
+    },
+    "pinyin": "liánhé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1724,
+    "simplified": "联合国",
+    "translations": {
+      "ru": "Организация Объединённых Наций (ООН)"
+    },
+    "pinyin": "Liánhéguó",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1725,
+    "simplified": "联系",
+    "translations": {
+      "ru": "связываться; связывать, соединять; связь, контакт"
+    },
+    "pinyin": "liánxì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1726,
+    "simplified": "凉水",
+    "translations": {
+      "ru": "холодная вода; остуженный кипяток"
+    },
+    "pinyin": "liángshuǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1727,
+    "simplified": "了",
+    "translations": {
+      "ru": "заканчивать, завершать, улаживать, справляться; глагольный суффикс результата действия – чаще в формах возможности совершения действия"
+    },
+    "pinyin": "liǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1728,
+    "simplified": "领",
+    "translations": {
+      "ru": "вести, возглавлять; принимать; брать, получать"
+    },
+    "pinyin": "lǐng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1729,
+    "simplified": "领导",
+    "translations": {
+      "ru": "руководитель; лидер; руководить; руководящий; ведущий"
+    },
+    "pinyin": "lǐngdǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1730,
+    "simplified": "领先",
+    "translations": {
+      "ru": "вести; идти впереди, лидировать; спорт вести (в счете) ; ведущий, передовой"
+    },
+    "pinyin": "lǐngxiān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1731,
+    "simplified": "另外",
+    "translations": {
+      "ru": "кроме того, сверх того; другой, иной"
+    },
+    "pinyin": "lìngwài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1732,
+    "simplified": "另一方面",
+    "translations": {
+      "ru": "другая сторона (вопроса), с другой стороны"
+    },
+    "pinyin": "lìngyìfāngmiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1733,
+    "simplified": "留学",
+    "translations": {
+      "ru": "учиться за границей"
+    },
+    "pinyin": "liúxué",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1734,
+    "simplified": "龙",
+    "translations": {
+      "ru": "дракон ; императорский"
+    },
+    "pinyin": "lóng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1735,
+    "simplified": "录",
+    "translations": {
+      "ru": "записывать на пленку/видео; записывать, делать записи; принимать на работу; записи, собрание"
+    },
+    "pinyin": "lù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1736,
+    "simplified": "录音",
+    "translations": {
+      "ru": "звукозапись; записывать звук; звукозаписывающий"
+    },
+    "pinyin": "lùyīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1737,
+    "simplified": "路线",
+    "translations": {
+      "ru": "путь, маршрут"
+    },
+    "pinyin": "lùxiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1738,
+    "simplified": "旅馆",
+    "translations": {
+      "ru": "отель, гостиница"
+    },
+    "pinyin": "lǚguǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1739,
+    "simplified": "旅行社",
+    "translations": {
+      "ru": "туристическое агентство"
+    },
+    "pinyin": "lǚxíngshè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1740,
+    "simplified": "绿茶",
+    "translations": {
+      "ru": "зеленый чай"
+    },
+    "pinyin": "lǜchá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1741,
+    "simplified": "乱",
+    "translations": {
+      "ru": "беспорядочный, хаотичный; хаотично; перепутать(ся); смешать(ся)"
+    },
+    "pinyin": "luàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1742,
+    "simplified": "落后",
+    "translations": {
+      "ru": "отставать, быть позади; быть хуже других; отсталость, отставание"
+    },
+    "pinyin": "luòhòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1743,
+    "simplified": "麻烦",
+    "translations": {
+      "ru": "хлопотливый; беспокойный; хлопоты; докучать; беспокоить; затруднять"
+    },
+    "pinyin": "máfan",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1744,
+    "simplified": "马",
+    "translations": {
+      "ru": "лошадь; сокр. Малайзия"
+    },
+    "pinyin": "mǎ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1745,
+    "simplified": "满足",
+    "translations": {
+      "ru": "быть удовлетворённым; удовлетвориться; удовлетворение"
+    },
+    "pinyin": "mǎnzú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1746,
+    "simplified": "慢慢",
+    "translations": {
+      "ru": "медленно"
+    },
+    "pinyin": "mànmàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1747,
+    "simplified": "毛",
+    "translations": {
+      "ru": "волос; перо; шерсть; плесень"
+    },
+    "pinyin": "máo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1748,
+    "simplified": "毛病",
+    "translations": {
+      "ru": "недостаток, изъян, порок, дефект; погрешность"
+    },
+    "pinyin": "máobìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1749,
+    "simplified": "没用",
+    "translations": {
+      "ru": "бесполезный, непригодный"
+    },
+    "pinyin": "méiyòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1750,
+    "simplified": "媒体",
+    "translations": {
+      "ru": "средства массовой информации, медиа"
+    },
+    "pinyin": "méitǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1751,
+    "simplified": "每",
+    "translations": {
+      "ru": "каждый"
+    },
+    "pinyin": "měi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1752,
+    "simplified": "美",
+    "translations": {
+      "ru": "красивый; хороший, отличный; (диал.) быть довольным собой"
+    },
+    "pinyin": "měi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1753,
+    "simplified": "美好",
+    "translations": {
+      "ru": "счастливый, хороший, замечательный, чудесный, славный"
+    },
+    "pinyin": "měihǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1754,
+    "simplified": "美丽",
+    "translations": {
+      "ru": "красивый"
+    },
+    "pinyin": "měilì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1755,
+    "simplified": "美食",
+    "translations": {
+      "ru": "вкусная еда, деликатес, лакомство"
+    },
+    "pinyin": "měishí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1756,
+    "simplified": "美术",
+    "translations": {
+      "ru": "изящные искусства; изобразительное искусство; художественный; живопись"
+    },
+    "pinyin": "měishù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1757,
+    "simplified": "美元",
+    "translations": {
+      "ru": "американский доллар"
+    },
+    "pinyin": "měiyuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1758,
+    "simplified": "迷",
+    "translations": {
+      "ru": "заблудиться; сбивать с толку; быть очарованным, быть без ума от; фанат, любитель"
+    },
+    "pinyin": "mí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1759,
+    "simplified": "米",
+    "translations": {
+      "ru": "рис; (очищенные) семена; предмет в форме зерна"
+    },
+    "pinyin": "mǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1760,
+    "simplified": "面对",
+    "translations": {
+      "ru": "перед лицом…, лицом к…; столкнуться с (чем- либо)"
+    },
+    "pinyin": "miànduì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1761,
+    "simplified": "面积",
+    "translations": {
+      "ru": "поверхность, площадь"
+    },
+    "pinyin": "miànjī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1762,
+    "simplified": "民间",
+    "translations": {
+      "ru": "в народе; народ; народный"
+    },
+    "pinyin": "mínjiān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1763,
+    "simplified": "民族",
+    "translations": {
+      "ru": "нация, народ, этнос, этническая группа; национальность, народность"
+    },
+    "pinyin": "mínzú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1764,
+    "simplified": "明确",
+    "translations": {
+      "ru": "ясный, чёткий; определённый; уяснить; определить"
+    },
+    "pinyin": "míngquè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1765,
+    "simplified": "明显",
+    "translations": {
+      "ru": "ясный; явный; очевидный"
+    },
+    "pinyin": "míngxiǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1766,
+    "simplified": "命运",
+    "translations": {
+      "ru": "судьба, рок; участь, удел"
+    },
+    "pinyin": "mìngyùn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1767,
+    "simplified": "某",
+    "translations": {
+      "ru": "некто; некий; некоторый"
+    },
+    "pinyin": "mǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1768,
+    "simplified": "母亲",
+    "translations": {
+      "ru": "мать, матушка"
+    },
+    "pinyin": "mǔqīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1769,
+    "simplified": "木头",
+    "translations": {
+      "ru": "дерево (материал), древесина; бревно; деревянный; чурбан (о человеке); деревянный, бесчувственный"
+    },
+    "pinyin": "mùtou",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1770,
+    "simplified": "目标",
+    "translations": {
+      "ru": "мишень, цель, ориентир"
+    },
+    "pinyin": "mùbiāo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1771,
+    "simplified": "目前",
+    "translations": {
+      "ru": "в настоящий момент; сейчас; текущий; современный"
+    },
+    "pinyin": "mùqián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1772,
+    "simplified": "奶茶",
+    "translations": {
+      "ru": "чай с молоком"
+    },
+    "pinyin": "nǎichá",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1773,
+    "simplified": "男子",
+    "translations": {
+      "ru": "мужчина, муж"
+    },
+    "pinyin": "nánzǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1774,
+    "simplified": "南部",
+    "translations": {
+      "ru": "южная часть"
+    },
+    "pinyin": "nánbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1775,
+    "simplified": "难道",
+    "translations": {
+      "ru": "неужто, неужели, разве… (в вопросах)"
+    },
+    "pinyin": "nándào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1776,
+    "simplified": "难度",
+    "translations": {
+      "ru": "степень трудности, сложность"
+    },
+    "pinyin": "nándù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1777,
+    "simplified": "内",
+    "translations": {
+      "ru": "внутренний; в; внутри; в течение"
+    },
+    "pinyin": "nèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1778,
+    "simplified": "内容",
+    "translations": {
+      "ru": "содержание, содержимое, контент; детали, подробности"
+    },
+    "pinyin": "nèiróng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1779,
+    "simplified": "内心",
+    "translations": {
+      "ru": "внутри, в сердце, в мыслях"
+    },
+    "pinyin": "nèixīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1780,
+    "simplified": "能不能",
+    "translations": {
+      "ru": "можно или нет, возможно ли"
+    },
+    "pinyin": "néngbunéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1781,
+    "simplified": "能力",
+    "translations": {
+      "ru": "способность; сила"
+    },
+    "pinyin": "nénglì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1782,
+    "simplified": "年初",
+    "translations": {
+      "ru": "начало года"
+    },
+    "pinyin": "niánchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1783,
+    "simplified": "年代",
+    "translations": {
+      "ru": "эпоха, эра; период; годы (десятилетия)"
+    },
+    "pinyin": "niándài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1784,
+    "simplified": "年底",
+    "translations": {
+      "ru": "конец года, последний месяц года"
+    },
+    "pinyin": "niándǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1785,
+    "simplified": "年纪",
+    "translations": {
+      "ru": "возраст, лета"
+    },
+    "pinyin": "niánjì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1786,
+    "simplified": "念",
+    "translations": {
+      "ru": "думать; помнить; вспоминать; читать вслух, декламировать"
+    },
+    "pinyin": "niàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1787,
+    "simplified": "牛",
+    "translations": {
+      "ru": "крупный рогатый скот, корова"
+    },
+    "pinyin": "niú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1788,
+    "simplified": "农村",
+    "translations": {
+      "ru": "деревня; село; деревенский"
+    },
+    "pinyin": "nóngcūn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1789,
+    "simplified": "农民",
+    "translations": {
+      "ru": "крестьянин; сельчанин; земледелец"
+    },
+    "pinyin": "nóngmín",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1790,
+    "simplified": "农业",
+    "translations": {
+      "ru": "сельское хозяйство; агрономия; земледелие"
+    },
+    "pinyin": "nóngyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1791,
+    "simplified": "女子",
+    "translations": {
+      "ru": "женщина; женский"
+    },
+    "pinyin": "nǚzǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1792,
+    "simplified": "暖和",
+    "translations": {
+      "ru": "тёплый; тепло; греться, согреваться"
+    },
+    "pinyin": "nuǎnhuo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1793,
+    "simplified": "怕",
+    "translations": {
+      "ru": "боюсь, что…, пожалуй; как бы не…"
+    },
+    "pinyin": "pà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1794,
+    "simplified": "拍",
+    "translations": {
+      "ru": "стучать (по, в); шлёпать; щёлкать; хлопать; фотографировать, снимать"
+    },
+    "pinyin": "pāi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1795,
+    "simplified": "排",
+    "translations": {
+      "ru": "расставлять, ставить в ряд; репетировать"
+    },
+    "pinyin": "pái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1796,
+    "simplified": "排名",
+    "translations": {
+      "ru": "рейтинг, список по порядку; ранжировать, находиться (на каком-либо месте в рейтинге)"
+    },
+    "pinyin": "páimíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1797,
+    "simplified": "牌子",
+    "translations": {
+      "ru": "бренд, торговая марка; дощечка, табличка, вывеска; репутация; мелодия цы (вида классической китайской поэзии) и цю (стиха для пения, популярного во времена династии Юань)"
+    },
+    "pinyin": "páizi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1798,
+    "simplified": "派",
+    "translations": {
+      "ru": "группировка; партия; фракция; школа (напр., научная)"
+    },
+    "pinyin": "pài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1799,
+    "simplified": "判断",
+    "translations": {
+      "ru": "определять, решать; решение; судить, оценивать; полагать; мнение; суждение; умозаключение"
+    },
+    "pinyin": "pànduàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1800,
+    "simplified": "胖",
+    "translations": {
+      "ru": "толстый, жирный"
+    },
+    "pinyin": "pàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1801,
+    "simplified": "跑步",
+    "translations": {
+      "ru": "бегать"
+    },
+    "pinyin": "pǎobù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1802,
+    "simplified": "配",
+    "translations": {
+      "ru": "соединять, смешивать; случать (животных); подходить, сочетаться; распределять, назначать; подбирать, подгонять; изгонять, высылать"
+    },
+    "pinyin": "pèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1803,
+    "simplified": "配合",
+    "translations": {
+      "ru": "сочетать, соединять, подбирать, комбинировать, координировать, взаимодействовать"
+    },
+    "pinyin": "pèihé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1804,
+    "simplified": "批评",
+    "translations": {
+      "ru": "критиковать; критика"
+    },
+    "pinyin": "pīpíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1805,
+    "simplified": "批准",
+    "translations": {
+      "ru": "утвердить; санкционировать; ратифицировать"
+    },
+    "pinyin": "pīzhǔn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1806,
+    "simplified": "皮",
+    "translations": {
+      "ru": "кожа, кожура, оболочка (зерна); кожа, мех; покров, обертка"
+    },
+    "pinyin": "pí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1807,
+    "simplified": "皮包",
+    "translations": {
+      "ru": "кожаная сумка или портфель"
+    },
+    "pinyin": "píbāo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1808,
+    "simplified": "啤酒",
+    "translations": {
+      "ru": "пиво"
+    },
+    "pinyin": "píjiǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1809,
+    "simplified": "票价",
+    "translations": {
+      "ru": "стоимость билета"
+    },
+    "pinyin": "piàojià",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1810,
+    "simplified": "评价",
+    "translations": {
+      "ru": "оценивать, давать оценку; оценка"
+    },
+    "pinyin": "píngjià",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1811,
+    "simplified": "苹果",
+    "translations": {
+      "ru": "яблоко"
+    },
+    "pinyin": "píngguǒ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1812,
+    "simplified": "破",
+    "translations": {
+      "ru": "сломать; разрушить; порвать; поранить; поломанный; разбитый; рваный; изношенный"
+    },
+    "pinyin": "pò",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1813,
+    "simplified": "破坏",
+    "translations": {
+      "ru": "разрушение; подрыв; нарушать; разрушать;"
+    },
+    "pinyin": "pòhuài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1814,
+    "simplified": "普遍",
+    "translations": {
+      "ru": "повсеместный; всеобщий, универсальный; распространённый"
+    },
+    "pinyin": "pǔbiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1815,
+    "simplified": "普及",
+    "translations": {
+      "ru": "популярный; распространяться; охватывать; популяризировать"
+    },
+    "pinyin": "pǔjí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1816,
+    "simplified": "期",
+    "translations": {
+      "ru": "[назначенное] время, срок; предел времени; на срок, к сроку, в срок; своевременно; период, цикл (напр. семестр, триместр, квартал); круг"
+    },
+    "pinyin": "qī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1817,
+    "simplified": "齐",
+    "translations": {
+      "ru": "ровный, аккуратный; одинаковый, идентичный; все готовы или присутствуют; одновременно"
+    },
+    "pinyin": "qí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1818,
+    "simplified": "其次",
+    "translations": {
+      "ru": "затем; потом; далее; следующий; во-вторых"
+    },
+    "pinyin": "qícì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1819,
+    "simplified": "其实",
+    "translations": {
+      "ru": "на самом деле"
+    },
+    "pinyin": "qíshí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1820,
+    "simplified": "奇怪",
+    "translations": {
+      "ru": "странный"
+    },
+    "pinyin": "qíguài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1821,
+    "simplified": "气候",
+    "translations": {
+      "ru": "климат; климатический; погода"
+    },
+    "pinyin": "qìhòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1822,
+    "simplified": "千万",
+    "translations": {
+      "ru": "во что бы то ни стало; ни в коем случае (перед отрицанием); 10 миллионов; множество (образно)"
+    },
+    "pinyin": "qiānwàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1823,
+    "simplified": "前后",
+    "translations": {
+      "ru": "(о времени) примерно, около; от начала до конца; спереди и сзади"
+    },
+    "pinyin": "qiánhòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1824,
+    "simplified": "前进",
+    "translations": {
+      "ru": "идти вперед, продвигаться"
+    },
+    "pinyin": "qiánjìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1825,
+    "simplified": "前面",
+    "translations": {
+      "ru": "спереди, впереди, перед"
+    },
+    "pinyin": "qiánmiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1826,
+    "simplified": "前往",
+    "translations": {
+      "ru": "направляться в"
+    },
+    "pinyin": "qiánwǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1827,
+    "simplified": "强",
+    "translations": {
+      "ru": "сильный, мощный; здоровый, дюжий, крепкий; твёрдый, стойкий; мощный, могущественный"
+    },
+    "pinyin": "qiáng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1828,
+    "simplified": "强大",
+    "translations": {
+      "ru": "великий и могучий, мощный, сильный"
+    },
+    "pinyin": "qiángdà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1829,
+    "simplified": "强调",
+    "translations": {
+      "ru": "подчёркивать, акцентировать, делать упор на"
+    },
+    "pinyin": "qiángdiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1830,
+    "simplified": "强烈",
+    "translations": {
+      "ru": "сильный; мощный; решительный; резкий"
+    },
+    "pinyin": "qiángliè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1831,
+    "simplified": "桥",
+    "translations": {
+      "ru": "мост"
+    },
+    "pinyin": "qiáo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1832,
+    "simplified": "巧",
+    "translations": {
+      "ru": "происходящий как раз кстати; умелый, искусный, ловкий; хитрый, лукавый"
+    },
+    "pinyin": "qiǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1833,
+    "simplified": "亲",
+    "translations": {
+      "ru": "родители (отец, мать); родительский; родня, родственники"
+    },
+    "pinyin": "qīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1834,
+    "simplified": "亲切",
+    "translations": {
+      "ru": "близкий, дружеский; тёплый, сердечный, интимный"
+    },
+    "pinyin": "qīnqiè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1835,
+    "simplified": "亲人",
+    "translations": {
+      "ru": "родственник, член семьи"
+    },
+    "pinyin": "qīnrén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1836,
+    "simplified": "亲自",
+    "translations": {
+      "ru": "лично; сам; собственной персоной"
+    },
+    "pinyin": "qīnzì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1837,
+    "simplified": "情感",
+    "translations": {
+      "ru": "чувства, эмоции"
+    },
+    "pinyin": "qínggǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1838,
+    "simplified": "情况",
+    "translations": {
+      "ru": "обстановка; обстоятельства; положение"
+    },
+    "pinyin": "qíngkuàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1839,
+    "simplified": "请教",
+    "translations": {
+      "ru": "просить совета; советоваться; просить указаний"
+    },
+    "pinyin": "qǐngjiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1840,
+    "simplified": "庆祝",
+    "translations": {
+      "ru": "праздновать; отмечать; чествовать"
+    },
+    "pinyin": "qìngzhù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1841,
+    "simplified": "球迷",
+    "translations": {
+      "ru": "болельщик; поклонники спорта"
+    },
+    "pinyin": "qiúmí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1842,
+    "simplified": "区",
+    "translations": {
+      "ru": "район, участок; округ, область, зона, ареал; районный, участковый, зональный"
+    },
+    "pinyin": "qū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1843,
+    "simplified": "区别",
+    "translations": {
+      "ru": "различать; отличать; различие, отличие"
+    },
+    "pinyin": "qūbié",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1844,
+    "simplified": "取消",
+    "translations": {
+      "ru": "аннулировать; упразднить; ликвидировать; отменить"
+    },
+    "pinyin": "qǔxiāo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1845,
+    "simplified": "去世",
+    "translations": {
+      "ru": "скончаться; умереть"
+    },
+    "pinyin": "qùshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1846,
+    "simplified": "全场",
+    "translations": {
+      "ru": "все присутствующие, вся аудитория, вся продолжительность (конкурса или матча)"
+    },
+    "pinyin": "quánchǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1847,
+    "simplified": "全面",
+    "translations": {
+      "ru": "всесторонний; всеобщий; полный"
+    },
+    "pinyin": "quánmiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1848,
+    "simplified": "全球",
+    "translations": {
+      "ru": "весь мир, во всем мире"
+    },
+    "pinyin": "quánqiú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1849,
+    "simplified": "缺",
+    "translations": {
+      "ru": "не хватать; быть неполным; иметь изъян; отсутствовать; вакансия, свободное место"
+    },
+    "pinyin": "quē",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1850,
+    "simplified": "缺点",
+    "translations": {
+      "ru": "недостаток; изъян; дефект"
+    },
+    "pinyin": "quēdiǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1851,
+    "simplified": "缺少",
+    "translations": {
+      "ru": "недоставать, не хватать; недостающий, нехватка"
+    },
+    "pinyin": "quēshǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1852,
+    "simplified": "确保",
+    "translations": {
+      "ru": "гарантировать; обеспечить"
+    },
+    "pinyin": "quèbǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1853,
+    "simplified": "确定",
+    "translations": {
+      "ru": "устанавливать, определять; констатировать; подтверждать"
+    },
+    "pinyin": "quèdìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1854,
+    "simplified": "确实",
+    "translations": {
+      "ru": "достоверный; действительный; в самом деле; действительно"
+    },
+    "pinyin": "quèshí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1855,
+    "simplified": "裙子",
+    "translations": {
+      "ru": "юбка"
+    },
+    "pinyin": "qúnzi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1856,
+    "simplified": "群",
+    "translations": {
+      "ru": "стадо, табун, отара, стая, рой, косяк (животных); толпа, скопище (людей)"
+    },
+    "pinyin": "qún",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1857,
+    "simplified": "热爱",
+    "translations": {
+      "ru": "горячо любить; горячая любовь"
+    },
+    "pinyin": "rèài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1858,
+    "simplified": "热烈",
+    "translations": {
+      "ru": "пламенный; горячий; страстный"
+    },
+    "pinyin": "rèliè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1859,
+    "simplified": "人才",
+    "translations": {
+      "ru": "таланты, способности; дарования; достоинства (человека); способный, талантливый"
+    },
+    "pinyin": "réncái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1860,
+    "simplified": "人工",
+    "translations": {
+      "ru": "искусственный; ручной труд; рабочая сила"
+    },
+    "pinyin": "réngōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1861,
+    "simplified": "人类",
+    "translations": {
+      "ru": "человечество; род человеческий"
+    },
+    "pinyin": "rénlèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1862,
+    "simplified": "人民",
+    "translations": {
+      "ru": "народ"
+    },
+    "pinyin": "rénmín",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1863,
+    "simplified": "人民币",
+    "translations": {
+      "ru": "китайский юань, жэньминьби, народная валюта (деньги КНР)"
+    },
+    "pinyin": "rénmínbì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1864,
+    "simplified": "人群",
+    "translations": {
+      "ru": "толпа"
+    },
+    "pinyin": "rénqún",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1865,
+    "simplified": "人生",
+    "translations": {
+      "ru": "жизнь человека; человеческий век"
+    },
+    "pinyin": "rénshēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1866,
+    "simplified": "人员",
+    "translations": {
+      "ru": "сотрудник, личный состав, штат, персонал, работники"
+    },
+    "pinyin": "rényuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1867,
+    "simplified": "认出",
+    "translations": {
+      "ru": "узнавать, признавать"
+    },
+    "pinyin": "rènchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1868,
+    "simplified": "认得",
+    "translations": {
+      "ru": "узнавать, признавать, быть знакомым с"
+    },
+    "pinyin": "rènde",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1869,
+    "simplified": "认可",
+    "translations": {
+      "ru": "признание, одобрение; позволять, разрешать"
+    },
+    "pinyin": "rènkě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1870,
+    "simplified": "任",
+    "translations": {
+      "ru": "назначать на должность; исполнять (обязанности); брать на себя, нести"
+    },
+    "pinyin": "rèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1871,
+    "simplified": "任",
+    "translations": {
+      "ru": "поручать дело (кому-либо); уполномочивать (кого-либо); использовать (кого-либо) на службе (работе)"
+    },
+    "pinyin": "rèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1872,
+    "simplified": "任何",
+    "translations": {
+      "ru": "любой; какой бы то ни было; всякий"
+    },
+    "pinyin": "rènhé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1873,
+    "simplified": "任务",
+    "translations": {
+      "ru": "задача; задание"
+    },
+    "pinyin": "rènwu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1874,
+    "simplified": "仍",
+    "translations": {
+      "ru": "до сих пор, все еще"
+    },
+    "pinyin": "réng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1875,
+    "simplified": "仍然",
+    "translations": {
+      "ru": "по-прежнему, до сих пор, всё ещё"
+    },
+    "pinyin": "réngrán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1876,
+    "simplified": "日常",
+    "translations": {
+      "ru": "повседневный; обыденный; текущий"
+    },
+    "pinyin": "rìcháng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1877,
+    "simplified": "容易",
+    "translations": {
+      "ru": "легкий, простой"
+    },
+    "pinyin": "róngyì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1878,
+    "simplified": "如何",
+    "translations": {
+      "ru": "как; каким образом"
+    },
+    "pinyin": "rúhé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1879,
+    "simplified": "散步",
+    "translations": {
+      "ru": "прогуливаться, гулять"
+    },
+    "pinyin": "sànbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1880,
+    "simplified": "沙发",
+    "translations": {
+      "ru": "софа, диван"
+    },
+    "pinyin": "shāfā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1881,
+    "simplified": "沙子",
+    "translations": {
+      "ru": "песок"
+    },
+    "pinyin": "shāzi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1882,
+    "simplified": "伤",
+    "translations": {
+      "ru": "травма, рана; ранить; приедаться, надоедать (обычно о еде)"
+    },
+    "pinyin": "shāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1883,
+    "simplified": "伤心",
+    "translations": {
+      "ru": "горевать, огорчаться, печалиться; ранить душу,"
+    },
+    "pinyin": "shāngxīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1884,
+    "simplified": "商品",
+    "translations": {
+      "ru": "товар; товары; товарный"
+    },
+    "pinyin": "shāngpǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1885,
+    "simplified": "商业",
+    "translations": {
+      "ru": "торговля, бизнес, коммерция"
+    },
+    "pinyin": "shāngyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1886,
+    "simplified": "上来",
+    "translations": {
+      "ru": "подниматься"
+    },
+    "pinyin": "shànglái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1887,
+    "simplified": "上面",
+    "translations": {
+      "ru": "верх, верхняя часть"
+    },
+    "pinyin": "shàngmiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1888,
+    "simplified": "上去",
+    "translations": {
+      "ru": "подниматься, идти вверх"
+    },
+    "pinyin": "shàngqù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1889,
+    "simplified": "上升",
+    "translations": {
+      "ru": "расти, подниматься, повышаться"
+    },
+    "pinyin": "shàngshēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1890,
+    "simplified": "上衣",
+    "translations": {
+      "ru": "пальто, куртка, пиджак"
+    },
+    "pinyin": "shàngyī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1891,
+    "simplified": "设备",
+    "translations": {
+      "ru": "оборудовать; оборудование"
+    },
+    "pinyin": "shèbèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1892,
+    "simplified": "设计",
+    "translations": {
+      "ru": "проектировать; конструировать; разрабатывать; проект; план"
+    },
+    "pinyin": "shèjì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1893,
+    "simplified": "设立",
+    "translations": {
+      "ru": "учредить; основать; создать; открыть (напр., больницу)"
+    },
+    "pinyin": "shèlì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1894,
+    "simplified": "社会",
+    "translations": {
+      "ru": "общество; общественный; социальный"
+    },
+    "pinyin": "shèhuì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1895,
+    "simplified": "身份证",
+    "translations": {
+      "ru": "удостоверение личности"
+    },
+    "pinyin": "shēnfènzhèng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1896,
+    "simplified": "深",
+    "translations": {
+      "ru": "глубокий; глубина; темный"
+    },
+    "pinyin": "shēn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1897,
+    "simplified": "深刻",
+    "translations": {
+      "ru": "глубокий; серьёзный; глубоко"
+    },
+    "pinyin": "shēnkè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1898,
+    "simplified": "深入",
+    "translations": {
+      "ru": "глубоко, тщательно; глубоко проникать, углубляться в"
+    },
+    "pinyin": "shēnrù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1899,
+    "simplified": "升",
+    "translations": {
+      "ru": "подниматься, восходить; повышаться, возвышаться"
+    },
+    "pinyin": "shēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1900,
+    "simplified": "生",
+    "translations": {
+      "ru": "сырой, неготовый, незнакомый"
+    },
+    "pinyin": "shēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1901,
+    "simplified": "生产",
+    "translations": {
+      "ru": "родить, родиться, рожать"
+    },
+    "pinyin": "shēngchǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1902,
+    "simplified": "生存",
+    "translations": {
+      "ru": "существовать; существование; выживание"
+    },
+    "pinyin": "shēngcún",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1903,
+    "simplified": "生动",
+    "translations": {
+      "ru": "живой; яркий; наглядный"
+    },
+    "pinyin": "shēngdòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1904,
+    "simplified": "生命",
+    "translations": {
+      "ru": "жизнь; жизненный; спасительный"
+    },
+    "pinyin": "shēngmìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1905,
+    "simplified": "生意",
+    "translations": {
+      "ru": "торговля, коммерция, бизнес"
+    },
+    "pinyin": "shēngyi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1906,
+    "simplified": "生长",
+    "translations": {
+      "ru": "расти, вырастать; рост"
+    },
+    "pinyin": "shēngzhǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1907,
+    "simplified": "声明",
+    "translations": {
+      "ru": "заявлять; заявление; декларация; сделать заявление"
+    },
+    "pinyin": "shēngmíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1908,
+    "simplified": "胜",
+    "translations": {
+      "ru": "выигрывать; одерживать победу над; превосходить"
+    },
+    "pinyin": "shèng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1909,
+    "simplified": "胜利",
+    "translations": {
+      "ru": "победа; успех; триумф; победить"
+    },
+    "pinyin": "shènglì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1910,
+    "simplified": "失去",
+    "translations": {
+      "ru": "потерять, утратить; лишиться, упустить"
+    },
+    "pinyin": "shīqù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1911,
+    "simplified": "石头",
+    "translations": {
+      "ru": "камень; каменный, мощённый камнем"
+    },
+    "pinyin": "shítou",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1912,
+    "simplified": "石油",
+    "translations": {
+      "ru": "нефть; нефтяной"
+    },
+    "pinyin": "shíyóu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1913,
+    "simplified": "时",
+    "translations": {
+      "ru": "время, годы; установленное время; (грам.) время; час"
+    },
+    "pinyin": "shí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1914,
+    "simplified": "时代",
+    "translations": {
+      "ru": "эпоха; эра; век; период"
+    },
+    "pinyin": "shídài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1915,
+    "simplified": "时刻",
+    "translations": {
+      "ru": "время; момент; постоянно; всё время"
+    },
+    "pinyin": "shíkè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1916,
+    "simplified": "实际上",
+    "translations": {
+      "ru": "на самом деле, в действительности"
+    },
+    "pinyin": "shíjìshàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1917,
+    "simplified": "实力",
+    "translations": {
+      "ru": "[реальная] сила, мощь"
+    },
+    "pinyin": "shílì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1918,
+    "simplified": "实行",
+    "translations": {
+      "ru": "осуществлять, проводить в жизнь"
+    },
+    "pinyin": "shíxíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1919,
+    "simplified": "实验",
+    "translations": {
+      "ru": "испытывать, экспериментировать; испытание, эксперимент, опыт"
+    },
+    "pinyin": "shíyàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1920,
+    "simplified": "实验室",
+    "translations": {
+      "ru": "лаборатория"
+    },
+    "pinyin": "shíyànshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1921,
+    "simplified": "食品",
+    "translations": {
+      "ru": "продовольствие, продукты питания"
+    },
+    "pinyin": "shípǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1922,
+    "simplified": "使",
+    "translations": {
+      "ru": "применять; побудить; заставить; привести (к тому, что); чтобы"
+    },
+    "pinyin": "shǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1923,
+    "simplified": "始终",
+    "translations": {
+      "ru": "с начала до конца; всё время; всегда"
+    },
+    "pinyin": "shǐzhōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1924,
+    "simplified": "世纪",
+    "translations": {
+      "ru": "век"
+    },
+    "pinyin": "shìjì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1925,
+    "simplified": "世界",
+    "translations": {
+      "ru": "мир, свет"
+    },
+    "pinyin": "shìjiè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1926,
+    "simplified": "世界杯",
+    "translations": {
+      "ru": "Кубок мира"
+    },
+    "pinyin": "shìjièbēi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1927,
+    "simplified": "市场",
+    "translations": {
+      "ru": "рынок, базар; базарная площадь"
+    },
+    "pinyin": "shìchǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1928,
+    "simplified": "事故",
+    "translations": {
+      "ru": "случай, случайность, инцидент, несчастный случай"
+    },
+    "pinyin": "shìgù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1929,
+    "simplified": "事件",
+    "translations": {
+      "ru": "инцидент; событие; дело"
+    },
+    "pinyin": "shìjiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1930,
+    "simplified": "事实",
+    "translations": {
+      "ru": "факт; обстоятельство; событие; явление"
+    },
+    "pinyin": "shìshí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1931,
+    "simplified": "事实上",
+    "translations": {
+      "ru": "на самом деле, в действительности, фактически"
+    },
+    "pinyin": "shìshíshàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1932,
+    "simplified": "事业",
+    "translations": {
+      "ru": "дело, деятельность; поприще; работа, занятие; предприятие"
+    },
+    "pinyin": "shìyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1933,
+    "simplified": "试题",
+    "translations": {
+      "ru": "экзаменационный вопрос"
+    },
+    "pinyin": "shìtí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1934,
+    "simplified": "试验",
+    "translations": {
+      "ru": "экспериментировать; испытывать; эксперимент; испытания; экспериментальный; опытный"
+    },
+    "pinyin": "shìyàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1935,
+    "simplified": "适合",
+    "translations": {
+      "ru": "соответствовать, подходить"
+    },
+    "pinyin": "shìhé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1936,
+    "simplified": "适应",
+    "translations": {
+      "ru": "годиться, соответствовать; приспособляться; приспособление, адаптация; адаптивный"
+    },
+    "pinyin": "shìyìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1937,
+    "simplified": "适用",
+    "translations": {
+      "ru": "подходящий, пригодный, применимый"
+    },
+    "pinyin": "shìyòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1938,
+    "simplified": "室",
+    "translations": {
+      "ru": "комната, помещение; офис, отдел; семья, клан; член семьи, жена; полость"
+    },
+    "pinyin": "shì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1939,
+    "simplified": "收费",
+    "translations": {
+      "ru": "взимать плату"
+    },
+    "pinyin": "shōufèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1940,
+    "simplified": "收看",
+    "translations": {
+      "ru": "смотреть (телепередачу)"
+    },
+    "pinyin": "shōukàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1941,
+    "simplified": "收听",
+    "translations": {
+      "ru": "слушать (радио, вещание)"
+    },
+    "pinyin": "shōutīng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1942,
+    "simplified": "收音机",
+    "translations": {
+      "ru": "радиоприёмник"
+    },
+    "pinyin": "shōuyīnjī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1943,
+    "simplified": "手续",
+    "translations": {
+      "ru": "формальности, процедура; порядок; оформление"
+    },
+    "pinyin": "shǒuxù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1944,
+    "simplified": "手指",
+    "translations": {
+      "ru": "палец (руки), перст"
+    },
+    "pinyin": "shǒuzhǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1945,
+    "simplified": "首都",
+    "translations": {
+      "ru": "столица"
+    },
+    "pinyin": "shǒudū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1946,
+    "simplified": "首先",
+    "translations": {
+      "ru": "прежде всего, первым делом, в первую очередь; сначала, сперва."
+    },
+    "pinyin": "shǒuxiān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1947,
+    "simplified": "受",
+    "translations": {
+      "ru": "выносить; получать; подвергаться; (разг.) быть приятным для."
+    },
+    "pinyin": "shòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1948,
+    "simplified": "受伤",
+    "translations": {
+      "ru": "получить травму; быть раненым, получить ранение"
+    },
+    "pinyin": "shòushāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1949,
+    "simplified": "书架",
+    "translations": {
+      "ru": "книжная полка; этажерка, стеллаж"
+    },
+    "pinyin": "shūjià",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1950,
+    "simplified": "输",
+    "translations": {
+      "ru": "транспортировать; перевозить; проиграть; потерпеть поражение"
+    },
+    "pinyin": "shū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1951,
+    "simplified": "输入",
+    "translations": {
+      "ru": "ввозить; импортировать; ввоз; импорт"
+    },
+    "pinyin": "shūrù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1952,
+    "simplified": "熟人",
+    "translations": {
+      "ru": "знакомый, знакомый человек"
+    },
+    "pinyin": "shúrén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1953,
+    "simplified": "属",
+    "translations": {
+      "ru": "принадлежать к…, относиться к…; входить в состав, быть (становиться) составной частью (чего-либо)"
+    },
+    "pinyin": "shǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1954,
+    "simplified": "属于",
+    "translations": {
+      "ru": "принадлежать, относиться (к чему-либо); входить в состав (чего-либо)"
+    },
+    "pinyin": "shǔyú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1955,
+    "simplified": "束",
+    "translations": {
+      "ru": "связать; перевязать; (сч. сл.) связка; пучок; букет"
+    },
+    "pinyin": "shù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1956,
+    "simplified": "数量",
+    "translations": {
+      "ru": "количество, число; цифра; количественный"
+    },
+    "pinyin": "shùliàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1957,
+    "simplified": "双",
+    "translations": {
+      "ru": "пара"
+    },
+    "pinyin": "shuāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1958,
+    "simplified": "双方",
+    "translations": {
+      "ru": "обе стороны; двусторонний; обоюдный"
+    },
+    "pinyin": "shuāngfāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1959,
+    "simplified": "思想",
+    "translations": {
+      "ru": "мысль, идея; идеология; мышление, образ мыслей"
+    },
+    "pinyin": "sīxiǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1960,
+    "simplified": "死",
+    "translations": {
+      "ru": "умирать, смерть, смертельный, мертвый, до смерти"
+    },
+    "pinyin": "sǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1961,
+    "simplified": "速度",
+    "translations": {
+      "ru": "скорость"
+    },
+    "pinyin": "sùdù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1962,
+    "simplified": "随",
+    "translations": {
+      "ru": "следовать; соответствовать; разрешать действовать по желанию; (разг.) походить на, выглядеть как; вместе с"
+    },
+    "pinyin": "suí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1963,
+    "simplified": "所",
+    "translations": {
+      "ru": "бюро, учреждение; место, положение; счетное слово для учреждений (напр., школа, больница и т.д.); счетное слово для зданий"
+    },
+    "pinyin": "suǒ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1964,
+    "simplified": "所长",
+    "translations": {
+      "ru": "глава (директор, начальник, заведующий)"
+    },
+    "pinyin": "suǒzhǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1965,
+    "simplified": "台",
+    "translations": {
+      "ru": "башня; вышка; сцена, арена; (тех.) стенд; пульт; прилавок; стол; настольный; (сч. сл. для машин/механизмов); (сокр.) Тайвань"
+    },
+    "pinyin": "tái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1966,
+    "simplified": "谈",
+    "translations": {
+      "ru": "беседовать, разговаривать; разговоры"
+    },
+    "pinyin": "tán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1967,
+    "simplified": "谈话",
+    "translations": {
+      "ru": "разговаривать; разговор"
+    },
+    "pinyin": "tánhuà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1968,
+    "simplified": "谈判",
+    "translations": {
+      "ru": "переговоры; договариваться; обсуждать; вести переговоры"
+    },
+    "pinyin": "tánpàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1969,
+    "simplified": "汤",
+    "translations": {
+      "ru": "отвар; бульон; суп"
+    },
+    "pinyin": "tāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1970,
+    "simplified": "糖",
+    "translations": {
+      "ru": "сахар; конфеты"
+    },
+    "pinyin": "táng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1971,
+    "simplified": "特色",
+    "translations": {
+      "ru": "характерная черта, свойство, особенность"
+    },
+    "pinyin": "tèsè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1972,
+    "simplified": "提前",
+    "translations": {
+      "ru": "быть досрочным, ускоренным; досрочный, ускоренный; до срока, досрочно, заранее, заблаговременно"
+    },
+    "pinyin": "tíqián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1973,
+    "simplified": "提问",
+    "translations": {
+      "ru": "опрашивать, вести опрос ; задавать вопросы, спрашивать"
+    },
+    "pinyin": "tíwèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1974,
+    "simplified": "题目",
+    "translations": {
+      "ru": "заглавие; название; заголовок; наименование; тема, сюжет"
+    },
+    "pinyin": "tímù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1975,
+    "simplified": "体会",
+    "translations": {
+      "ru": "уяснить, понять; представление (о чём-либо); соображения; впечатление, опыт"
+    },
+    "pinyin": "tǐhuì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1976,
+    "simplified": "体现",
+    "translations": {
+      "ru": "воплощать(-ся), осуществлять(-ся); выражаться, проявляться; воплощение, выражение, проявление"
+    },
+    "pinyin": "tǐxiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1977,
+    "simplified": "体验",
+    "translations": {
+      "ru": "познать, постичь (на собственном опыте); опыт"
+    },
+    "pinyin": "tǐyàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1978,
+    "simplified": "天空",
+    "translations": {
+      "ru": "небесное пространство, небо"
+    },
+    "pinyin": "tiānkōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1979,
+    "simplified": "甜",
+    "translations": {
+      "ru": "сладкий"
+    },
+    "pinyin": "tián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1980,
+    "simplified": "调",
+    "translations": {
+      "ru": "подходить, быть соответствующим (своевременным); гармонировать; быть в должном порядке, быть хорошо отрегулированным (настроенным); быть мягким (ровным, тихим, послушным); составлять, смешивать (в нужной пропорции); приправлять, заправлять (кушанье); мирить, примирять; флиртовать"
+    },
+    "pinyin": "tiáo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1981,
+    "simplified": "调整",
+    "translations": {
+      "ru": "регулировать, настраивать, упорядочивать, приводить в порядок; налаживать"
+    },
+    "pinyin": "tiáozhěng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1982,
+    "simplified": "跳",
+    "translations": {
+      "ru": "прыгать, скакать, перескакивать; отскакивать; биться, пульсировать; пропускать, перепрыгивать через"
+    },
+    "pinyin": "tiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1983,
+    "simplified": "跳高",
+    "translations": {
+      "ru": "(спорт.) прыжки в высоту"
+    },
+    "pinyin": "tiàogāo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1984,
+    "simplified": "跳舞",
+    "translations": {
+      "ru": "танцевать (букв. прыгать + танец)"
+    },
+    "pinyin": "tiàowǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1985,
+    "simplified": "跳远",
+    "translations": {
+      "ru": "(спорт.) прыжки в длину"
+    },
+    "pinyin": "tiàoyuǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1986,
+    "simplified": "铁",
+    "translations": {
+      "ru": "железо; непоколебимый; твердый, прочный; жестокий, беспощадный"
+    },
+    "pinyin": "tiě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1987,
+    "simplified": "铁路",
+    "translations": {
+      "ru": "железная дорога"
+    },
+    "pinyin": "tiělù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1988,
+    "simplified": "听力",
+    "translations": {
+      "ru": "слух; (при изучении языка) аудирование, восприятие на слух"
+    },
+    "pinyin": "tīnglì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1989,
+    "simplified": "听众",
+    "translations": {
+      "ru": "слушатели, аудитория"
+    },
+    "pinyin": "tīngzhòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1990,
+    "simplified": "停止",
+    "translations": {
+      "ru": "прекращать, останавливаться"
+    },
+    "pinyin": "tíngzhǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1991,
+    "simplified": "通常",
+    "translations": {
+      "ru": "обычный, обыкновенный; обычно, как правило"
+    },
+    "pinyin": "tōngcháng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1992,
+    "simplified": "通信",
+    "translations": {
+      "ru": "обмениваться письмами, передавать сообщение; связь, коммуникация"
+    },
+    "pinyin": "tōngxìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1993,
+    "simplified": "同意",
+    "translations": {
+      "ru": "соглашаться"
+    },
+    "pinyin": "tóngyì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1994,
+    "simplified": "痛",
+    "translations": {
+      "ru": "больной, болезненный"
+    },
+    "pinyin": "tòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1995,
+    "simplified": "痛苦",
+    "translations": {
+      "ru": "мучиться, страдать; страдание, мучение; болезненный"
+    },
+    "pinyin": "tòngkǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1996,
+    "simplified": "头",
+    "translations": {
+      "ru": "первый (перед числительным); прошлый, прошедший"
+    },
+    "pinyin": "tóu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1997,
+    "simplified": "头脑",
+    "translations": {
+      "ru": "мозг, ум, разум"
+    },
+    "pinyin": "tóunǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1998,
+    "simplified": "突出",
+    "translations": {
+      "ru": "прорваться (напр., из окружения), выступать; возвышаться, хорошо заметный; разительный"
+    },
+    "pinyin": "tūchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 1999,
+    "simplified": "突然",
+    "translations": {
+      "ru": "вдруг, неожиданный"
+    },
+    "pinyin": "tūrán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2000,
+    "simplified": "图",
+    "translations": {
+      "ru": "рисунок"
+    },
+    "pinyin": "tú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2001,
+    "simplified": "图画",
+    "translations": {
+      "ru": "иллюстрация, рисунок, рисование, живопись"
+    },
+    "pinyin": "túhuà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2002,
+    "simplified": "土",
+    "translations": {
+      "ru": "почва, земля, территория"
+    },
+    "pinyin": "tǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2003,
+    "simplified": "团",
+    "translations": {
+      "ru": "группа; труппа; союз; организация, скопление; сгусток; сборка"
+    },
+    "pinyin": "tuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2004,
+    "simplified": "团结",
+    "translations": {
+      "ru": "сплачивать(ся); сплочение; сплочённость; солидарность"
+    },
+    "pinyin": "tuánjié",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2005,
+    "simplified": "团体",
+    "translations": {
+      "ru": "коллектив; группа; организация"
+    },
+    "pinyin": "tuántǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2006,
+    "simplified": "推动",
+    "translations": {
+      "ru": "подталкивать, продвигать вперед, способствовать"
+    },
+    "pinyin": "tuīdòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2007,
+    "simplified": "推广",
+    "translations": {
+      "ru": "расширять, развивать, внедрять, распространять; популяризировать; продвигать (товар); развитие, внедрение"
+    },
+    "pinyin": "tuīguǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2008,
+    "simplified": "推进",
+    "translations": {
+      "ru": "двигать вперед, продвигать; продвигаться вперед (напр., о войсках)"
+    },
+    "pinyin": "tuījìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2009,
+    "simplified": "推开",
+    "translations": {
+      "ru": "открывать (ворота и т.д.), отталкивать; отвергать, отказываться"
+    },
+    "pinyin": "tuīkāi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2010,
+    "simplified": "退",
+    "translations": {
+      "ru": "отступать, отходить назад, вернуть, отдать назад, выйти (напр., из организации)"
+    },
+    "pinyin": "tuì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2011,
+    "simplified": "退出",
+    "translations": {
+      "ru": "выходить из, оставлять, покидать"
+    },
+    "pinyin": "tuìchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2012,
+    "simplified": "退休",
+    "translations": {
+      "ru": "уйти на пенсию; выйти в отставку"
+    },
+    "pinyin": "tuìxiū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2013,
+    "simplified": "外交",
+    "translations": {
+      "ru": "дипломатические (международные) отношения; дипломатия; дипломатический"
+    },
+    "pinyin": "wàijiāo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2014,
+    "simplified": "外面",
+    "translations": {
+      "ru": "внешняя часть, поверхность"
+    },
+    "pinyin": "wàimiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2015,
+    "simplified": "外文",
+    "translations": {
+      "ru": "иностранный язык; иностранная письменность"
+    },
+    "pinyin": "wàiwén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2016,
+    "simplified": "完美",
+    "translations": {
+      "ru": "прекрасный, совершенный, идеальный; превосходный"
+    },
+    "pinyin": "wánměi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2017,
+    "simplified": "完善",
+    "translations": {
+      "ru": "превосходный, совершенный; совершенствовать"
+    },
+    "pinyin": "wánshàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2018,
+    "simplified": "完整",
+    "translations": {
+      "ru": "целостный; целый; законченный; цельный"
+    },
+    "pinyin": "wánzhěng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2019,
+    "simplified": "玩具",
+    "translations": {
+      "ru": "игрушка, побрякушка, безделушка; забава"
+    },
+    "pinyin": "wánjù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2020,
+    "simplified": "往往",
+    "translations": {
+      "ru": "зачастую, часто"
+    },
+    "pinyin": "wǎngwǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2021,
+    "simplified": "危害",
+    "translations": {
+      "ru": "наносить ущерб; подвергать опасности, риску; создавать угрозу безопасности; вред"
+    },
+    "pinyin": "wēihài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2022,
+    "simplified": "危险",
+    "translations": {
+      "ru": "опасность; риск; опасный; угрожающий"
+    },
+    "pinyin": "wēixiǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2023,
+    "simplified": "为",
+    "translations": {
+      "ru": "делать, действовать; действовать в качестве; становиться; быть, являться; (используется вместе с 所 в страдательном залоге)"
+    },
+    "pinyin": "wèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2024,
+    "simplified": "为",
+    "translations": {
+      "ru": "для, ради, с целью"
+    },
+    "pinyin": "wèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2025,
+    "simplified": "围",
+    "translations": {
+      "ru": "окружать, ограждать, осаждать; обхват рук; пядь, расстояние от большого до указательного пальца"
+    },
+    "pinyin": "wéi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2026,
+    "simplified": "伟大",
+    "translations": {
+      "ru": "великий; величие"
+    },
+    "pinyin": "wěidà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2027,
+    "simplified": "卫生",
+    "translations": {
+      "ru": "санитария, гигиена, здравоохранение"
+    },
+    "pinyin": "wèishēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2028,
+    "simplified": "卫生间",
+    "translations": {
+      "ru": "туалет"
+    },
+    "pinyin": "wèishēngjiān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2029,
+    "simplified": "为了",
+    "translations": {
+      "ru": "для, ради, с целью (в значении “для того, чтобы”)"
+    },
+    "pinyin": "wèile",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2030,
+    "simplified": "温暖",
+    "translations": {
+      "ru": "тёплый, мягкий, умеренный (о климате)"
+    },
+    "pinyin": "wēnnuǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2031,
+    "simplified": "文化",
+    "translations": {
+      "ru": "культура"
+    },
+    "pinyin": "wénhuà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2032,
+    "simplified": "文件",
+    "translations": {
+      "ru": "документ (напр., деловой); файл (комп.)"
+    },
+    "pinyin": "wénjiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2033,
+    "simplified": "文明",
+    "translations": {
+      "ru": "цивилизация; культура; цивилизованный; культурный;"
+    },
+    "pinyin": "wénmíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2034,
+    "simplified": "文学",
+    "translations": {
+      "ru": "литература; литературный"
+    },
+    "pinyin": "wénxué",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2035,
+    "simplified": "文章",
+    "translations": {
+      "ru": "статья; сочинение"
+    },
+    "pinyin": "wénzhāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2036,
+    "simplified": "文字",
+    "translations": {
+      "ru": "письменность; письмо; письменные знаки"
+    },
+    "pinyin": "wénzì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2037,
+    "simplified": "握手",
+    "translations": {
+      "ru": "пожать руку; жать руку"
+    },
+    "pinyin": "wòshǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2038,
+    "simplified": "屋子",
+    "translations": {
+      "ru": "комната; квартира; дом"
+    },
+    "pinyin": "wūzi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2039,
+    "simplified": "武器",
+    "translations": {
+      "ru": "оружие"
+    },
+    "pinyin": "wǔqì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2040,
+    "simplified": "武术",
+    "translations": {
+      "ru": "ушу (вид единоборств); боевое искусство (в широком смысле)"
+    },
+    "pinyin": "wǔshù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2041,
+    "simplified": "舞台",
+    "translations": {
+      "ru": "сцена, арена"
+    },
+    "pinyin": "wǔtái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2042,
+    "simplified": "西部",
+    "translations": {
+      "ru": "западная часть"
+    },
+    "pinyin": "xībù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2043,
+    "simplified": "希望",
+    "translations": {
+      "ru": "надежда, надеяться"
+    },
+    "pinyin": "xīwàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2044,
+    "simplified": "系",
+    "translations": {
+      "ru": "система; генеалогия; связь; факультет; привязывать; связывать"
+    },
+    "pinyin": "xì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2045,
+    "simplified": "下来",
+    "translations": {
+      "ru": "спускаться, выходить"
+    },
+    "pinyin": "xiàlái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2046,
+    "simplified": "下面",
+    "translations": {
+      "ru": "снизу; следующий; нижестоящий, подчиненный"
+    },
+    "pinyin": "xiàmiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2047,
+    "simplified": "下去",
+    "translations": {
+      "ru": "спускаться, опускаться"
+    },
+    "pinyin": "xiàqù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2048,
+    "simplified": "先进",
+    "translations": {
+      "ru": "передовой, прогрессивный"
+    },
+    "pinyin": "xiānjìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2049,
+    "simplified": "显得",
+    "translations": {
+      "ru": "выглядеть, проявлять себя (в качестве), казаться (каким-либо)"
+    },
+    "pinyin": "xiǎnde",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2050,
+    "simplified": "显然",
+    "translations": {
+      "ru": "ясный, явный; очевидно; заметно; явно"
+    },
+    "pinyin": "xiǎnrán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2051,
+    "simplified": "显示",
+    "translations": {
+      "ru": "продемонстрировать; показать; проявление; демонстрация"
+    },
+    "pinyin": "xiǎnshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2052,
+    "simplified": "现场",
+    "translations": {
+      "ru": "место (происшествия, проведения работ); на месте; на площадке"
+    },
+    "pinyin": "xiànchǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2053,
+    "simplified": "现代",
+    "translations": {
+      "ru": "современный; новейший (об истории); современность"
+    },
+    "pinyin": "xiàndài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2054,
+    "simplified": "现金",
+    "translations": {
+      "ru": "наличные деньги; валюта"
+    },
+    "pinyin": "xiànjīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2055,
+    "simplified": "现实",
+    "translations": {
+      "ru": "реальность; действительность; реальный; подлинный"
+    },
+    "pinyin": "xiànshí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2056,
+    "simplified": "现象",
+    "translations": {
+      "ru": "явление; феномен; категория, проявление, признак"
+    },
+    "pinyin": "xiànxiàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2057,
+    "simplified": "线",
+    "translations": {
+      "ru": "нить, струна; хлопок, шерсть; транспортный путь, трасса; (геом.) линия; (с абстрактными существительными) немного"
+    },
+    "pinyin": "xiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2058,
+    "simplified": "相比",
+    "translations": {
+      "ru": "сравнивать (с)"
+    },
+    "pinyin": "xiāngbǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2059,
+    "simplified": "相当",
+    "translations": {
+      "ru": "подходить; подходящий; соответствующий; довольно; достаточно"
+    },
+    "pinyin": "xiāngdāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2060,
+    "simplified": "相关",
+    "translations": {
+      "ru": "касаться, быть связанным с, быть зависимым от; относиться к, касающийся"
+    },
+    "pinyin": "xiāngguān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2061,
+    "simplified": "相互",
+    "translations": {
+      "ru": "взаимно, друг друга"
+    },
+    "pinyin": "xiānghù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2062,
+    "simplified": "相似",
+    "translations": {
+      "ru": "быть похожим (подобным); похожий; сходный; аналогичный; подобный; подобие"
+    },
+    "pinyin": "xiāngsì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2063,
+    "simplified": "香",
+    "translations": {
+      "ru": "ароматный; вкусный; аппетитный; курительные свечи, курения"
+    },
+    "pinyin": "xiāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2064,
+    "simplified": "香蕉",
+    "translations": {
+      "ru": "банан"
+    },
+    "pinyin": "xiāngjiāo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2065,
+    "simplified": "消费",
+    "translations": {
+      "ru": "потреблять; потребление; потребительский"
+    },
+    "pinyin": "xiāofèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2066,
+    "simplified": "消失",
+    "translations": {
+      "ru": "исчезать, пропадать, сходить на нет; вымереть"
+    },
+    "pinyin": "xiāoshī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2067,
+    "simplified": "消息",
+    "translations": {
+      "ru": "новость, известие, сообщение, информация"
+    },
+    "pinyin": "xiāoxi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2068,
+    "simplified": "效果",
+    "translations": {
+      "ru": "результат, успех, эффект"
+    },
+    "pinyin": "xiàoguǒ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2069,
+    "simplified": "写作",
+    "translations": {
+      "ru": "писать; сочинять; творчество (писателя); творческий"
+    },
+    "pinyin": "xiězuò",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2070,
+    "simplified": "血",
+    "translations": {
+      "ru": "кровь, кров.яной, кровавый; кровопролитный"
+    },
+    "pinyin": "xuè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2071,
+    "simplified": "心",
+    "translations": {
+      "ru": "сердце; мысль, настроение; чувство; желание; душа, дух; сердцевина, центр"
+    },
+    "pinyin": "xīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2072,
+    "simplified": "信",
+    "translations": {
+      "ru": "верить; (в религии) исповедовать"
+    },
+    "pinyin": "xìn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2073,
+    "simplified": "信封",
+    "translations": {
+      "ru": "конверт"
+    },
+    "pinyin": "xìnfēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2074,
+    "simplified": "信任",
+    "translations": {
+      "ru": "доверие; доверять"
+    },
+    "pinyin": "xìnrèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2075,
+    "simplified": "行李",
+    "translations": {
+      "ru": "багаж"
+    },
+    "pinyin": "xíngli",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2076,
+    "simplified": "形成",
+    "translations": {
+      "ru": "формироваться, складываться; формирование, образование"
+    },
+    "pinyin": "xíngchéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2077,
+    "simplified": "形式",
+    "translations": {
+      "ru": "форма; внешний вид, внешность, облик, фигура; тип, вид"
+    },
+    "pinyin": "xíngshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2078,
+    "simplified": "形象",
+    "translations": {
+      "ru": "фигура, форма; образ; имидж; изображение; наружность; образный, изобразительный"
+    },
+    "pinyin": "xíngxiàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2079,
+    "simplified": "形状",
+    "translations": {
+      "ru": "внешний вид, форма; контур, силуэт, очертание; состояние"
+    },
+    "pinyin": "xíngzhuàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2080,
+    "simplified": "幸福",
+    "translations": {
+      "ru": "счастье; благополучие; благосклонность судьбы; счастливый"
+    },
+    "pinyin": "xìngfú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2081,
+    "simplified": "幸运",
+    "translations": {
+      "ru": "счастливая возможность; удача, везение; счастье"
+    },
+    "pinyin": "xìngyùn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2082,
+    "simplified": "性（积极性）",
+    "translations": {
+      "ru": "суффикс имён существительных, обозначающих характер, качество, свойство, способность, присутствие чего-либо (ср. русск. -ость)"
+    },
+    "pinyin": "xìng (jījíxìng)",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2083,
+    "simplified": "性别",
+    "translations": {
+      "ru": "пол; половые различия"
+    },
+    "pinyin": "xìngbié",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2084,
+    "simplified": "性格",
+    "translations": {
+      "ru": "природа, характер, натура; темперамент"
+    },
+    "pinyin": "xìnggé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2085,
+    "simplified": "修",
+    "translations": {
+      "ru": "чинить, ремонтировать, исправлять"
+    },
+    "pinyin": "xiū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2086,
+    "simplified": "修改",
+    "translations": {
+      "ru": "изменять, вносить поправки, пересматривать, редактировать, переделывать"
+    },
+    "pinyin": "xiūgǎi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2087,
+    "simplified": "需求",
+    "translations": {
+      "ru": "потребность, спрос, запрос"
+    },
+    "pinyin": "xūqiú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2088,
+    "simplified": "需要",
+    "translations": {
+      "ru": "нужно, нуждаться, необходимо, потребность, спрос"
+    },
+    "pinyin": "xūyào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2089,
+    "simplified": "宣布",
+    "translations": {
+      "ru": "объявлять, опубликовывать, обнародовать, провозглашать; объявление, провозглашение"
+    },
+    "pinyin": "xuānbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2090,
+    "simplified": "宣传",
+    "translations": {
+      "ru": "пропагандировать; агитировать, распространять; пропаганда; агитация"
+    },
+    "pinyin": "xuānchuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2091,
+    "simplified": "选手",
+    "translations": {
+      "ru": "участник (соревнований), конкурсант, игрок"
+    },
+    "pinyin": "xuǎnshǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2092,
+    "simplified": "学费",
+    "translations": {
+      "ru": "плата за обучение"
+    },
+    "pinyin": "xuéfèi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2093,
+    "simplified": "训练",
+    "translations": {
+      "ru": "обучать; готовить; подготовка, тренировать; дрессировать"
+    },
+    "pinyin": "xùnliàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2094,
+    "simplified": "压",
+    "translations": {
+      "ru": "давить, жать; пригибать, подминать; сжимать, тискать; нажим, давление"
+    },
+    "pinyin": "yā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2095,
+    "simplified": "压力",
+    "translations": {
+      "ru": "давление, сила давления"
+    },
+    "pinyin": "yālì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2096,
+    "simplified": "烟",
+    "translations": {
+      "ru": "дым; сигарета, сигара; табак; (о дыме) разъедать"
+    },
+    "pinyin": "yān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2097,
+    "simplified": "眼前",
+    "translations": {
+      "ru": "перед глазами; теперь, в настоящее время"
+    },
+    "pinyin": "yǎnqián",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2098,
+    "simplified": "演",
+    "translations": {
+      "ru": "исполнять, играть (пьесу, роль и т.д.)"
+    },
+    "pinyin": "yǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2099,
+    "simplified": "演唱",
+    "translations": {
+      "ru": "петь (на сцене)"
+    },
+    "pinyin": "yǎnchàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2100,
+    "simplified": "演唱会",
+    "translations": {
+      "ru": "вокальный концерт"
+    },
+    "pinyin": "yǎnchànghuì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2101,
+    "simplified": "演出",
+    "translations": {
+      "ru": "представлять; исполнять; представление, выступление"
+    },
+    "pinyin": "yǎnchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2102,
+    "simplified": "演员",
+    "translations": {
+      "ru": "артист, актёр"
+    },
+    "pinyin": "yǎnyuán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2103,
+    "simplified": "羊",
+    "translations": {
+      "ru": "овца, баран"
+    },
+    "pinyin": "yáng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2104,
+    "simplified": "阳光",
+    "translations": {
+      "ru": "солнечный свет, солнце; солнечный"
+    },
+    "pinyin": "yángguāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2105,
+    "simplified": "要是",
+    "translations": {
+      "ru": "если; должен быть, должен являться"
+    },
+    "pinyin": "yàoshi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2106,
+    "simplified": "衣架",
+    "translations": {
+      "ru": "вешалка, плечики для одежды"
+    },
+    "pinyin": "yījià",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2107,
+    "simplified": "一切",
+    "translations": {
+      "ru": "весь, целиком; все, всё; огульно; все и вся"
+    },
+    "pinyin": "yíqiè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2108,
+    "simplified": "已",
+    "translations": {
+      "ru": "уже; (книжн.) потом, затем; (книжн.) слишком, чересчур"
+    },
+    "pinyin": "yǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2109,
+    "simplified": "以来",
+    "translations": {
+      "ru": "с того времени, как; за время…; на протяжении"
+    },
+    "pinyin": "yǐlái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2110,
+    "simplified": "一方面",
+    "translations": {
+      "ru": "одна сторона; с одной стороны…"
+    },
+    "pinyin": "yìfāngmiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2111,
+    "simplified": "艺术",
+    "translations": {
+      "ru": "искусство, художество; художественный"
+    },
+    "pinyin": "yìshù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2112,
+    "simplified": "意外",
+    "translations": {
+      "ru": "неожиданный; непредвиденный, непредвиденный случай; случайность, беда"
+    },
+    "pinyin": "yìwài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2113,
+    "simplified": "意义",
+    "translations": {
+      "ru": "смысл; значение"
+    },
+    "pinyin": "yìyì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2114,
+    "simplified": "因此",
+    "translations": {
+      "ru": "поэтому, ввиду этого, по указанной причине"
+    },
+    "pinyin": "yīncǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2115,
+    "simplified": "银",
+    "translations": {
+      "ru": "серебро; серебряный; серебристый"
+    },
+    "pinyin": "yín",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2116,
+    "simplified": "银牌",
+    "translations": {
+      "ru": "серебряная медаль"
+    },
+    "pinyin": "yínpái",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2117,
+    "simplified": "印象",
+    "translations": {
+      "ru": "впечатление; представление; имидж; эффект"
+    },
+    "pinyin": "yìnxiàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2118,
+    "simplified": "应当",
+    "translations": {
+      "ru": "быть должным; следует, полагается, должно; причитаться, полагаться; надлежащий, положенный; достойный"
+    },
+    "pinyin": "yīngdāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2119,
+    "simplified": "迎接",
+    "translations": {
+      "ru": "встречать; встреча, приём"
+    },
+    "pinyin": "yíngjiē",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2120,
+    "simplified": "营养",
+    "translations": {
+      "ru": "питание; питать, питательные вещества; питание"
+    },
+    "pinyin": "yíngyǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2121,
+    "simplified": "赢",
+    "translations": {
+      "ru": "выигрывать, побеждать"
+    },
+    "pinyin": "yíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2122,
+    "simplified": "影视",
+    "translations": {
+      "ru": "кино и телевидение"
+    },
+    "pinyin": "yǐngshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2123,
+    "simplified": "应用",
+    "translations": {
+      "ru": "применять; использовать; прикладной"
+    },
+    "pinyin": "yìngyòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2124,
+    "simplified": "优点",
+    "translations": {
+      "ru": "плюс, положительная сторона, достоинство, преимущество"
+    },
+    "pinyin": "yōudiǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2125,
+    "simplified": "优势",
+    "translations": {
+      "ru": "преимущество; превосходство"
+    },
+    "pinyin": "yōushì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2126,
+    "simplified": "由",
+    "translations": {
+      "ru": "(предлог) из; от; с; через; следовать кому- либо/чему-либо; причина; повод"
+    },
+    "pinyin": "yóu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2127,
+    "simplified": "由于",
+    "translations": {
+      "ru": "по причине; из-за; вследствие; ввиду того, что; в связи с; благодаря тому, что"
+    },
+    "pinyin": "yóuyú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2128,
+    "simplified": "邮件",
+    "translations": {
+      "ru": "почта, почтовое отправление"
+    },
+    "pinyin": "yóujiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2129,
+    "simplified": "邮票",
+    "translations": {
+      "ru": "почтовая марка"
+    },
+    "pinyin": "yóupiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2130,
+    "simplified": "邮箱",
+    "translations": {
+      "ru": "почтовый ящик"
+    },
+    "pinyin": "yóuxiāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2131,
+    "simplified": "游",
+    "translations": {
+      "ru": "путешествовать, странствовать, бродить, скитаться"
+    },
+    "pinyin": "yóu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2132,
+    "simplified": "游戏",
+    "translations": {
+      "ru": "игра, забава"
+    },
+    "pinyin": "yóuxì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2133,
+    "simplified": "游泳",
+    "translations": {
+      "ru": "плавать"
+    },
+    "pinyin": "yóuyǒng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2134,
+    "simplified": "有的是",
+    "translations": {
+      "ru": "сколько угодно, хоть отбавляй, полным-полно"
+    },
+    "pinyin": "yǒudeshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2135,
+    "simplified": "有利",
+    "translations": {
+      "ru": "выгодный; доходный; благоприятный; полезный; перспективный"
+    },
+    "pinyin": "yǒulì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2136,
+    "simplified": "有效",
+    "translations": {
+      "ru": "эффективный, действительный"
+    },
+    "pinyin": "yǒuxiào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2137,
+    "simplified": "预报",
+    "translations": {
+      "ru": "прогноз (напр., погоды); прогнозировать"
+    },
+    "pinyin": "yùbào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2138,
+    "simplified": "预防",
+    "translations": {
+      "ru": "принимать меры предосторожности, оберегаться; предохранять, предотвращать (что-либо); предосторожность, профилактика"
+    },
+    "pinyin": "yùfáng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2139,
+    "simplified": "预计",
+    "translations": {
+      "ru": "прикидывать, заранее рассчитывать, ожидать"
+    },
+    "pinyin": "yùjì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2140,
+    "simplified": "预习",
+    "translations": {
+      "ru": "подготовительный упражнение; тренировать предварительно"
+    },
+    "pinyin": "yùxí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2141,
+    "simplified": "员（服务员）",
+    "translations": {
+      "ru": "словообразовательный элемент существительных, обозначающих лиц некоторых профессий и специальностей, а также членство в организации"
+    },
+    "pinyin": "yuán (fúwùyuán)",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2142,
+    "simplified": "员工",
+    "translations": {
+      "ru": "служащие и рабочие; сотрудник, работник, работник по найму, персонал"
+    },
+    "pinyin": "yuángōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2143,
+    "simplified": "愿望",
+    "translations": {
+      "ru": "желания, надежды, чаяния"
+    },
+    "pinyin": "yuànwàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2144,
+    "simplified": "约",
+    "translations": {
+      "ru": "договариваться, назначать встречу; приглашать; около, примерно"
+    },
+    "pinyin": "yuē",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2145,
+    "simplified": "乐队",
+    "translations": {
+      "ru": "музыкальная группа"
+    },
+    "pinyin": "yuèduì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2146,
+    "simplified": "运输",
+    "translations": {
+      "ru": "перевозить, транспортировать; перевозка, провоз; транспорт; транспортный"
+    },
+    "pinyin": "yùnshū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2147,
+    "simplified": "杂志",
+    "translations": {
+      "ru": "журнал"
+    },
+    "pinyin": "zázhì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2148,
+    "simplified": "早已",
+    "translations": {
+      "ru": "давно, много времени назад"
+    },
+    "pinyin": "zǎoyǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2149,
+    "simplified": "造",
+    "translations": {
+      "ru": "делать, создавать, производить; выдумывать, фабриковать"
+    },
+    "pinyin": "zào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2150,
+    "simplified": "造成",
+    "translations": {
+      "ru": "сделать, создать, образовать, сфабриковать; вызвать, обусловить"
+    },
+    "pinyin": "zàochéng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2151,
+    "simplified": "责任",
+    "translations": {
+      "ru": "ответственность; обязанность; долг"
+    },
+    "pinyin": "zérèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2152,
+    "simplified": "增加",
+    "translations": {
+      "ru": "увеличить(ся); повысить(ся); возрасти"
+    },
+    "pinyin": "zēngjiā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2153,
+    "simplified": "增长",
+    "translations": {
+      "ru": "расти, увеличиваться; рост, увеличение"
+    },
+    "pinyin": "zēngzhǎng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2154,
+    "simplified": "展开",
+    "translations": {
+      "ru": "раскрыть; (прям., перен.) развернуть"
+    },
+    "pinyin": "zhǎnkāi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2155,
+    "simplified": "张",
+    "translations": {
+      "ru": "счетное слово для объектов с плоской поверхностью: стол, кровать, лист; расстилать"
+    },
+    "pinyin": "zhāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2156,
+    "simplified": "照",
+    "translations": {
+      "ru": "освещать; светить; отражаться (напр., в воде); фотографировать; снимать"
+    },
+    "pinyin": "zhào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2157,
+    "simplified": "者（志愿者）",
+    "translations": {
+      "ru": "суффикс существительных, обозначающих лиц, принадлежащих к той или иной профессии или категории лиц"
+    },
+    "pinyin": "zhě (zhìyuànzhě)",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2158,
+    "simplified": "真实",
+    "translations": {
+      "ru": "истинный; подлинный; настоящий; действительный"
+    },
+    "pinyin": "zhēnshí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2159,
+    "simplified": "争",
+    "translations": {
+      "ru": "бороться за, оспаривать; сражаться, бороться; ссориться, спорить"
+    },
+    "pinyin": "zhēng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2160,
+    "simplified": "争取",
+    "translations": {
+      "ru": "бороться за; добиваться; завоевать"
+    },
+    "pinyin": "zhēngqǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2161,
+    "simplified": "整",
+    "translations": {
+      "ru": "целый, полный; (о числе, времени) целый, точный; аккуратный, в порядке; приводить в порядок; чинить; делать; (разг.) мучить, заставлять страдать"
+    },
+    "pinyin": "zhěng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2162,
+    "simplified": "整个",
+    "translations": {
+      "ru": "целиком; весь; целый; в целом"
+    },
+    "pinyin": "zhěnggè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2163,
+    "simplified": "整理",
+    "translations": {
+      "ru": "привести в порядок; навести порядок; упорядочить"
+    },
+    "pinyin": "zhěnglǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2164,
+    "simplified": "整齐",
+    "translations": {
+      "ru": "правильный; регулярный; мерный; размеренный, ритмичный; единообразный; симметричный; ровный"
+    },
+    "pinyin": "zhěngqí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2165,
+    "simplified": "整体",
+    "translations": {
+      "ru": "целое, неделимое; монолит; цельный, целостный, монолитный; всесторонний, суммарный; весь; в целом"
+    },
+    "pinyin": "zhěngtǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2166,
+    "simplified": "整天",
+    "translations": {
+      "ru": "весь день напролёт; целыми днями"
+    },
+    "pinyin": "zhěngtiān",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2167,
+    "simplified": "整整",
+    "translations": {
+      "ru": "полностью, целиком"
+    },
+    "pinyin": "zhěngzhěng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2168,
+    "simplified": "正",
+    "translations": {
+      "ru": "(о цвете и вкусе) чистый; прямой; честный; допустимый, законный; основной, главный; (о форме) правильный; (матем. и физ.) положительный"
+    },
+    "pinyin": "zhèng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2169,
+    "simplified": "正式",
+    "translations": {
+      "ru": "официальный; официально"
+    },
+    "pinyin": "zhèngshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2170,
+    "simplified": "证",
+    "translations": {
+      "ru": "сертификат, свидетельство"
+    },
+    "pinyin": "zhèng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2171,
+    "simplified": "证件",
+    "translations": {
+      "ru": "доказательство, удостоверение; справка; диплом; документ"
+    },
+    "pinyin": "zhèngjiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2172,
+    "simplified": "证据",
+    "translations": {
+      "ru": "обосновывать, доказывать; основание, доказательство, подтверждение, улика, свидетельство"
+    },
+    "pinyin": "zhèngjù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2173,
+    "simplified": "证明",
+    "translations": {
+      "ru": "удостоверять; свидетельствовать; подтверждать; доказывать, доказательство"
+    },
+    "pinyin": "zhèngmíng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2174,
+    "simplified": "支",
+    "translations": {
+      "ru": "счетное слово для карандашей; счетное слово для песен, мелодий и т.д."
+    },
+    "pinyin": "zhī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2175,
+    "simplified": "支持",
+    "translations": {
+      "ru": "поддерживать; поддержка; держаться"
+    },
+    "pinyin": "zhīchí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2176,
+    "simplified": "支付",
+    "translations": {
+      "ru": "платить, уплачивать, выплачивать"
+    },
+    "pinyin": "zhīfù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2177,
+    "simplified": "只",
+    "translations": {
+      "ru": "штука, единица; счётное слово для: обычно парных предметов; птиц; животных; лодок, судов; предметов домашней утвари (обычно: тары)"
+    },
+    "pinyin": "zhī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2178,
+    "simplified": "直",
+    "translations": {
+      "ru": "прямой; прямо; вертикальный; распрямлять; выпрямлять; прямой; откровенный; непрерывно; всё время; прямо-таки; прямо"
+    },
+    "pinyin": "zhí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2179,
+    "simplified": "直播",
+    "translations": {
+      "ru": "прямой эфир, прямая передача, прямая трансляция, стрим"
+    },
+    "pinyin": "zhíbō",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2180,
+    "simplified": "直到",
+    "translations": {
+      "ru": "прибыть прямо в …; непосредственно до… (какого-то места); (вплоть) до… (какого-то времени); только когда…, пока не… прямо"
+    },
+    "pinyin": "zhídào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2181,
+    "simplified": "值",
+    "translations": {
+      "ru": "стоимость, ценность; стоящий; стоить, заслуживать; случаться; дежурить"
+    },
+    "pinyin": "zhí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2182,
+    "simplified": "值得",
+    "translations": {
+      "ru": "стоить, заслуживать, быть достойным (чего- либо)"
+    },
+    "pinyin": "zhíde",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2183,
+    "simplified": "职工",
+    "translations": {
+      "ru": "работник, сотрудник, персонал"
+    },
+    "pinyin": "zhígōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2184,
+    "simplified": "职业",
+    "translations": {
+      "ru": "занятие; дело, ремесло; профессия; производство; род деятельности, профессиональный"
+    },
+    "pinyin": "zhíyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2185,
+    "simplified": "只好",
+    "translations": {
+      "ru": "только и мочь, что…, быть вынужденным; приходится, остаётся лишь"
+    },
+    "pinyin": "zhǐhǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2186,
+    "simplified": "只是",
+    "translations": {
+      "ru": "всего лишь, просто; однако, но"
+    },
+    "pinyin": "zhǐshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2187,
+    "simplified": "只有",
+    "translations": {
+      "ru": "быть вынужденным, приходится; только"
+    },
+    "pinyin": "zhǐyǒu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2188,
+    "simplified": "指",
+    "translations": {
+      "ru": "палец; показывать; указывать; иметь в виду"
+    },
+    "pinyin": "zhǐ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2189,
+    "simplified": "指出",
+    "translations": {
+      "ru": "указывать, отмечать"
+    },
+    "pinyin": "zhǐchū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2190,
+    "simplified": "指导",
+    "translations": {
+      "ru": "вести; руководить; руководящий"
+    },
+    "pinyin": "zhǐdǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2191,
+    "simplified": "至今",
+    "translations": {
+      "ru": "до настоящего времени, до сих пор, по сей день, доныне; всё ещё, пока"
+    },
+    "pinyin": "zhìjīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2192,
+    "simplified": "至少",
+    "translations": {
+      "ru": "самое малое; минимум; по крайней мере"
+    },
+    "pinyin": "zhìshǎo",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2193,
+    "simplified": "志愿",
+    "translations": {
+      "ru": "стремление, желание; вызываться добровольцем"
+    },
+    "pinyin": "zhìyuàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2194,
+    "simplified": "志愿者",
+    "translations": {
+      "ru": "волонтёр, доброволец"
+    },
+    "pinyin": "zhìyuànzhě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2195,
+    "simplified": "制定",
+    "translations": {
+      "ru": "устанавливать, принимать, составлять; издавать (напр. закон, постановление), учреждать"
+    },
+    "pinyin": "zhìdìng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2196,
+    "simplified": "制度",
+    "translations": {
+      "ru": "режим, строй, система"
+    },
+    "pinyin": "zhìdù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2197,
+    "simplified": "制造",
+    "translations": {
+      "ru": "изготавливать; производить; фабриковать; создавать"
+    },
+    "pinyin": "zhìzào",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2198,
+    "simplified": "制作",
+    "translations": {
+      "ru": "творить, создавать; вырабатывать; производить"
+    },
+    "pinyin": "zhìzuò",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2199,
+    "simplified": "中部",
+    "translations": {
+      "ru": "центральная часть, центр, средняя часть"
+    },
+    "pinyin": "zhōngbù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2200,
+    "simplified": "中华民族",
+    "translations": {
+      "ru": "китайская нация"
+    },
+    "pinyin": "Zhōnghuá Mínzú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2201,
+    "simplified": "终于",
+    "translations": {
+      "ru": "в конце концов, наконец"
+    },
+    "pinyin": "zhōngyú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2202,
+    "simplified": "钟",
+    "translations": {
+      "ru": "часы; колокол; время (для указания часов и минут)"
+    },
+    "pinyin": "zhōng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2203,
+    "simplified": "种",
+    "translations": {
+      "ru": "семя; семена; порода, раса; род, вид"
+    },
+    "pinyin": "zhǒng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2204,
+    "simplified": "种子",
+    "translations": {
+      "ru": "семена; семенной"
+    },
+    "pinyin": "zhǒngzi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2205,
+    "simplified": "重大",
+    "translations": {
+      "ru": "важный; серьёзный (напр., вопрос)"
+    },
+    "pinyin": "zhòngdà",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2206,
+    "simplified": "周围",
+    "translations": {
+      "ru": "круг, окружность; периферия; (мат.) периметр; вокруг, кругом"
+    },
+    "pinyin": "zhōuwéi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2207,
+    "simplified": "猪",
+    "translations": {
+      "ru": "свинья"
+    },
+    "pinyin": "zhū",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2208,
+    "simplified": "主持",
+    "translations": {
+      "ru": "руководить; вести (напр., собрание); председательствовать; отстаивать; стоять за что-либо"
+    },
+    "pinyin": "zhǔchí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2209,
+    "simplified": "主动",
+    "translations": {
+      "ru": "по собственной инициативе; проявлять инициативу; активный; инициативный; инициатива"
+    },
+    "pinyin": "zhǔdòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2210,
+    "simplified": "主任",
+    "translations": {
+      "ru": "управляющий, заведующий, начальник, главный, руководитель, директор"
+    },
+    "pinyin": "zhǔrèn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2211,
+    "simplified": "主意",
+    "translations": {
+      "ru": "мнение; идея; способ; идея"
+    },
+    "pinyin": "zhǔyi",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2212,
+    "simplified": "主张",
+    "translations": {
+      "ru": "стоять (ратовать) за что-либо; точка зрения; позиция; мнение"
+    },
+    "pinyin": "zhǔzhāng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2213,
+    "simplified": "注意",
+    "translations": {
+      "ru": "обращать внимание, замечать; принимать во внимание"
+    },
+    "pinyin": "zhùyì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2214,
+    "simplified": "祝",
+    "translations": {
+      "ru": "желать; молиться"
+    },
+    "pinyin": "zhù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2215,
+    "simplified": "抓",
+    "translations": {
+      "ru": "взять (рукой); схватить; схватить; поймать (напр., преступника); взяться (за какое-либо дело)"
+    },
+    "pinyin": "zhuā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2216,
+    "simplified": "抓住",
+    "translations": {
+      "ru": "схватиться (уцепиться) за кого-либо/что-либо; поймать; схватить (напр., преступника); как следует взяться за (какое-либо дело)"
+    },
+    "pinyin": "zhuāzhù",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2217,
+    "simplified": "专家",
+    "translations": {
+      "ru": "специалист; эксперт"
+    },
+    "pinyin": "zhuānjiā",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2218,
+    "simplified": "专门",
+    "translations": {
+      "ru": "специальный; отраслевой; специальность, специально"
+    },
+    "pinyin": "zhuānmén",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2219,
+    "simplified": "专题",
+    "translations": {
+      "ru": "специальная (отдельная) тема; специальный"
+    },
+    "pinyin": "zhuāntí",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2220,
+    "simplified": "专业",
+    "translations": {
+      "ru": "профессия; специальность, профессиональный; специальный; штатный"
+    },
+    "pinyin": "zhuānyè",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2221,
+    "simplified": "转",
+    "translations": {
+      "ru": "повернуть(ся); изменить направление; поворот"
+    },
+    "pinyin": "zhuǎn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2222,
+    "simplified": "转变",
+    "translations": {
+      "ru": "изменение, изменять, измениться; перелом, сдвиг, поворот, переход"
+    },
+    "pinyin": "zhuǎnbiàn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2223,
+    "simplified": "状况",
+    "translations": {
+      "ru": "обстоятельства; обстановка; положение"
+    },
+    "pinyin": "zhuàngkuàng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2224,
+    "simplified": "状态",
+    "translations": {
+      "ru": "вид; состояние; положение; (техн.) режим"
+    },
+    "pinyin": "zhuàngtài",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2225,
+    "simplified": "追",
+    "translations": {
+      "ru": "гнаться; преследовать; догонять; стремиться к чему-либо; гнаться за чем-либо; выяснить; расследовать"
+    },
+    "pinyin": "zhuī",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2226,
+    "simplified": "准",
+    "translations": {
+      "ru": "точный, правильный; несомненный, обязательный; точно, обязательно; точность"
+    },
+    "pinyin": "zhǔn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2227,
+    "simplified": "资格",
+    "translations": {
+      "ru": "квалификация; стаж; положение; компетенция"
+    },
+    "pinyin": "zīgé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2228,
+    "simplified": "资金",
+    "translations": {
+      "ru": "средства, фонды, фондовые средства, капитал; фондовый"
+    },
+    "pinyin": "zījīn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2229,
+    "simplified": "子女",
+    "translations": {
+      "ru": "дети, сын и дочь"
+    },
+    "pinyin": "zǐnǚ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2230,
+    "simplified": "自从",
+    "translations": {
+      "ru": "с тех пор, как; начиная с"
+    },
+    "pinyin": "zìcóng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2231,
+    "simplified": "自动",
+    "translations": {
+      "ru": "самодвижущийся; автоматический; по собственной инициативе; добровольно"
+    },
+    "pinyin": "zìdòng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2232,
+    "simplified": "自觉",
+    "translations": {
+      "ru": "самочувствие; самосознание; сознательность"
+    },
+    "pinyin": "zìjué",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2233,
+    "simplified": "自然",
+    "translations": {
+      "ru": "природа; природный; естественный; естественно; конечно; само собой разумеется"
+    },
+    "pinyin": "zìrán",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2234,
+    "simplified": "自身",
+    "translations": {
+      "ru": "сам, лично, самолично; свой, собственный"
+    },
+    "pinyin": "zìshēn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2235,
+    "simplified": "自主",
+    "translations": {
+      "ru": "самостоятельность, независимость; самостоятельный, независимый"
+    },
+    "pinyin": "zìzhǔ",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2236,
+    "simplified": "总",
+    "translations": {
+      "ru": "суммировать; общий, суммарный; главный, генеральный; всегда; в конце концов, рано или поздно, все равно"
+    },
+    "pinyin": "zǒng",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2237,
+    "simplified": "总结",
+    "translations": {
+      "ru": "общий итог, резюме, выводы, заключение; отчёт; обобщать"
+    },
+    "pinyin": "zǒngjié",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2238,
+    "simplified": "总是",
+    "translations": {
+      "ru": "постоянно, все время, всегда"
+    },
+    "pinyin": "zǒngshì",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2239,
+    "simplified": "足够",
+    "translations": {
+      "ru": "достаточный"
+    },
+    "pinyin": "zúgòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2240,
+    "simplified": "足球",
+    "translations": {
+      "ru": "футбол"
+    },
+    "pinyin": "zúqiú",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2241,
+    "simplified": "组合",
+    "translations": {
+      "ru": "составить; объединить; объединение; ассоциация"
+    },
+    "pinyin": "zǔhé",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2242,
+    "simplified": "左右",
+    "translations": {
+      "ru": "левая и правая сторона; справа и слева; приблизительно; около (после числительного)"
+    },
+    "pinyin": "zuǒyòu",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2243,
+    "simplified": "作品",
+    "translations": {
+      "ru": "произведение; труд; сочинения"
+    },
+    "pinyin": "zuòpǐn",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2244,
+    "simplified": "作者",
+    "translations": {
+      "ru": "автор; авторский"
+    },
+    "pinyin": "zuòzhě",
+    "pos": [],
+    "level": 3
+  },
+  {
+    "id": 2245,
+    "simplified": "做客",
+    "translations": {
+      "ru": "быть гостем, посещать"
+    },
+    "pinyin": "zuòkè",
+    "pos": [],
+    "level": 3
+  }
+]

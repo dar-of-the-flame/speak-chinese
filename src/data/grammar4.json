@@ -1,0 +1,601 @@
+[
+  {
+    "id": "g4_1",
+    "pattern": "不仅...而且...",
+    "explanation": "Не только... но и... (усиление).",
+    "examples": [
+      {
+        "chinese": "他不仅会说英语，还会说法语。",
+        "pinyin": "Tā bùjǐn huì shuō Yīngyǔ, érqiě huì shuō Fǎyǔ.",
+        "translation": "Он не только говорит по-английски, но и говорит по-французски."
+      },
+      {
+        "chinese": "这里不仅风景美，而且空气好。",
+        "pinyin": "Zhèlǐ bùjǐn fēngjǐng měi, érqiě kōngqì hǎo.",
+        "translation": "Здесь не только красивый пейзаж, но и хороший воздух."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_2",
+    "pattern": "无论...都/也...",
+    "explanation": "Независимо от... всё равно...",
+    "examples": [
+      {
+        "chinese": "无论天气怎么样，我们都去。",
+        "pinyin": "Wúlùn tiānqì zěnmeyàng, wǒmen dōu qù.",
+        "translation": "Независимо от погоды, мы всё равно пойдём."
+      },
+      {
+        "chinese": "无论多难，他也要坚持。",
+        "pinyin": "Wúlùn duō nán, tā yě yào jiānchí.",
+        "translation": "Как бы трудно ни было, он будет настаивать."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_3",
+    "pattern": "即使...也...",
+    "explanation": "Даже если... то...",
+    "examples": [
+      {
+        "chinese": "即使下雨，我也要去。",
+        "pinyin": "Jíshǐ xiàyǔ, wǒ yě yào qù.",
+        "translation": "Даже если пойдёт дождь, я всё равно пойду."
+      },
+      {
+        "chinese": "即使他不来，我们也开始吧。",
+        "pinyin": "Jíshǐ tā bù lái, wǒmen yě kāishǐ ba.",
+        "translation": "Даже если он не придёт, мы начнём."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_4",
+    "pattern": "既然...就...",
+    "explanation": "Раз уж... то...",
+    "examples": [
+      {
+        "chinese": "既然你来了，就坐下吧。",
+        "pinyin": "Jìrán nǐ lái le, jiù zuòxià ba.",
+        "translation": "Раз уж ты пришёл, садись."
+      },
+      {
+        "chinese": "既然大家都同意，就这么定了。",
+        "pinyin": "Jìrán dàjiā dōu tóngyì, jiù zhème dìng le.",
+        "translation": "Раз все согласны, так и решено."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_5",
+    "pattern": "只要...就...",
+    "explanation": "Если только..., то... (достаточное условие).",
+    "examples": [
+      {
+        "chinese": "只要努力，就能成功。",
+        "pinyin": "Zhǐyào nǔlì, jiù néng chénggōng.",
+        "translation": "Если только приложить усилия, то можно добиться успеха."
+      },
+      {
+        "chinese": "只要不下雨，我们就出发。",
+        "pinyin": "Zhǐyào bù xiàyǔ, wǒmen jiù chūfā.",
+        "translation": "Если не будет дождя, мы отправимся."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_6",
+    "pattern": "只有...才...",
+    "explanation": "Только при условии..., тогда... (необходимое условие).",
+    "examples": [
+      {
+        "chinese": "只有努力，才能成功。",
+        "pinyin": "Zhǐyǒu nǔlì, cái néng chénggōng.",
+        "translation": "Только приложив усилия, можно добиться успеха."
+      },
+      {
+        "chinese": "只有你亲自去，才知道情况。",
+        "pinyin": "Zhǐyǒu nǐ qīnzì qù, cái zhīdào qíngkuàng.",
+        "translation": "Только если ты сам пойдёшь, узнаешь ситуацию."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_7",
+    "pattern": "一...就... (сложные случаи с разными субъектами)",
+    "explanation": "Как только..., так сразу...",
+    "examples": [
+      {
+        "chinese": "他一到家就给我打电话。",
+        "pinyin": "Tā yī dào jiā jiù gěi wǒ dǎ diànhuà.",
+        "translation": "Как только он пришёл домой, сразу позвонил мне."
+      },
+      {
+        "chinese": "我一紧张就说不出话。",
+        "pinyin": "Wǒ yī jǐnzhāng jiù shuō bù chū huà.",
+        "translation": "Как только я нервничаю, не могу говорить."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_8",
+    "pattern": "越...越... (с глаголами и прилагательными)",
+    "explanation": "Чем..., тем...",
+    "examples": [
+      {
+        "chinese": "雨越下越大。",
+        "pinyin": "Yǔ yuè xià yuè dà.",
+        "translation": "Дождь всё сильнее."
+      },
+      {
+        "chinese": "我越学越感兴趣。",
+        "pinyin": "Wǒ yuè xué yuè gǎn xìngqù.",
+        "translation": "Чем больше учу, тем интереснее."
+      },
+      {
+        "chinese": "越解释越糊涂。",
+        "pinyin": "Yuè jiěshì yuè hútu.",
+        "translation": "Чем больше объясняешь, тем запутаннее."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_9",
+    "pattern": "连...都/也... (акцент на крайности)",
+    "explanation": "Даже...",
+    "examples": [
+      {
+        "chinese": "他连饭都没吃就走了。",
+        "pinyin": "Tā lián fàn dōu méi chī jiù zǒu le.",
+        "translation": "Он даже не поел и ушёл."
+      },
+      {
+        "chinese": "这个问题连老师都不会。",
+        "pinyin": "Zhège wèntí lián lǎoshī dōu bù huì.",
+        "translation": "Эту задачу даже учитель не умеет решать."
+      },
+      {
+        "chinese": "我连一分钟都不想等。",
+        "pinyin": "Wǒ lián yī fēnzhōng dōu bù xiǎng děng.",
+        "translation": "Я даже минуты не хочу ждать."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_10",
+    "pattern": "除了...以外，都...",
+    "explanation": "Кроме..., все... (исключение).",
+    "examples": [
+      {
+        "chinese": "除了他，我们都去了。",
+        "pinyin": "Chúle tā, wǒmen dōu qù le.",
+        "translation": "Кроме него, мы все пошли."
+      },
+      {
+        "chinese": "除了星期天，我都上班。",
+        "pinyin": "Chúle xīngqītiān, wǒ dōu shàngbān.",
+        "translation": "Кроме воскресенья, я работаю каждый день."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_11",
+    "pattern": "除了...以外，还/也...",
+    "explanation": "Кроме..., ещё и... (включение).",
+    "examples": [
+      {
+        "chinese": "他除了汉语，还会英语。",
+        "pinyin": "Tā chúle Hànyǔ, hái huì Yīngyǔ.",
+        "translation": "Кроме китайского, он ещё знает английский."
+      },
+      {
+        "chinese": "我除了喜欢音乐，也喜欢运动。",
+        "pinyin": "Wǒ chúle xǐhuān yīnyuè, yě xǐhuān yùndòng.",
+        "translation": "Кроме музыки, я ещё люблю спорт."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_12",
+    "pattern": "是...的 (выделение времени, места, способа)",
+    "explanation": "Именно... (акцент на обстоятельстве).",
+    "examples": [
+      {
+        "chinese": "我是昨天来的。",
+        "pinyin": "Wǒ shì zuótiān lái de.",
+        "translation": "Я приехал именно вчера."
+      },
+      {
+        "chinese": "他是坐飞机去的。",
+        "pinyin": "Tā shì zuò fēijī qù de.",
+        "translation": "Он именно полетел на самолёте."
+      },
+      {
+        "chinese": "这本书是在网上买的。",
+        "pinyin": "Zhè běn shū shì zài wǎngshàng mǎi de.",
+        "translation": "Эта книга была куплена именно в интернете."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_13",
+    "pattern": "把字句 (сложные случаи с результативными морфемами)",
+    "explanation": "Конструкция 把 с результативными дополнениями.",
+    "examples": [
+      {
+        "chinese": "我把作业做完了。",
+        "pinyin": "Wǒ bǎ zuòyè zuò wán le.",
+        "translation": "Я закончил делать домашнее задание."
+      },
+      {
+        "chinese": "他把手机放在桌子上。",
+        "pinyin": "Tā bǎ shǒujī fàng zài zhuōzi shàng.",
+        "translation": "Он положил телефон на стол."
+      },
+      {
+        "chinese": "请把窗户打开。",
+        "pinyin": "Qǐng bǎ chuānghu dǎkāi.",
+        "translation": "Пожалуйста, открой окно."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_14",
+    "pattern": "被字句 (пассив)",
+    "explanation": "Пассивный залог (более сложные случаи).",
+    "examples": [
+      {
+        "chinese": "我的钱包被偷了。",
+        "pinyin": "Wǒ de qiánbāo bèi tōu le.",
+        "translation": "Мой кошелёк украли."
+      },
+      {
+        "chinese": "他被人打了。",
+        "pinyin": "Tā bèi rén dǎ le.",
+        "translation": "Его кто-то побил."
+      },
+      {
+        "chinese": "玻璃被风吹碎了。",
+        "pinyin": "Bōli bèi fēng chuī suì le.",
+        "translation": "Стекло разбило ветром."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_15",
+    "pattern": "让/叫/给 + 人 + V (каузатив)",
+    "explanation": "Заставлять/позволять кому-то сделать что-то.",
+    "examples": [
+      {
+        "chinese": "妈妈让我学习。",
+        "pinyin": "Māma ràng wǒ xuéxí.",
+        "translation": "Мама заставляет меня учиться."
+      },
+      {
+        "chinese": "他叫我去帮忙。",
+        "pinyin": "Tā jiào wǒ qù bāngmáng.",
+        "translation": "Он попросил меня помочь."
+      },
+      {
+        "chinese": "老师给每个学生发了一本书。",
+        "pinyin": "Lǎoshī gěi měi gè xuésheng fā le yī běn shū.",
+        "translation": "Учитель раздал каждому ученику по книге."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_16",
+    "pattern": "V + 着 + V + 着 + 就...",
+    "explanation": "Делая что-то, вдруг...",
+    "examples": [
+      {
+        "chinese": "他看着看着就睡着了。",
+        "pinyin": "Tā kànzhe kànzhe jiù shuìzháo le.",
+        "translation": "Он смотрел-смотрел и заснул."
+      },
+      {
+        "chinese": "走着走着就迷路了。",
+        "pinyin": "Zǒuzhe zǒuzhe jiù mílù le.",
+        "translation": "Шёл-шёл и заблудился."
+      },
+      {
+        "chinese": "说着说着就哭了。",
+        "pinyin": "Shuōzhe shuōzhe jiù kū le.",
+        "translation": "Говорил-говорил и расплакался."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_17",
+    "pattern": "V + 下去 (продолжение действия)",
+    "explanation": "Продолжать делать что-то дальше.",
+    "examples": [
+      {
+        "chinese": "坚持下去！",
+        "pinyin": "Jiānchí xiàqù!",
+        "translation": "Продолжай упорствовать!"
+      },
+      {
+        "chinese": "再这样说下去，他会生气。",
+        "pinyin": "Zài zhème shuō xiàqù, tā huì shēngqì.",
+        "translation": "Если продолжать так говорить, он рассердится."
+      },
+      {
+        "chinese": "请你继续说下去。",
+        "pinyin": "Qǐng nǐ jìxù shuō xiàqù.",
+        "translation": "Пожалуйста, продолжай говорить."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_18",
+    "pattern": "V + 起来 (начало действия)",
+    "explanation": "Начинать делать что-то.",
+    "examples": [
+      {
+        "chinese": "他突然哭起来。",
+        "pinyin": "Tā túrán kū qǐlái.",
+        "translation": "Он вдруг заплакал."
+      },
+      {
+        "chinese": "天气暖和起来。",
+        "pinyin": "Tiānqì nuǎnhuo qǐlái.",
+        "translation": "Погода становится теплее."
+      },
+      {
+        "chinese": "大家一起唱起来。",
+        "pinyin": "Dàjiā yīqǐ chàng qǐlái.",
+        "translation": "Все вместе запели."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_19",
+    "pattern": "V + 出来 (результат, обнаружение)",
+    "explanation": "Сделать так, что стало видно/понятно.",
+    "examples": [
+      {
+        "chinese": "我听出来是你的声音。",
+        "pinyin": "Wǒ tīng chūlái shì nǐ de shēngyīn.",
+        "translation": "Я узнал твой голос."
+      },
+      {
+        "chinese": "这个问题我答不出来。",
+        "pinyin": "Zhège wèntí wǒ dá bù chūlái.",
+        "translation": "Я не могу ответить на этот вопрос."
+      },
+      {
+        "chinese": "你能看出来区别吗？",
+        "pinyin": "Nǐ néng kàn chūlái qūbié ma?",
+        "translation": "Ты можешь заметить разницу?"
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_20",
+    "pattern": "V + 下来 (закрепление, фиксация)",
+    "explanation": "Зафиксировать, записать, остановиться.",
+    "examples": [
+      {
+        "chinese": "把地址写下来。",
+        "pinyin": "Bǎ dìzhǐ xiě xiàlái.",
+        "translation": "Запиши адрес."
+      },
+      {
+        "chinese": "车停下来了。",
+        "pinyin": "Chē tíng xiàlái le.",
+        "translation": "Машина остановилась."
+      },
+      {
+        "chinese": "温度慢慢降下来。",
+        "pinyin": "Wēndù mànmàn jiàng xiàlái.",
+        "translation": "Температура постепенно падает."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_21",
+    "pattern": "V + 过 (опыт в прошлом)",
+    "explanation": "Опыт совершения действия в прошлом.",
+    "examples": [
+      {
+        "chinese": "我去过北京。",
+        "pinyin": "Wǒ qùguò Běijīng.",
+        "translation": "Я бывал в Пекине."
+      },
+      {
+        "chinese": "我没吃过这个菜。",
+        "pinyin": "Wǒ méi chīguò zhège cài.",
+        "translation": "Я не пробовал это блюдо."
+      },
+      {
+        "chinese": "你看过那部电影吗？",
+        "pinyin": "Nǐ kànguò nà bù diànyǐng ma?",
+        "translation": "Ты смотрел тот фильм?"
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_22",
+    "pattern": "V + 了 (изменение состояния)",
+    "explanation": "Уже сделано, изменение ситуации.",
+    "examples": [
+      {
+        "chinese": "我吃饭了。",
+        "pinyin": "Wǒ chīfàn le.",
+        "translation": "Я поел."
+      },
+      {
+        "chinese": "天黑了。",
+        "pinyin": "Tiān hēi le.",
+        "translation": "Стемнело."
+      },
+      {
+        "chinese": "他生病了。",
+        "pinyin": "Tā shēngbìng le.",
+        "translation": "Он заболел."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_23",
+    "pattern": "快要/就要/快 + V + 了",
+    "explanation": "Скоро произойдёт.",
+    "examples": [
+      {
+        "chinese": "火车快要开了。",
+        "pinyin": "Huǒchē kuàiyào kāi le.",
+        "translation": "Поезд скоро отправится."
+      },
+      {
+        "chinese": "就要下雨了。",
+        "pinyin": "Jiù yào xiàyǔ le.",
+        "translation": "Скоро пойдёт дождь."
+      },
+      {
+        "chinese": "快放假了。",
+        "pinyin": "Kuài fàngjià le.",
+        "translation": "Скоро каникулы."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_24",
+    "pattern": "在/正在 + V + 呢",
+    "explanation": "Действие в процессе.",
+    "examples": [
+      {
+        "chinese": "我在看电视呢。",
+        "pinyin": "Wǒ zài kàn diànshì ne.",
+        "translation": "Я смотрю телевизор."
+      },
+      {
+        "chinese": "他正在睡觉。",
+        "pinyin": "Tā zhèngzài shuìjiào.",
+        "translation": "Он спит."
+      },
+      {
+        "chinese": "妈妈在做饭呢。",
+        "pinyin": "Māma zài zuòfàn ne.",
+        "translation": "Мама готовит."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_25",
+    "pattern": "V + 着 + (O) + 呢",
+    "explanation": "Длительное состояние.",
+    "examples": [
+      {
+        "chinese": "门开着呢。",
+        "pinyin": "Mén kāi zhe ne.",
+        "translation": "Дверь открыта."
+      },
+      {
+        "chinese": "他穿着红衣服呢。",
+        "pinyin": "Tā chuān zhe hóng yīfu ne.",
+        "translation": "На нём красная одежда."
+      },
+      {
+        "chinese": "窗外下着雨呢。",
+        "pinyin": "Chuāngwài xià zhe yǔ ne.",
+        "translation": "За окном идёт дождь."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_26",
+    "pattern": "对...来说",
+    "explanation": "Для кого-то, с точки зрения.",
+    "examples": [
+      {
+        "chinese": "对我来说，这很重要。",
+        "pinyin": "Duì wǒ lái shuō, zhè hěn zhòngyào.",
+        "translation": "Для меня это важно."
+      },
+      {
+        "chinese": "对学生来说，学习是第一位的。",
+        "pinyin": "Duì xuésheng lái shuō, xuéxí shì dì yī wèi de.",
+        "translation": "Для студентов учёба на первом месте."
+      },
+      {
+        "chinese": "对初学者来说，这本书很合适。",
+        "pinyin": "Duì chūxuézhě lái shuō, zhè běn shū hěn héshì.",
+        "translation": "Для начинающих эта книга очень подходит."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_27",
+    "pattern": "从...出发",
+    "explanation": "Исходить из, отправляться от.",
+    "examples": [
+      {
+        "chinese": "从实际出发。",
+        "pinyin": "Cóng shíjì chūfā.",
+        "translation": "Исходить из реальности."
+      },
+      {
+        "chinese": "我们从北京出发。",
+        "pinyin": "Wǒmen cóng Běijīng chūfā.",
+        "translation": "Мы отправляемся из Пекина."
+      },
+      {
+        "chinese": "从这一点出发，我们继续讨论。",
+        "pinyin": "Cóng zhè yīdiǎn chūfā, wǒmen jìxù tǎolùn.",
+        "translation": "Исходя из этого пункта, продолжим обсуждение."
+      }
+    ],
+    "level": "4"
+  },
+  {
+    "id": "g4_28",
+    "pattern": "根据...",
+    "explanation": "Согласно, на основании.",
+    "examples": [
+      {
+        "chinese": "根据天气预报，明天有雨。",
+        "pinyin": "Gēnjù tiānqì yùbào, míngtiān yǒu yǔ.",
+        "translation": "Согласно прогнозу погоды, завтра дождь."
+      },
+      {
+        "chinese": "根据他的说法，这是真的。",
+        "pinyin": "Gēnjù tā de shuōfǎ, zhè shì zhēn de.",
+        "translation": "По его словам, это правда."
+      },
+      {
+        "chinese": "根据调查，大多数人同意。",
+        "pinyin": "Gēnjù diàochá, dà duōshù rén tóngyì.",
+        "translation": "Согласно опросу, большинство согласно."
+      }
+    ],
+    "level": "4"
+  }
+]
