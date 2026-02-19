@@ -5,6 +5,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [vue()],
+  base: '/speak-chinese/',
   resolve: {
     alias: {
       '@': resolve(__dirname, './src'),
